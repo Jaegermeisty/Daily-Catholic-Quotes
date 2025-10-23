@@ -1,0 +1,4757 @@
+{
+  "quotes": [
+    {
+      "text": "The missionary must be patient and persevering, trusting in God's grace to convert hearts.",
+      "author": "St. Augustine of Canterbury",
+      "id": 0
+    },
+    {
+      "text": "Look then to Jesus, the author and preserver of faith; in Him is all virtue and perfect happiness.",
+      "author": "St. Raymond of Penyafort",
+      "id": 1
+    },
+    {
+      "text": "The Lord does not ask for what is impossible, but for what is possible and what we will to do.",
+      "author": "St. Raymond of Penyafort",
+      "id": 2
+    },
+    {
+      "text": "He who abides in the light does not see the darkness.",
+      "author": "St. Hilary of Poitiers",
+      "id": 3
+    },
+    {
+      "text": "The chief service I owe you, O God, is that all my words and thoughts speak of You.",
+      "author": "St. Hilary of Poitiers",
+      "id": 4
+    },
+    {
+      "text": "God’s Church stands steadfast, founded upon the blood of martyrs.",
+      "author": "St. Fabian",
+      "id": 5
+    },
+    {
+      "text": "We must cling to the faith of the apostles, for in it is our strength and salvation.",
+      "author": "St. Fabian",
+      "id": 6
+    },
+    {
+      "text": "May God deliver you from every disease of the throat and from every other illness.",
+      "author": "Blessing of St. Blaise",
+      "id": 7
+    },
+    {
+      "text": "The good shepherd lays down his life for the sheep.",
+      "author": "Attributed to St. Blaise",
+      "id": 8
+    },
+    {
+      "text": "Let us love and serve the poor, for in them we find Christ Himself.",
+      "author": "St. Jerome Emiliani",
+      "id": 9
+    },
+    {
+      "text": "No one can be truly happy unless he serves others with a generous heart.",
+      "author": "St. Jerome Emiliani",
+      "id": 10
+    },
+    {
+      "text": "I am the Immaculate Conception.",
+      "author": "Our Lady of Lourdes",
+      "id": 11
+    },
+    {
+      "text": "Blessed are those who trust in the Virgin Mary, for she leads souls to her Son.",
+      "author": "St. Bernard of Clairvaux",
+      "id": 12
+    },
+    {
+      "text": "Let us serve Mary with all our hearts, that through her we may serve Christ.",
+      "author": "Seven Holy Founders of the Servite Order",
+      "id": 13
+    },
+    {
+      "text": "In community and prayer, we find strength to live in holiness.",
+      "author": "Seven Holy Founders of the Servite Order",
+      "id": 14
+    },
+    {
+      "text": "Let us flee the snares of the world and cling to the love of God.",
+      "author": "St. Peter Damian",
+      "id": 15
+    },
+    {
+      "text": "A soul devoted to God fears nothing, for God is its refuge and strength.",
+      "author": "St. Peter Damian",
+      "id": 16
+    },
+    {
+      "text": "I would rather die than sin against God.",
+      "author": "St. Casimir",
+      "id": 17
+    },
+    {
+      "text": "He who prays often will always find strength in God.",
+      "author": "St. Casimir",
+      "id": 18
+    },
+    {
+      "text": "Let us love God by serving the sick and the poor with joy.",
+      "author": "St. John of God",
+      "id": 19
+    },
+    {
+      "text": "Whoever loves the poor loves Christ Himself.",
+      "author": "St. John of God",
+      "id": 20
+    },
+    {
+      "text": "Let us serve God with a cheerful heart and love our neighbor in all things.",
+      "author": "St. Frances of Rome",
+      "id": 21
+    },
+    {
+      "text": "He who loves God truly is never idle, for every act of love is prayer.",
+      "author": "St. Frances of Rome",
+      "id": 22
+    },
+    {
+      "text": "Let us seek the things above, not the things of earth.",
+      "author": "St. Cyril of Jerusalem",
+      "id": 23
+    },
+    {
+      "text": "Faith is the foundation of the soul, steadfast and unshakable.",
+      "author": "St. Cyril of Jerusalem",
+      "id": 24
+    },
+    {
+      "text": "Preach the Gospel with courage and charity, for souls depend on our fidelity.",
+      "author": "St. Turibius of Mogrovejo",
+      "id": 25
+    },
+    {
+      "text": "The Church is strengthened when shepherds care for the flock with patience and love.",
+      "author": "St. Turibius of Mogrovejo",
+      "id": 26
+    },
+    {
+      "text": "God alone is sufficient; in Him we find peace and strength.",
+      "author": "St. Francis of Paola",
+      "id": 27
+    },
+    {
+      "text": "Live simply, love deeply, and trust always in God’s providence.",
+      "author": "St. Francis of Paola",
+      "id": 28
+    },
+    {
+      "text": "Do all things with love, and God will bless your work.",
+      "author": "St. Isidore",
+      "id": 29
+    },
+    {
+      "text": "Prayer and labor go hand in hand; serve God faithfully in both.",
+      "author": "St. Isidore",
+      "id": 30
+    },
+    {
+      "text": "Preach the Word of God with courage, for souls depend on your fidelity.",
+      "author": "St. Vincent Ferrer",
+      "id": 31
+    },
+    {
+      "text": "Turn to Christ with all your heart, and you will find salvation and peace.",
+      "author": "St. Vincent Ferrer",
+      "id": 32
+    },
+    {
+      "text": "The Lord is my helper; I will not fear what man shall do to me.",
+      "author": "St. Martin I",
+      "id": 33
+    },
+    {
+      "text": "Truth demands that we stand firm, even when the cost is great.",
+      "author": "St. Martin I",
+      "id": 34
+    },
+    {
+      "text": "I do not seek to understand so that I may believe, but I believe so that I may understand.",
+      "author": "St. Anselm",
+      "id": 35
+    },
+    {
+      "text": "God is that than which nothing greater can be conceived.",
+      "author": "St. Anselm",
+      "id": 36
+    },
+    {
+      "text": "I am a servant of Christ, and in His name I fear no evil.",
+      "author": "St. George",
+      "id": 37
+    },
+    {
+      "text": "True courage comes from faith in God, who strengthens us in every trial.",
+      "author": "St. George",
+      "id": 38
+    },
+    {
+      "text": "Woe to me if I do not preach the Gospel!",
+      "author": "St. Fidelis of Sigmaringen",
+      "id": 39
+    },
+    {
+      "text": "To die for the faith is not suffering but glory.",
+      "author": "St. Fidelis of Sigmaringen",
+      "id": 40
+    },
+    {
+      "text": "In a short time you will be in paradise.",
+      "author": "St. Peter Chanel",
+      "id": 41
+    },
+    {
+      "text": "The blood of martyrs is the seed of the Church.",
+      "author": "Tertullian, on martyrs like St. Peter Chanel",
+      "id": 42
+    },
+    {
+      "text": "Work done for God is never in vain.",
+      "author": "From the tradition of St. Joseph",
+      "id": 43
+    },
+    {
+      "text": "St. Joseph shows us that every honest labor done with love sanctifies the worker.",
+      "author": "Pope St. John Paul II",
+      "id": 44
+    },
+    {
+      "text": "We rejoice to confess Christ before men, for He has redeemed us.",
+      "author": "St.s Nereus and Achilleus",
+      "id": 45
+    },
+    {
+      "text": "The courage to die for Christ is the greatest witness to His truth.",
+      "author": "From the martyrdom of Nereus and Achilleus",
+      "id": 46
+    },
+    {
+      "text": "The shepherd must protect his flock, even when facing persecution.",
+      "author": "St. John I",
+      "id": 47
+    },
+    {
+      "text": "Faith demands courage to stand for truth in the face of tyranny.",
+      "author": "St. John I",
+      "id": 48
+    },
+    {
+      "text": "The name of Jesus is as honey in the mouth, music in the ear, and joy in the heart.",
+      "author": "St. Bernardine of Siena",
+      "id": 49
+    },
+    {
+      "text": "Preach the Gospel always, with great love and simplicity.",
+      "author": "St. Bernardine of Siena",
+      "id": 50
+    },
+    {
+      "text": "I die innocent, and I ask God that my blood serve for the peace of Mexico.",
+      "author": "St. Christopher Magallanes",
+      "id": 51
+    },
+    {
+      "text": "Nothing is impossible for those who pray.",
+      "author": "St. Rita of Cascia",
+      "id": 52
+    },
+    {
+      "text": "Bear your crosses patiently, for they unite you to Christ crucified.",
+      "author": "St. Rita of Cascia",
+      "id": 53
+    },
+    {
+      "text": "It has always been my delight to learn or teach or write.",
+      "author": "St. Bede the Venerable",
+      "id": 54
+    },
+    {
+      "text": "Christ is the Morning Star who brings the light of life to the world.",
+      "author": "St. Bede the Venerable",
+      "id": 55
+    },
+    {
+      "text": "We die gladly for Christ, for He has conquered death itself.",
+      "author": "St.s Marcellinus and Peter",
+      "id": 56
+    },
+    {
+      "text": "The blood of martyrs strengthens the Church and inspires faith in all generations.",
+      "author": "Church tradition",
+      "id": 57
+    },
+    {
+      "text": "In community life, we learn to love God and our neighbor more perfectly.",
+      "author": "St. Norbert",
+      "id": 58
+    },
+    {
+      "text": "Reform begins with ourselves; let us be the change we wish to see in the Church.",
+      "author": "St. Norbert",
+      "id": 59
+    },
+    {
+      "text": "Lord, who can grasp all the wealth of just one of your words?",
+      "author": "St. Ephrem",
+      "id": 60
+    },
+    {
+      "text": "In your light, O Lord, we see light; in your love, we find our joy.",
+      "author": "St. Ephrem",
+      "id": 61
+    },
+    {
+      "text": "In silence and solitude, the soul finds God and knows itself.",
+      "author": "St. Romuald",
+      "id": 62
+    },
+    {
+      "text": "The hermit's life is a life of prayer, penance, and profound union with God.",
+      "author": "St. Romuald",
+      "id": 63
+    },
+    {
+      "text": "The Lord is our true wealth; all earthly riches are nothing compared to Him.",
+      "author": "St. Paulinus of Nola",
+      "id": 64
+    },
+    {
+      "text": "Let us use our possessions to serve the poor and glorify God.",
+      "author": "St. Paulinus of Nola",
+      "id": 65
+    },
+    {
+      "text": "Christ is the true Vine, and we are His branches, drawing life from Him.",
+      "author": "St. Cyril of Alexandria",
+      "id": 66
+    },
+    {
+      "text": "Defend the faith with courage, for error harms souls and obscures the truth.",
+      "author": "St. Cyril of Alexandria",
+      "id": 67
+    },
+    {
+      "text": "Run to the feet of Christ crucified, and there you will find all you need.",
+      "author": "St. Anthony Zaccaria",
+      "id": 68
+    },
+    {
+      "text": "Reform yourself first, then you can help reform the Church.",
+      "author": "St. Anthony Zaccaria",
+      "id": 69
+    },
+    {
+      "text": "We give our lives gladly for the faith of Christ.",
+      "author": "Chinese Martyrs",
+      "id": 70
+    },
+    {
+      "text": "A king must rule with justice and use his power to serve God and his people.",
+      "author": "St. Henry",
+      "id": 71
+    },
+    {
+      "text": "Earthly kingdoms pass away, but the Kingdom of God endures forever.",
+      "author": "St. Henry",
+      "id": 72
+    },
+    {
+      "text": "Who can teach me what is most pleasing to God, that I may do it?",
+      "author": "St. Kateri Tekakwitha",
+      "id": 73
+    },
+    {
+      "text": "I am not my own; I have given myself to Jesus.",
+      "author": "St. Kateri Tekakwitha",
+      "id": 74
+    },
+    {
+      "text": "The Word of God is living and active, sharper than any two-edged sword.",
+      "author": "St. Lawrence of Brindisi",
+      "id": 75
+    },
+    {
+      "text": "Preach with confidence, for Christ gives His ministers the words they need.",
+      "author": "St. Lawrence of Brindisi",
+      "id": 76
+    },
+    {
+      "text": "I want you to be my bride, to show my secrets to, and to live according to my will.",
+      "author": "Christ to St. Bridget",
+      "id": 77
+    },
+    {
+      "text": "The more we meditate on Christ's Passion, the more we will love Him.",
+      "author": "St. Bridget",
+      "id": 78
+    },
+    {
+      "text": "A sermon should be short, sweet, and to the point, like gold refined by fire.",
+      "author": "St. Peter Chrysologus",
+      "id": 79
+    },
+    {
+      "text": "The Gospel must be preached with clarity and love, touching hearts with the truth of Christ.",
+      "author": "St. Peter Chrysologus",
+      "id": 80
+    },
+    {
+      "text": "Stand firm for the truth, even when it means suffering exile or persecution.",
+      "author": "St. Eusebius of Vercelli",
+      "id": 81
+    },
+    {
+      "text": "The Church must never compromise on the faith handed down by the apostles.",
+      "author": "St. Eusebius of Vercelli",
+      "id": 82
+    },
+    {
+      "text": "Mary is the Mother of the Church, and in her we find refuge and comfort.",
+      "author": "Church tradition",
+      "id": 83
+    },
+    {
+      "text": "These holy martyrs faced death with courage, knowing that eternal life awaited them.",
+      "author": "Church tradition on St. Sixtus II and Companions",
+      "id": 84
+    },
+    {
+      "text": "A kingdom without faith is like a body without a soul.",
+      "author": "St. Stephen of Hungary",
+      "id": 85
+    },
+    {
+      "text": "Rule with justice and mercy, and your kingdom will prosper in God's grace.",
+      "author": "St. Stephen of Hungary",
+      "id": 86
+    },
+    {
+      "text": "We must love the Hearts of Jesus and Mary with all our strength.",
+      "author": "St. John Eudes",
+      "id": 87
+    },
+    {
+      "text": "Devotion to the Sacred Heart leads us to perfect union with Christ.",
+      "author": "St. John Eudes",
+      "id": 88
+    },
+    {
+      "text": "Apart from the cross there is no other ladder by which we may get to heaven.",
+      "author": "St. Rose of Lima",
+      "id": 89
+    },
+    {
+      "text": "Our Lord and Savior lifted up His voice and said with incomparable majesty: 'Let all know that grace comes after tribulation.'",
+      "author": "St. Rose of Lima",
+      "id": 90
+    },
+    {
+      "text": "A king who rules with justice honors God and serves his people well.",
+      "author": "St. Louis IX",
+      "id": 91
+    },
+    {
+      "text": "I would rather lose my kingdom than commit one mortal sin.",
+      "author": "St. Louis IX",
+      "id": 92
+    },
+    {
+      "text": "We must speak to them with our hands before we speak to them with our lips.",
+      "author": "St. Peter Claver",
+      "id": 93
+    },
+    {
+      "text": "To use created things well is to use them as God intended, for His glory and our salvation.",
+      "author": "St. Robert Bellarmine",
+      "id": 94
+    },
+    {
+      "text": "The smallest good deed is better than the grandest intention.",
+      "author": "St. Robert Bellarmine",
+      "id": 95
+    },
+    {
+      "text": "The blood of the martyrs cries out to heaven, and God hears their witness.",
+      "author": "Reflection on St. Januarius",
+      "id": 96
+    },
+    {
+      "text": "The grace of martyrdom has been given to us; let us receive it with joy.",
+      "author": "St. Andrew Kim Taegon",
+      "id": 97
+    },
+    {
+      "text": "We heal bodies freely in the name of Christ, for His glory alone.",
+      "author": "St.s Cosmas and Damian",
+      "id": 98
+    },
+    {
+      "text": "These holy physicians cared for the sick without payment, witnessing to God's love.",
+      "author": "Church tradition",
+      "id": 99
+    },
+    {
+      "text": "A Christian prince must rule with justice and defend the faith even unto death.",
+      "author": "St. Wenceslaus",
+      "id": 100
+    },
+    {
+      "text": "Better to die nobly than to live in shame.",
+      "author": "St. Wenceslaus",
+      "id": 101
+    },
+    {
+      "text": "In silence, the soul finds its deepest communion with God.",
+      "author": "St. Bruno",
+      "id": 102
+    },
+    {
+      "text": "O blessed solitude! O sole beatitude!",
+      "author": "Motto of the Carthusians, inspired by St. Bruno",
+      "id": 103
+    },
+    {
+      "text": "The Gospel must be preached even unto death.",
+      "author": "St. Denis",
+      "id": 104
+    },
+    {
+      "text": "The Church is the ark of salvation, welcoming all who seek forgiveness.",
+      "author": "St. Callistus I",
+      "id": 105
+    },
+    {
+      "text": "Mercy and truth must walk together in the Church.",
+      "author": "St. Callistus I",
+      "id": 106
+    },
+    {
+      "text": "Use your riches to serve the poor and build up the Church.",
+      "author": "St. Hedwig",
+      "id": 107
+    },
+    {
+      "text": "Humility and charity are the true marks of nobility.",
+      "author": "St. Hedwig",
+      "id": 108
+    },
+    {
+      "text": "Those who say they love God, but do not serve Him, deceive themselves.",
+      "author": "St. John of Capistrano",
+      "id": 109
+    },
+    {
+      "text": "Preach boldly and defend the faith with courage.",
+      "author": "St. John of Capistrano",
+      "id": 110
+    },
+    {
+      "text": "My sons, work for the good of souls and you will accomplish great things.",
+      "author": "St. Anthony Mary Claret",
+      "id": 111
+    },
+    {
+      "text": "Love made me a missionary.",
+      "author": "St. Anthony Mary Claret",
+      "id": 112
+    },
+    {
+      "text": "Compassion is the basis of all morality.",
+      "author": "St. Martin de Porres",
+      "id": 113
+    },
+    {
+      "text": "If you are looking for miracles, see the poor receive bread and they will work for you.",
+      "author": "St. Martin de Porres",
+      "id": 114
+    },
+    {
+      "text": "The whole of nature is a reflection of the divine wisdom.",
+      "author": "St. Albert the Great",
+      "id": 115
+    },
+    {
+      "text": "All creatures of God have something of God in them.",
+      "author": "St. Albert the Great",
+      "id": 116
+    },
+    {
+      "text": "Christ the King is the model of all earthly rulers.",
+      "author": "St. Margaret of Scotland",
+      "id": 117
+    },
+    {
+      "text": "On this rock I will build my Church.",
+      "author": "Jesus to Peter (Matthew 16:18)",
+      "id": 118
+    },
+    {
+      "text": "Let us fix our eyes on the blood of Christ and understand how precious it is to the Father.",
+      "author": "St. Clement I",
+      "id": 119
+    },
+    {
+      "text": "Through love, all the elect of God have been made perfect.",
+      "author": "St. Clement I",
+      "id": 120
+    },
+    {
+      "text": "Give thanks to the Lord, for He is good; His mercy endures forever.",
+      "author": "Psalm 118:1",
+      "id": 121
+    },
+    {
+      "text": "In all circumstances give thanks, for this is the will of God in Christ Jesus.",
+      "author": "1 Thessalonians 5:18",
+      "id": 122
+    },
+    {
+      "text": "God is a sea of infinite substance.",
+      "author": "St. John Damascene",
+      "id": 123
+    },
+    {
+      "text": "I do not worship matter, but the Creator of matter, who became matter for my sake.",
+      "author": "St. John Damascene",
+      "id": 124
+    },
+    {
+      "text": "The giver of every good and perfect gift has called upon us to imitate His giving.",
+      "author": "Reflection on St. Nicholas",
+      "id": 125
+    },
+    {
+      "text": "Secret generosity honors God and serves the poor with true charity.",
+      "author": "From the life of St. Nicholas",
+      "id": 126
+    },
+    {
+      "text": "The Church is built on the foundation of the apostles and prophets.",
+      "author": "St. Damasus I",
+      "id": 127
+    },
+    {
+      "text": "He who would see the apostolic chair, let him see the chair of Peter.",
+      "author": "St. Damasus I",
+      "id": 128
+    },
+    {
+      "text": "If you have too much to do, with God's help you will find time to do it all.",
+      "author": "St. Peter Canisius",
+      "id": 129
+    },
+    {
+      "text": "Better to illuminate than merely to shine; better to give to others what one has contemplated than merely to contemplate.",
+      "author": "St. Peter Canisius",
+      "id": 130
+    },
+    {
+      "text": "Fight all error, but do it with good humor, patience, kindness, and love.",
+      "author": "St. John of Kanty",
+      "id": 131
+    },
+    {
+      "text": "Temper justice with mercy.",
+      "author": "St. John of Kanty",
+      "id": 132
+    },
+    {
+      "text": "I am ready to die for my Lord, that in my blood the Church may obtain liberty and peace.",
+      "author": "St. Thomas Becket",
+      "id": 133
+    },
+    {
+      "text": "The Church must remain free from worldly power to fulfill her divine mission.",
+      "author": "St. Thomas Becket",
+      "id": 134
+    },
+    {
+      "text": "The peace of Christ is the greatest gift we can offer the world.",
+      "author": "From the pontificate of St. Sylvester I",
+      "id": 135
+    },
+    {
+      "text": "Be still, and know that I am God.",
+      "author": "Psalm 46:10",
+      "id": 136
+    },
+    {
+      "text": "The fear of the Lord is the beginning of wisdom.",
+      "author": "Proverbs 9:10",
+      "id": 137
+    },
+    {
+      "text": "Trust in the Lord with all your heart, and lean not on your own understanding.",
+      "author": "Proverbs 3:5",
+      "id": 138
+    },
+    {
+      "text": "I can do all things through Christ who strengthens me.",
+      "author": "Philippians 4:13",
+      "id": 139
+    },
+    {
+      "text": "For God so loved the world that He gave His only begotten Son.",
+      "author": "John 3:16",
+      "id": 140
+    },
+    {
+      "text": "The Lord is my shepherd; I shall not want.",
+      "author": "Psalm 23:1",
+      "id": 141
+    },
+    {
+      "text": "Ask, and it will be given to you; seek, and you will find.",
+      "author": "Matthew 7:7",
+      "id": 142
+    },
+    {
+      "text": "Love is patient, love is kind. It does not envy, it does not boast.",
+      "author": "1 Corinthians 13:4",
+      "id": 143
+    },
+    {
+      "text": "Do not be anxious about anything, but in everything by prayer present your requests to God.",
+      "author": "Philippians 4:6",
+      "id": 144
+    },
+    {
+      "text": "The light shines in the darkness, and the darkness has not overcome it.",
+      "author": "John 1:5",
+      "id": 145
+    },
+    {
+      "text": "For where your treasure is, there your heart will be also.",
+      "author": "Matthew 6:21",
+      "id": 146
+    },
+    {
+      "text": "If God is for us, who can be against us?",
+      "author": "Romans 8:31",
+      "id": 147
+    },
+    {
+      "text": "The Lord is close to the brokenhearted and saves those who are crushed in spirit.",
+      "author": "Psalm 34:18",
+      "id": 148
+    },
+    {
+      "text": "Faith is the substance of things hoped for, the evidence of things not seen.",
+      "author": "Hebrews 11:1",
+      "id": 149
+    },
+    {
+      "text": "Come to me, all you who are weary and burdened, and I will give you rest.",
+      "author": "Matthew 11:28",
+      "id": 150
+    },
+    {
+      "text": "And we know that in all things God works for the good of those who love Him.",
+      "author": "Romans 8:28",
+      "id": 151
+    },
+    {
+      "text": "Let your light shine before others, that they may see your good deeds.",
+      "author": "Matthew 5:16",
+      "id": 152
+    },
+    {
+      "text": "The tongue has the power of life and death.",
+      "author": "Proverbs 18:21",
+      "id": 153
+    },
+    {
+      "text": "Cast all your anxiety on Him because He cares for you.",
+      "author": "1 Peter 5:7",
+      "id": 154
+    },
+    {
+      "text": "Do not conform to the pattern of this world, but be transformed by the renewing of your mind.",
+      "author": "Romans 12:2",
+      "id": 155
+    },
+    {
+      "text": "The Lord is my light and my salvation—whom shall I fear?",
+      "author": "Psalm 27:1",
+      "id": 156
+    },
+    {
+      "text": "A soft answer turns away wrath, but a harsh word stirs up anger.",
+      "author": "Proverbs 15:1",
+      "id": 157
+    },
+    {
+      "text": "For I know the plans I have for you, plans to prosper you and not to harm you.",
+      "author": "Jeremiah 29:11",
+      "id": 158
+    },
+    {
+      "text": "Be strong and courageous. Do not be afraid; do not be discouraged.",
+      "author": "Joshua 1:9",
+      "id": 159
+    },
+    {
+      "text": "Whatever you do, work at it with all your heart, as working for the Lord.",
+      "author": "Colossians 3:23",
+      "id": 160
+    },
+    {
+      "text": "The Lord gave, and the Lord has taken away; blessed be the name of the Lord.",
+      "author": "Job 1:21",
+      "id": 161
+    },
+    {
+      "text": "He who walks with the wise grows wise, but a companion of fools suffers harm.",
+      "author": "Proverbs 13:20",
+      "id": 162
+    },
+    {
+      "text": "Greater love has no one than this: to lay down one's life for one's friends.",
+      "author": "John 15:13",
+      "id": 163
+    },
+    {
+      "text": "Do not judge, or you too will be judged.",
+      "author": "Matthew 7:1",
+      "id": 164
+    },
+    {
+      "text": "A new command I give you: Love one another as I have loved you.",
+      "author": "John 13:34",
+      "id": 165
+    },
+    {
+      "text": "Pride goes before destruction, a haughty spirit before a fall.",
+      "author": "Proverbs 16:18",
+      "id": 166
+    },
+    {
+      "text": "Blessed are the pure in heart, for they will see God.",
+      "author": "Matthew 5:8",
+      "id": 167
+    },
+    {
+      "text": "This is the day the Lord has made; let us rejoice and be glad in it.",
+      "author": "Psalm 118:24",
+      "id": 168
+    },
+    {
+      "text": "Taste and see that the Lord is good; blessed is the one who takes refuge in Him.",
+      "author": "Psalm 34:8",
+      "id": 169
+    },
+    {
+      "text": "A gentle tongue can break a bone.",
+      "author": "Proverbs 25:15",
+      "id": 170
+    },
+    {
+      "text": "Therefore do not worry about tomorrow, for tomorrow will worry about itself.",
+      "author": "Matthew 6:34",
+      "id": 171
+    },
+    {
+      "text": "The righteous cry out, and the Lord hears them; He delivers them from all their troubles.",
+      "author": "Psalm 34:17",
+      "id": 172
+    },
+    {
+      "text": "Train up a child in the way he should go, and when he is old he will not depart from it.",
+      "author": "Proverbs 22:6",
+      "id": 173
+    },
+    {
+      "text": "For the wages of sin is death, but the gift of God is eternal life.",
+      "author": "Romans 6:23",
+      "id": 174
+    },
+    {
+      "text": "Be kind and compassionate to one another, forgiving each other.",
+      "author": "Ephesians 4:32",
+      "id": 175
+    },
+    {
+      "text": "The Lord is gracious and compassionate, slow to anger and rich in love.",
+      "author": "Psalm 145:8",
+      "id": 176
+    },
+    {
+      "text": "Whoever conceals their sins does not prosper, but the one who confesses them finds mercy.",
+      "author": "Proverbs 28:13",
+      "id": 177
+    },
+    {
+      "text": "Love never fails.",
+      "author": "1 Corinthians 13:8",
+      "id": 178
+    },
+    {
+      "text": "In their hearts humans plan their course, but the Lord establishes their steps.",
+      "author": "Proverbs 16:9",
+      "id": 179
+    },
+    {
+      "text": "Peace I leave with you; my peace I give you.",
+      "author": "John 14:27",
+      "id": 180
+    },
+    {
+      "text": "The name of the Lord is a fortified tower; the righteous run to it and are safe.",
+      "author": "Proverbs 18:10",
+      "id": 181
+    },
+    {
+      "text": "Not by might nor by power, but by my Spirit, says the Lord Almighty.",
+      "author": "Zechariah 4:6",
+      "id": 182
+    },
+    {
+      "text": "Whoever dwells in the shelter of the Most High will rest in the shadow of the Almighty.",
+      "author": "Psalm 91:1",
+      "id": 183
+    },
+    {
+      "text": "He who began a good work in you will carry it on to completion.",
+      "author": "Philippians 1:6",
+      "id": 184
+    },
+    {
+      "text": "Charm is deceptive, and beauty is fleeting; but a woman who fears the Lord is to be praised.",
+      "author": "Proverbs 31:30",
+      "id": 185
+    },
+    {
+      "text": "Whoever finds their life will lose it, and whoever loses their life for my sake will find it.",
+      "author": "Matthew 10:39",
+      "id": 186
+    },
+    {
+      "text": "The Lord your God is with you wherever you go.",
+      "author": "Joshua 1:9",
+      "id": 187
+    },
+    {
+      "text": "Above all else, guard your heart, for everything you do flows from it.",
+      "author": "Proverbs 4:23",
+      "id": 188
+    },
+    {
+      "text": "No temptation has overtaken you except what is common to mankind. God is faithful.",
+      "author": "1 Corinthians 10:13",
+      "id": 189
+    },
+    {
+      "text": "Set your minds on things above, not on earthly things.",
+      "author": "Colossians 3:2",
+      "id": 190
+    },
+    {
+      "text": "The word of God is alive and active. Sharper than any double-edged sword.",
+      "author": "Hebrews 4:12",
+      "id": 191
+    },
+    {
+      "text": "As iron sharpens iron, so one person sharpens another.",
+      "author": "Proverbs 27:17",
+      "id": 192
+    },
+    {
+      "text": "Rejoice always, pray continually, give thanks in all circumstances.",
+      "author": "1 Thessalonians 5:16-18",
+      "id": 193
+    },
+    {
+      "text": "Let all that you do be done in love.",
+      "author": "1 Corinthians 16:14",
+      "id": 194
+    },
+    {
+      "text": "Create in me a pure heart, O God, and renew a steadfast spirit within me.",
+      "author": "Psalm 51:10",
+      "id": 195
+    },
+    {
+      "text": "The Lord will fight for you; you need only to be still.",
+      "author": "Exodus 14:14",
+      "id": 196
+    },
+    {
+      "text": "For the joy of the Lord is your strength.",
+      "author": "Nehemiah 8:10",
+      "id": 197
+    },
+    {
+      "text": "Better is one day in your courts than a thousand elsewhere.",
+      "author": "Psalm 84:10",
+      "id": 198
+    },
+    {
+      "text": "With man this is impossible, but with God all things are possible.",
+      "author": "Matthew 19:26",
+      "id": 199
+    },
+    {
+      "text": "The grass withers and the flowers fall, but the word of our God endures forever.",
+      "author": "Isaiah 40:8",
+      "id": 200
+    },
+    {
+      "text": "Plans fail for lack of counsel, but with many advisers they succeed.",
+      "author": "Proverbs 15:22",
+      "id": 201
+    },
+    {
+      "text": "Let the one who boasts boast in the Lord.",
+      "author": "1 Corinthians 1:31",
+      "id": 202
+    },
+    {
+      "text": "The Lord is my rock, my fortress and my deliverer.",
+      "author": "Psalm 18:2",
+      "id": 203
+    },
+    {
+      "text": "How can a young person stay on the path of purity? By living according to your word.",
+      "author": "Psalm 119:9",
+      "id": 204
+    },
+    {
+      "text": "Everyone who calls on the name of the Lord will be saved.",
+      "author": "Romans 10:13",
+      "id": 205
+    },
+    {
+      "text": "The fear of man lays a snare, but whoever trusts in the Lord is safe.",
+      "author": "Proverbs 29:25",
+      "id": 206
+    },
+    {
+      "text": "If you declare with your mouth, 'Jesus is Lord,' and believe in your heart, you will be saved.",
+      "author": "Romans 10:9",
+      "id": 207
+    },
+    {
+      "text": "Whoever pursues righteousness and love finds life, prosperity and honor.",
+      "author": "Proverbs 21:21",
+      "id": 208
+    },
+    {
+      "text": "And my God will meet all your needs according to the riches of His glory.",
+      "author": "Philippians 4:19",
+      "id": 209
+    },
+    {
+      "text": "Humble yourselves before the Lord, and He will lift you up.",
+      "author": "James 4:10",
+      "id": 210
+    },
+    {
+      "text": "The prayer of a righteous person is powerful and effective.",
+      "author": "James 5:16",
+      "id": 211
+    },
+    {
+      "text": "In quietness and trust is your strength.",
+      "author": "Isaiah 30:15",
+      "id": 212
+    },
+    {
+      "text": "Now faith, hope, and love remain, these three; but the greatest of these is love.",
+      "author": "1 Corinthians 13:13",
+      "id": 213
+    },
+    {
+      "text": "Whoever seeks good finds favor, but evil comes to one who searches for it.",
+      "author": "Proverbs 11:27",
+      "id": 214
+    },
+    {
+      "text": "If we confess our sins, He is faithful and just and will forgive us our sins.",
+      "author": "1 John 1:9",
+      "id": 215
+    },
+    {
+      "text": "Take delight in the Lord, and He will give you the desires of your heart.",
+      "author": "Psalm 37:4",
+      "id": 216
+    },
+    {
+      "text": "The righteous person may have many troubles, but the Lord delivers them from them all.",
+      "author": "Psalm 34:19",
+      "id": 217
+    },
+    {
+      "text": "Whatever is true, whatever is noble, whatever is right—think about such things.",
+      "author": "Philippians 4:8",
+      "id": 218
+    },
+    {
+      "text": "But seek first His kingdom and His righteousness, and all these things will be given to you.",
+      "author": "Matthew 6:33",
+      "id": 219
+    },
+    {
+      "text": "Let us not become weary in doing good, for at the proper time we will reap a harvest.",
+      "author": "Galatians 6:9",
+      "id": 220
+    },
+    {
+      "text": "A friend loves at all times, and a brother is born for a time of adversity.",
+      "author": "Proverbs 17:17",
+      "id": 221
+    },
+    {
+      "text": "I have hidden your word in my heart that I might not sin against you.",
+      "author": "Psalm 119:11",
+      "id": 222
+    },
+    {
+      "text": "Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!",
+      "author": "2 Corinthians 5:17",
+      "id": 223
+    },
+    {
+      "text": "The Lord is patient with you, not wanting anyone to perish, but everyone to come to repentance.",
+      "author": "2 Peter 3:9",
+      "id": 224
+    },
+    {
+      "text": "A cheerful heart is good medicine, but a crushed spirit dries up the bones.",
+      "author": "Proverbs 17:22",
+      "id": 225
+    },
+    {
+      "text": "He gives strength to the weary and increases the power of the weak.",
+      "author": "Isaiah 40:29",
+      "id": 226
+    },
+    {
+      "text": "The Lord does not look at the things people look at. He looks at the heart.",
+      "author": "1 Samuel 16:7",
+      "id": 227
+    },
+    {
+      "text": "When anxiety was great within me, your consolation brought me joy.",
+      "author": "Psalm 94:19",
+      "id": 228
+    },
+    {
+      "text": "Do nothing out of selfish ambition or vain conceit. In humility value others above yourselves.",
+      "author": "Philippians 2:3",
+      "id": 229
+    },
+    {
+      "text": "Be alert and of sober mind. Your enemy the devil prowls around like a roaring lion.",
+      "author": "1 Peter 5:8",
+      "id": 230
+    },
+    {
+      "text": "Blessed are the peacemakers, for they will be called children of God.",
+      "author": "Matthew 5:9",
+      "id": 231
+    },
+    {
+      "text": "Those who hope in the Lord will renew their strength. They will soar on wings like eagles.",
+      "author": "Isaiah 40:31",
+      "id": 232
+    },
+    {
+      "text": "Whoever walks in integrity walks securely, but whoever takes crooked paths will be found out.",
+      "author": "Proverbs 10:9",
+      "id": 233
+    },
+    {
+      "text": "Though he fall, he shall not be cast headlong, for the Lord upholds his hand.",
+      "author": "Psalm 37:24",
+      "id": 234
+    },
+    {
+      "text": "Let us hold unswervingly to the hope we profess, for He who promised is faithful.",
+      "author": "Hebrews 10:23",
+      "id": 235
+    },
+    {
+      "text": "It is more blessed to give than to receive.",
+      "author": "Acts 20:35",
+      "id": 236
+    },
+    {
+      "text": "A good name is more desirable than great riches; to be esteemed is better than silver or gold.",
+      "author": "Proverbs 22:1",
+      "id": 237
+    },
+    {
+      "text": "The generous will themselves be blessed, for they share their food with the poor.",
+      "author": "Proverbs 22:9",
+      "id": 238
+    },
+    {
+      "text": "Submit yourselves, then, to God. Resist the devil, and he will flee from you.",
+      "author": "James 4:7",
+      "id": 239
+    },
+    {
+      "text": "Even youths grow tired and weary, but those who hope in the Lord will renew their strength.",
+      "author": "Isaiah 40:30-31",
+      "id": 240
+    },
+    {
+      "text": "A man's gift makes room for him and brings him before the great.",
+      "author": "Proverbs 18:16",
+      "id": 241
+    },
+    {
+      "text": "The Lord is near to all who call on Him, to all who call on Him in truth.",
+      "author": "Psalm 145:18",
+      "id": 242
+    },
+    {
+      "text": "Do not be overcome by evil, but overcome evil with good.",
+      "author": "Romans 12:21",
+      "id": 243
+    },
+    {
+      "text": "The one who is in you is greater than the one who is in the world.",
+      "author": "1 John 4:4",
+      "id": 244
+    },
+    {
+      "text": "Make every effort to add to your faith goodness; and to goodness, knowledge.",
+      "author": "2 Peter 1:5",
+      "id": 245
+    },
+    {
+      "text": "Whoever is kind to the poor lends to the Lord, and He will reward them for what they have done.",
+      "author": "Proverbs 19:17",
+      "id": 246
+    },
+    {
+      "text": "I will say of the Lord, 'He is my refuge and my fortress, my God, in whom I trust.'",
+      "author": "Psalm 91:2",
+      "id": 247
+    },
+    {
+      "text": "Whatever you have learned or received—put it into practice. And the God of peace will be with you.",
+      "author": "Philippians 4:9",
+      "id": 248
+    },
+    {
+      "text": "The eyes of the Lord are on the righteous, and His ears are attentive to their cry.",
+      "author": "Psalm 34:15",
+      "id": 249
+    },
+    {
+      "text": "Pleasant words are a honeycomb, sweet to the soul and healing to the bones.",
+      "author": "Proverbs 16:24",
+      "id": 250
+    },
+    {
+      "text": "Your word is a lamp for my feet, a light on my path.",
+      "author": "Psalm 119:105",
+      "id": 251
+    },
+    {
+      "text": "For where two or three gather in my name, there am I with them.",
+      "author": "Matthew 18:20",
+      "id": 252
+    },
+    {
+      "text": "By this everyone will know that you are my disciples, if you love one another.",
+      "author": "John 13:35",
+      "id": 253
+    },
+    {
+      "text": "Diligent hands will rule, but laziness ends in forced labor.",
+      "author": "Proverbs 12:24",
+      "id": 254
+    },
+    {
+      "text": "Therefore encourage one another and build each other up.",
+      "author": "1 Thessalonians 5:11",
+      "id": 255
+    },
+    {
+      "text": "He who pursues righteousness and kindness will find life and honor.",
+      "author": "Proverbs 21:21",
+      "id": 256
+    },
+    {
+      "text": "Commit to the Lord whatever you do, and He will establish your plans.",
+      "author": "Proverbs 16:3",
+      "id": 257
+    },
+    {
+      "text": "Therefore, since we are surrounded by such a great cloud of witnesses, let us run with perseverance.",
+      "author": "Hebrews 12:1",
+      "id": 258
+    },
+    {
+      "text": "To fear the Lord is to hate evil; I hate pride and arrogance, evil behavior and perverse speech.",
+      "author": "Proverbs 8:13",
+      "id": 259
+    },
+    {
+      "text": "My sheep listen to my voice; I know them, and they follow me.",
+      "author": "John 10:27",
+      "id": 260
+    },
+    {
+      "text": "Whoever has will be given more, and they will have an abundance.",
+      "author": "Matthew 13:12",
+      "id": 261
+    },
+    {
+      "text": "The blessing of the Lord brings wealth, without painful toil for it.",
+      "author": "Proverbs 10:22",
+      "id": 262
+    },
+    {
+      "text": "I will instruct you and teach you in the way you should go.",
+      "author": "Psalm 32:8",
+      "id": 263
+    },
+    {
+      "text": "No one can serve two masters. You cannot serve both God and money.",
+      "author": "Matthew 6:24",
+      "id": 264
+    },
+    {
+      "text": "Blessed are those who mourn, for they will be comforted.",
+      "author": "Matthew 5:4",
+      "id": 265
+    },
+    {
+      "text": "Whoever loves discipline loves knowledge, but whoever hates correction is stupid.",
+      "author": "Proverbs 12:1",
+      "id": 266
+    },
+    {
+      "text": "May the God of hope fill you with all joy and peace as you trust in Him.",
+      "author": "Romans 15:13",
+      "id": 267
+    },
+    {
+      "text": "The wise store up knowledge, but the mouth of a fool invites ruin.",
+      "author": "Proverbs 10:14",
+      "id": 268
+    },
+    {
+      "text": "You will keep in perfect peace those whose minds are steadfast, because they trust in you.",
+      "author": "Isaiah 26:3",
+      "id": 269
+    },
+    {
+      "text": "Fools give full vent to their rage, but the wise bring calm in the end.",
+      "author": "Proverbs 29:11",
+      "id": 270
+    },
+    {
+      "text": "You are the salt of the earth. You are the light of the world.",
+      "author": "Matthew 5:13-14",
+      "id": 271
+    },
+    {
+      "text": "Dishonest money dwindles away, but whoever gathers money little by little makes it grow.",
+      "author": "Proverbs 13:11",
+      "id": 272
+    },
+    {
+      "text": "The Lord is my strength and my defense; He has become my salvation.",
+      "author": "Exodus 15:2",
+      "id": 273
+    },
+    {
+      "text": "Whoever is patient has great understanding, but one who is quick-tempered displays folly.",
+      "author": "Proverbs 14:29",
+      "id": 274
+    },
+    {
+      "text": "See, I am doing a new thing! Now it springs up; do you not perceive it?",
+      "author": "Isaiah 43:19",
+      "id": 275
+    },
+    {
+      "text": "Carry each other's burdens, and in this way you will fulfill the law of Christ.",
+      "author": "Galatians 6:2",
+      "id": 276
+    },
+    {
+      "text": "Whoever would foster love covers over an offense, but whoever repeats the matter separates close friends.",
+      "author": "Proverbs 17:9",
+      "id": 277
+    },
+    {
+      "text": "But I trust in your unfailing love; my heart rejoices in your salvation.",
+      "author": "Psalm 13:5",
+      "id": 278
+    },
+    {
+      "text": "A hot-tempered person stirs up conflict, but the one who is patient calms a quarrel.",
+      "author": "Proverbs 15:18",
+      "id": 279
+    },
+    {
+      "text": "We are more than conquerors through Him who loved us.",
+      "author": "Romans 8:37",
+      "id": 280
+    },
+    {
+      "text": "Gray hair is a crown of splendor; it is attained in the way of righteousness.",
+      "author": "Proverbs 16:31",
+      "id": 281
+    },
+    {
+      "text": "Whoever fears the Lord has a secure fortress, and for their children it will be a refuge.",
+      "author": "Proverbs 14:26",
+      "id": 282
+    },
+    {
+      "text": "For we live by faith, not by sight.",
+      "author": "2 Corinthians 5:7",
+      "id": 283
+    },
+    {
+      "text": "One who has unreliable friends soon comes to ruin, but there is a friend who sticks closer than a brother.",
+      "author": "Proverbs 18:24",
+      "id": 284
+    },
+    {
+      "text": "The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you.",
+      "author": "Numbers 6:24-25",
+      "id": 285
+    },
+    {
+      "text": "Whoever guards their lips preserves their life, but one who speaks rashly will come to ruin.",
+      "author": "Proverbs 13:3",
+      "id": 286
+    },
+    {
+      "text": "Therefore go and make disciples of all nations, baptizing them.",
+      "author": "Matthew 28:19",
+      "id": 287
+    },
+    {
+      "text": "Where there is strife, there is pride, but wisdom is found in those who take advice.",
+      "author": "Proverbs 13:10",
+      "id": 288
+    },
+    {
+      "text": "I press on toward the goal to win the prize for which God has called me.",
+      "author": "Philippians 3:14",
+      "id": 289
+    },
+    {
+      "text": "The one who gets wisdom loves life; the one who cherishes understanding will soon prosper.",
+      "author": "Proverbs 19:8",
+      "id": 290
+    },
+    {
+      "text": "This is love: not that we loved God, but that He loved us and sent His Son.",
+      "author": "1 John 4:10",
+      "id": 291
+    },
+    {
+      "text": "Anxiety weighs down the heart, but a kind word cheers it up.",
+      "author": "Proverbs 12:25",
+      "id": 292
+    },
+    {
+      "text": "And surely I am with you always, to the very end of the age.",
+      "author": "Matthew 28:20",
+      "id": 293
+    },
+    {
+      "text": "The prudent see danger and take refuge, but the simple keep going and pay the penalty.",
+      "author": "Proverbs 22:3",
+      "id": 294
+    },
+    {
+      "text": "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness.",
+      "author": "Galatians 5:22",
+      "id": 295
+    },
+    {
+      "text": "Even fools are thought wise if they keep silent, and discerning if they hold their tongues.",
+      "author": "Proverbs 17:28",
+      "id": 296
+    },
+    {
+      "text": "The Lord is faithful to all His promises and loving toward all He has made.",
+      "author": "Psalm 145:13",
+      "id": 297
+    },
+    {
+      "text": "Do not withhold good from those to whom it is due, when it is in your power to act.",
+      "author": "Proverbs 3:27",
+      "id": 298
+    },
+    {
+      "text": "Take my yoke upon you and learn from me, for I am gentle and humble in heart.",
+      "author": "Matthew 11:29",
+      "id": 299
+    },
+    {
+      "text": "Those who trust in themselves are fools, but those who walk in wisdom are kept safe.",
+      "author": "Proverbs 28:26",
+      "id": 300
+    },
+    {
+      "text": "For God did not give us a spirit of fear, but of power and of love and of a sound mind.",
+      "author": "2 Timothy 1:7",
+      "id": 301
+    },
+    {
+      "text": "The beauty of a soul in grace surpasses all earthly beauty.",
+      "author": "St. John Vianney",
+      "id": 302
+    },
+    {
+      "text": "For it is by grace you have been saved, through faith—not by works.",
+      "author": "Ephesians 2:8",
+      "id": 303
+    },
+    {
+      "text": "And the peace of God, which transcends all understanding, will guard your hearts.",
+      "author": "Philippians 4:7",
+      "id": 304
+    },
+    {
+      "text": "Wealth is worthless in the day of wrath, but righteousness delivers from death.",
+      "author": "Proverbs 11:4",
+      "id": 305
+    },
+    {
+      "text": "We love because He first loved us.",
+      "author": "1 John 4:19",
+      "id": 306
+    },
+    {
+      "text": "The righteous lead blameless lives; blessed are their children after them.",
+      "author": "Proverbs 20:7",
+      "id": 307
+    },
+    {
+      "text": "So do not fear, for I am with you; do not be dismayed, for I am your God.",
+      "author": "Isaiah 41:10",
+      "id": 308
+    },
+    {
+      "text": "Better a little with righteousness than much gain with injustice.",
+      "author": "Proverbs 16:8",
+      "id": 309
+    },
+    {
+      "text": "Consider it pure joy whenever you face trials of many kinds.",
+      "author": "James 1:2",
+      "id": 310
+    },
+    {
+      "text": "Teach us to number our days, that we may gain a heart of wisdom.",
+      "author": "Psalm 90:12",
+      "id": 311
+    },
+    {
+      "text": "A perverse person stirs up conflict, and a gossip separates close friends.",
+      "author": "Proverbs 16:28",
+      "id": 312
+    },
+    {
+      "text": "The thief comes only to steal and kill and destroy; I have come that they may have life.",
+      "author": "John 10:10",
+      "id": 313
+    },
+    {
+      "text": "Better a patient person than a warrior, one with self-control than one who takes a city.",
+      "author": "Proverbs 16:32",
+      "id": 314
+    },
+    {
+      "text": "The heavens declare the glory of God; the skies proclaim the work of His hands.",
+      "author": "Psalm 19:1",
+      "id": 315
+    },
+    {
+      "text": "The Lord is my strength and my song; He has given me victory.",
+      "author": "Exodus 15:2",
+      "id": 316
+    },
+    {
+      "text": "You shall have no other gods before me.",
+      "author": "Exodus 20:3",
+      "id": 317
+    },
+    {
+      "text": "The Lord, the Lord, compassionate and gracious, slow to anger, abounding in love.",
+      "author": "Exodus 34:6",
+      "id": 318
+    },
+    {
+      "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+      "author": "Deuteronomy 6:4",
+      "id": 319
+    },
+    {
+      "text": "Choose life so that you and your children may live.",
+      "author": "Deuteronomy 30:19",
+      "id": 320
+    },
+    {
+      "text": "Be strong and courageous, for the Lord your God goes with you.",
+      "author": "Deuteronomy 31:6",
+      "id": 321
+    },
+    {
+      "text": "Have I not commanded you? Be strong and courageous. Do not be afraid.",
+      "author": "Joshua 1:9",
+      "id": 322
+    },
+    {
+      "text": "As for me and my household, we will serve the Lord.",
+      "author": "Joshua 24:15",
+      "id": 323
+    },
+    {
+      "text": "Where you go I will go, and where you stay I will stay.",
+      "author": "Ruth 1:16",
+      "id": 324
+    },
+    {
+      "text": "Speak, Lord, for your servant is listening.",
+      "author": "1 Samuel 3:9",
+      "id": 325
+    },
+    {
+      "text": "Man looks at the outward appearance, but the Lord looks at the heart.",
+      "author": "1 Samuel 16:7",
+      "id": 326
+    },
+    {
+      "text": "The Lord is with you, mighty warrior.",
+      "author": "Judges 6:12",
+      "id": 327
+    },
+    {
+      "text": "Is anything too hard for the Lord?",
+      "author": "Genesis 18:14",
+      "id": 328
+    },
+    {
+      "text": "I am the God of your father Abraham. Do not be afraid, for I am with you.",
+      "author": "Genesis 26:24",
+      "id": 329
+    },
+    {
+      "text": "You intended to harm me, but God intended it for good.",
+      "author": "Genesis 50:20",
+      "id": 330
+    },
+    {
+      "text": "The Lord will provide.",
+      "author": "Genesis 22:14",
+      "id": 331
+    },
+    {
+      "text": "Be holy because I, the Lord your God, am holy.",
+      "author": "Leviticus 19:2",
+      "id": 332
+    },
+    {
+      "text": "The Lord bless you and keep you.",
+      "author": "Numbers 6:24",
+      "id": 333
+    },
+    {
+      "text": "Love the Lord your God with all your heart and with all your soul.",
+      "author": "Deuteronomy 6:5",
+      "id": 334
+    },
+    {
+      "text": "It is the Lord who goes before you. He will be with you.",
+      "author": "Deuteronomy 31:8",
+      "id": 335
+    },
+    {
+      "text": "Be careful to obey all the law my servant Moses gave you.",
+      "author": "Joshua 1:7",
+      "id": 336
+    },
+    {
+      "text": "The Lord our God is merciful and forgiving, even though we have rebelled against Him.",
+      "author": "Daniel 9:9",
+      "id": 337
+    },
+    {
+      "text": "In repentance and rest is your salvation, in quietness and trust is your strength.",
+      "author": "Isaiah 30:15",
+      "id": 338
+    },
+    {
+      "text": "Though the mountains be shaken and the hills be removed, my unfailing love will not be shaken.",
+      "author": "Isaiah 54:10",
+      "id": 339
+    },
+    {
+      "text": "Come now, let us settle the matter. Though your sins are like scarlet, they shall be as white as snow.",
+      "author": "Isaiah 1:18",
+      "id": 340
+    },
+    {
+      "text": "Woe to those who call evil good and good evil.",
+      "author": "Isaiah 5:20",
+      "id": 341
+    },
+    {
+      "text": "The virgin will conceive and give birth to a son, and will call him Immanuel.",
+      "author": "Isaiah 7:14",
+      "id": 342
+    },
+    {
+      "text": "The people walking in darkness have seen a great light.",
+      "author": "Isaiah 9:2",
+      "id": 343
+    },
+    {
+      "text": "For to us a child is born, to us a son is given.",
+      "author": "Isaiah 9:6",
+      "id": 344
+    },
+    {
+      "text": "They will beat their swords into plowshares and their spears into pruning hooks.",
+      "author": "Isaiah 2:4",
+      "id": 345
+    },
+    {
+      "text": "Do not fear, for I am with you; do not be dismayed, for I am your God.",
+      "author": "Isaiah 41:10",
+      "id": 346
+    },
+    {
+      "text": "When you pass through the waters, I will be with you.",
+      "author": "Isaiah 43:2",
+      "id": 347
+    },
+    {
+      "text": "Forget the former things; do not dwell on the past.",
+      "author": "Isaiah 43:18",
+      "id": 348
+    },
+    {
+      "text": "I have called you by name; you are mine.",
+      "author": "Isaiah 43:1",
+      "id": 349
+    },
+    {
+      "text": "Before they call I will answer; while they are still speaking I will hear.",
+      "author": "Isaiah 65:24",
+      "id": 350
+    },
+    {
+      "text": "Seek the Lord while He may be found; call on Him while He is near.",
+      "author": "Isaiah 55:6",
+      "id": 351
+    },
+    {
+      "text": "My thoughts are not your thoughts, neither are your ways my ways.",
+      "author": "Isaiah 55:8",
+      "id": 352
+    },
+    {
+      "text": "As the heavens are higher than the earth, so are my ways higher than your ways.",
+      "author": "Isaiah 55:9",
+      "id": 353
+    },
+    {
+      "text": "So is my word that goes out from my mouth: It will not return to me empty.",
+      "author": "Isaiah 55:11",
+      "id": 354
+    },
+    {
+      "text": "Before I formed you in the womb I knew you.",
+      "author": "Jeremiah 1:5",
+      "id": 355
+    },
+    {
+      "text": "You will seek me and find me when you seek me with all your heart.",
+      "author": "Jeremiah 29:13",
+      "id": 356
+    },
+    {
+      "text": "Call to me and I will answer you and tell you great and unsearchable things.",
+      "author": "Jeremiah 33:3",
+      "id": 357
+    },
+    {
+      "text": "The heart is deceitful above all things and beyond cure.",
+      "author": "Jeremiah 17:9",
+      "id": 358
+    },
+    {
+      "text": "Blessed is the one who trusts in the Lord, whose confidence is in Him.",
+      "author": "Jeremiah 17:7",
+      "id": 359
+    },
+    {
+      "text": "This is the covenant I will make: I will put my law in their minds and write it on their hearts.",
+      "author": "Jeremiah 31:33",
+      "id": 360
+    },
+    {
+      "text": "Because of the Lord's great love we are not consumed, for His compassions never fail.",
+      "author": "Lamentations 3:22",
+      "id": 361
+    },
+    {
+      "text": "They are new every morning; great is your faithfulness.",
+      "author": "Lamentations 3:23",
+      "id": 362
+    },
+    {
+      "text": "The Lord is good to those whose hope is in Him, to the one who seeks Him.",
+      "author": "Lamentations 3:25",
+      "id": 363
+    },
+    {
+      "text": "Create in me a pure heart, O God.",
+      "author": "Psalm 51:10",
+      "id": 364
+    },
+    {
+      "text": "The sacrifices of God are a broken spirit; a broken and contrite heart God will not despise.",
+      "author": "Psalm 51:17",
+      "id": 365
+    },
+    {
+      "text": "Why, my soul, are you downcast? Put your hope in God.",
+      "author": "Psalm 42:5",
+      "id": 366
+    },
+    {
+      "text": "Deep calls to deep in the roar of your waterfalls.",
+      "author": "Psalm 42:7",
+      "id": 367
+    },
+    {
+      "text": "As the deer pants for streams of water, so my soul pants for you, my God.",
+      "author": "Psalm 42:1",
+      "id": 368
+    },
+    {
+      "text": "God is our refuge and strength, an ever-present help in trouble.",
+      "author": "Psalm 46:1",
+      "id": 369
+    },
+    {
+      "text": "Surely goodness and love will follow me all the days of my life.",
+      "author": "Psalm 23:6",
+      "id": 370
+    },
+    {
+      "text": "Even though I walk through the darkest valley, I will fear no evil, for you are with me.",
+      "author": "Psalm 23:4",
+      "id": 371
+    },
+    {
+      "text": "He makes me lie down in green pastures, He leads me beside quiet waters.",
+      "author": "Psalm 23:2",
+      "id": 372
+    },
+    {
+      "text": "He refreshes my soul. He guides me along the right paths for His name's sake.",
+      "author": "Psalm 23:3",
+      "id": 373
+    },
+    {
+      "text": "The Lord is my rock, my fortress and my deliverer.",
+      "author": "Psalm 18:2",
+      "id": 374
+    },
+    {
+      "text": "The heavens declare the glory of God.",
+      "author": "Psalm 19:1",
+      "id": 375
+    },
+    {
+      "text": "May these words of my mouth and this meditation of my heart be pleasing in your sight.",
+      "author": "Psalm 19:14",
+      "id": 376
+    },
+    {
+      "text": "Some trust in chariots and some in horses, but we trust in the name of the Lord our God.",
+      "author": "Psalm 20:7",
+      "id": 377
+    },
+    {
+      "text": "The earth is the Lord's, and everything in it.",
+      "author": "Psalm 24:1",
+      "id": 378
+    },
+    {
+      "text": "Show me your ways, Lord, teach me your paths.",
+      "author": "Psalm 25:4",
+      "id": 379
+    },
+    {
+      "text": "The Lord is my light and my salvation—whom shall I fear?",
+      "author": "Psalm 27:1",
+      "id": 380
+    },
+    {
+      "text": "Wait for the Lord; be strong and take heart.",
+      "author": "Psalm 27:14",
+      "id": 381
+    },
+    {
+      "text": "Sing to the Lord a new song, for He has done marvelous things.",
+      "author": "Psalm 98:1",
+      "id": 382
+    },
+    {
+      "text": "Make a joyful noise to the Lord, all the earth!",
+      "author": "Psalm 100:1",
+      "id": 383
+    },
+    {
+      "text": "Know that the Lord is God. It is He who made us, and we are His.",
+      "author": "Psalm 100:3",
+      "id": 384
+    },
+    {
+      "text": "Enter His gates with thanksgiving and His courts with praise.",
+      "author": "Psalm 100:4",
+      "id": 385
+    },
+    {
+      "text": "The Lord is good and His love endures forever.",
+      "author": "Psalm 100:5",
+      "id": 386
+    },
+    {
+      "text": "Bless the Lord, O my soul, and forget not all His benefits.",
+      "author": "Psalm 103:2",
+      "id": 387
+    },
+    {
+      "text": "As far as the east is from the west, so far has He removed our transgressions from us.",
+      "author": "Psalm 103:12",
+      "id": 388
+    },
+    {
+      "text": "As a father has compassion on his children, so the Lord has compassion on those who fear Him.",
+      "author": "Psalm 103:13",
+      "id": 389
+    },
+    {
+      "text": "I lift up my eyes to the mountains—where does my help come from?",
+      "author": "Psalm 121:1",
+      "id": 390
+    },
+    {
+      "text": "My help comes from the Lord, the Maker of heaven and earth.",
+      "author": "Psalm 121:2",
+      "id": 391
+    },
+    {
+      "text": "He will not let your foot slip—He who watches over you will not slumber.",
+      "author": "Psalm 121:3",
+      "id": 392
+    },
+    {
+      "text": "The Lord will keep you from all harm—He will watch over your life.",
+      "author": "Psalm 121:7",
+      "id": 393
+    },
+    {
+      "text": "I rejoiced with those who said to me, 'Let us go to the house of the Lord.'",
+      "author": "Psalm 122:1",
+      "id": 394
+    },
+    {
+      "text": "Unless the Lord builds the house, the builders labor in vain.",
+      "author": "Psalm 127:1",
+      "id": 395
+    },
+    {
+      "text": "Children are a heritage from the Lord, offspring a reward from Him.",
+      "author": "Psalm 127:3",
+      "id": 396
+    },
+    {
+      "text": "How good and pleasant it is when God's people live together in unity!",
+      "author": "Psalm 133:1",
+      "id": 397
+    },
+    {
+      "text": "Where can I go from your Spirit? Where can I flee from your presence?",
+      "author": "Psalm 139:7",
+      "id": 398
+    },
+    {
+      "text": "If I rise on the wings of the dawn, even there your hand will guide me.",
+      "author": "Psalm 139:9-10",
+      "id": 399
+    },
+    {
+      "text": "For you created my inmost being; you knit me together in my mother's womb.",
+      "author": "Psalm 139:13",
+      "id": 400
+    },
+    {
+      "text": "I praise you because I am fearfully and wonderfully made.",
+      "author": "Psalm 139:14",
+      "id": 401
+    },
+    {
+      "text": "Search me, God, and know my heart; test me and know my anxious thoughts.",
+      "author": "Psalm 139:23",
+      "id": 402
+    },
+    {
+      "text": "The Lord is righteous in all His ways and faithful in all He does.",
+      "author": "Psalm 145:17",
+      "id": 403
+    },
+    {
+      "text": "Praise the Lord. Praise the Lord, my soul.",
+      "author": "Psalm 146:1",
+      "id": 404
+    },
+    {
+      "text": "Do not put your trust in princes, in human beings, who cannot save.",
+      "author": "Psalm 146:3",
+      "id": 405
+    },
+    {
+      "text": "Blessed are those whose help is the God of Jacob, whose hope is in the Lord their God.",
+      "author": "Psalm 146:5",
+      "id": 406
+    },
+    {
+      "text": "The Lord watches over the foreigner and sustains the fatherless and the widow.",
+      "author": "Psalm 146:9",
+      "id": 407
+    },
+    {
+      "text": "He heals the brokenhearted and binds up their wounds.",
+      "author": "Psalm 147:3",
+      "id": 408
+    },
+    {
+      "text": "Great is our Lord and mighty in power; His understanding has no limit.",
+      "author": "Psalm 147:5",
+      "id": 409
+    },
+    {
+      "text": "Praise the Lord from the heavens; praise Him in the heights above.",
+      "author": "Psalm 148:1",
+      "id": 410
+    },
+    {
+      "text": "There is a time for everything, and a season for every activity under the heavens.",
+      "author": "Sirach 3:1",
+      "id": 411
+    },
+    {
+      "text": "He has made everything beautiful in its time.",
+      "author": "Sirach 3:11",
+      "id": 412
+    },
+    {
+      "text": "Two are better than one, because they have a good return for their labor.",
+      "author": "Sirach 4:9",
+      "id": 413
+    },
+    {
+      "text": "Though one may be overpowered, two can defend themselves.",
+      "author": "Sirach 4:12",
+      "id": 414
+    },
+    {
+      "text": "Guard your steps when you go to the house of God.",
+      "author": "Sirach 5:1",
+      "id": 415
+    },
+    {
+      "text": "Do not be quick with your mouth, do not be hasty in your heart to utter anything before God.",
+      "author": "Sirach 5:2",
+      "id": 416
+    },
+    {
+      "text": "When times are good, be happy; but when times are bad, consider this: God has made both.",
+      "author": "Sirach 7:14",
+      "id": 417
+    },
+    {
+      "text": "Remember your Creator in the days of your youth.",
+      "author": "Sirach 12:1",
+      "id": 418
+    },
+    {
+      "text": "Fear God and keep His commandments, for this is the duty of all mankind.",
+      "author": "Sirach 12:13",
+      "id": 419
+    },
+    {
+      "text": "Mourning for the dead lasts seven days, but for the foolish or the ungodly it lasts all the days of their life.",
+      "author": "Sirach 22:11-12",
+      "id": 420
+    },
+    {
+      "text": "A faithful friend is a sturdy shelter; he who finds one finds a treasure.",
+      "author": "Sirach 6:14",
+      "id": 421
+    },
+    {
+      "text": "A faithful friend is beyond price; no sum can balance his worth.",
+      "author": "Sirach 6:15",
+      "id": 422
+    },
+    {
+      "text": "My child, from your youth choose discipline, and when you have gray hair you will still find wisdom.",
+      "author": "Sirach 6:18",
+      "id": 423
+    },
+    {
+      "text": "Before you speak, learn; and before you fall ill, take care of your health.",
+      "author": "Sirach 18:19",
+      "id": 424
+    },
+    {
+      "text": "Do not follow your base desires, but restrain your appetites.",
+      "author": "Sirach 18:30",
+      "id": 425
+    },
+    {
+      "text": "My child, do not cheat the poor of their living, and do not keep needy eyes waiting.",
+      "author": "Sirach 4:1",
+      "id": 426
+    },
+    {
+      "text": "Do not reject a suppliant in distress, or turn your face away from the poor.",
+      "author": "Sirach 4:4",
+      "id": 427
+    },
+    {
+      "text": "Do not avert your eye from the needy, and give no one reason to curse you.",
+      "author": "Sirach 4:5",
+      "id": 428
+    },
+    {
+      "text": "A wise child makes a glad father, but a foolish child is a mother's grief.",
+      "author": "Sirach 3:2",
+      "id": 429
+    },
+    {
+      "text": "With all your heart honor your father, and do not forget the birth pangs of your mother.",
+      "author": "Sirach 7:27",
+      "id": 430
+    },
+    {
+      "text": "Remember that it was of your parents you were born; how can you repay what they have given to you?",
+      "author": "Sirach 7:28",
+      "id": 431
+    },
+    {
+      "text": "My child, help your father in his old age, and do not grieve him as long as he lives.",
+      "author": "Sirach 3:12",
+      "id": 432
+    },
+    {
+      "text": "Even if his mind fails, be patient with him; because you have all your faculties do not despise him.",
+      "author": "Sirach 3:13",
+      "id": 433
+    },
+    {
+      "text": "Do not glorify yourself by dishonoring your father, for your father's dishonor is no glory to you.",
+      "author": "Sirach 3:10",
+      "id": 434
+    },
+    {
+      "text": "Wine and music gladden the heart, but the love of friends is better than either.",
+      "author": "Sirach 40:20",
+      "id": 435
+    },
+    {
+      "text": "A friend or companion is always welcome, but a sensible wife is better than either.",
+      "author": "Sirach 40:23",
+      "id": 436
+    },
+    {
+      "text": "The beginning of pride is sin, and the one who clings to it pours out abominations.",
+      "author": "Sirach 10:13",
+      "id": 437
+    },
+    {
+      "text": "Humble yourself to the utmost, for the punishment of the ungodly is fire and worms.",
+      "author": "Sirach 7:17",
+      "id": 438
+    },
+    {
+      "text": "Do not slight the discourse of the sages, but busy yourself with their maxims.",
+      "author": "Sirach 8:8",
+      "id": 439
+    },
+    {
+      "text": "Naked I came from my mother's womb, and naked I will depart.",
+      "author": "Job 1:21",
+      "id": 440
+    },
+    {
+      "text": "Though He slay me, yet will I hope in Him.",
+      "author": "Job 13:15",
+      "id": 441
+    },
+    {
+      "text": "I know that my redeemer lives, and that in the end He will stand on the earth.",
+      "author": "Job 19:25",
+      "id": 442
+    },
+    {
+      "text": "The Lord gave me what I had, and the Lord has taken it away. Praise the name of the Lord!",
+      "author": "Job 1:21",
+      "id": 443
+    },
+    {
+      "text": "Where were you when I laid the earth's foundation?",
+      "author": "Job 38:4",
+      "id": 444
+    },
+    {
+      "text": "Trust the past to the Mercy of God, the present to His Love, and the future to His Providence.",
+      "author": "St. Augustine of Hippo",
+      "id": 445
+    },
+    {
+      "text": "He who trusts himself is lost. He who trusts in God can do all things.",
+      "author": "St. Alphonsus Liguori",
+      "id": 446
+    },
+    {
+      "text": "Our own evil inclinations are far more dangerous than any external enemies.",
+      "author": "St. Ambrose",
+      "id": 447
+    },
+    {
+      "text": "You must ask God to give you power to fight against the sin of pride which is your greatest enemy – the root of all that is evil, and the failure of all that is good. For God resists the proud.",
+      "author": "St. Vincent de Paul",
+      "id": 448
+    },
+    {
+      "text": "Christ said, \"I am the Truth\"; he did not say 'I am the custom.'",
+      "author": "St. Toribio",
+      "id": 449
+    },
+    {
+      "text": "If you are what you should be, you will set the whole world ablaze!",
+      "author": "St. Catherine of Sienna",
+      "id": 450
+    },
+    {
+      "text": "Charity is that with which no man is lost, and without which no man is saved.",
+      "author": "St. Robert Bellarmine",
+      "id": 451
+    },
+    {
+      "text": "You cannot please both God and the world at the same time. They are utterly opposed to each other in their thoughts, their desires, and their actions.",
+      "author": "St. John Vianney",
+      "id": 452
+    },
+    {
+      "text": "Do not lose courage in considering your own imperfections, but instantly set about remedying them.",
+      "author": "St. Francis de Sales",
+      "id": 453
+    },
+    {
+      "text": "Those whose hearts are pure are temples of the Holy Spirit.",
+      "author": "St. Lucy ",
+      "id": 454
+    },
+    {
+      "text": "Late have I loved you, Beauty so ancient and so new, late have I loved you!",
+      "author": "St. Augustine of Hippo",
+      "id": 455
+    },
+    {
+      "text": "God loves each of us as if there were only one of us.",
+      "author": "St. Augustine of Hippo",
+      "id": 456
+    },
+    {
+      "text": "Pray as though everything depended on God. Work as though everything depended on you.",
+      "author": "St. Augustine of Hippo",
+      "id": 457
+    },
+    {
+      "text": "To fall in love with God is the greatest romance; to seek him the greatest adventure; to find him, the greatest human achievement.",
+      "author": "St. Augustine of Hippo",
+      "id": 458
+    },
+    {
+      "text": "The measure of love is to love without measure.",
+      "author": "St. Augustine of Hippo",
+      "id": 459
+    },
+    {
+      "text": "Fill yourself first and then only will you be able to give to others.",
+      "author": "St. Augustine of Hippo",
+      "id": 460
+    },
+    {
+      "text": "What does love look like? It has the hands to help others. It has the feet to hasten to the poor and needy. It has eyes to see misery and want. It has the ears to hear the sighs and sorrows of men. That is what love looks like.",
+      "author": "St. Augustine of Hippo",
+      "id": 461
+    },
+    {
+      "text": "Faith is to believe what you do not see; the reward of this faith is to see what you believe.",
+      "author": "St. Augustine of Hippo",
+      "id": 462
+    },
+    {
+      "text": "To sing is to pray twice.",
+      "author": "St. Augustine of Hippo",
+      "id": 463
+    },
+    {
+      "text": "The truth is like a lion; you don't have to defend it. Let it loose; it will defend itself.",
+      "author": "St. Augustine of Hippo",
+      "id": 464
+    },
+    {
+      "text": "Since love grows within you, so beauty grows. For love is the beauty of the soul.",
+      "author": "St. Augustine of Hippo",
+      "id": 465
+    },
+    {
+      "text": "Patience is the companion of wisdom.",
+      "author": "St. Augustine of Hippo",
+      "id": 466
+    },
+    {
+      "text": "Our hearts are made for You, O Lord, and they are restless until they rest in You.",
+      "author": "St. Augustine of Hippo",
+      "id": 467
+    },
+    {
+      "text": "Give me chastity and continence, but not yet.",
+      "author": "St. Augustine of Hippo",
+      "id": 468
+    },
+    {
+      "text": "It is love alone that gives worth to all things",
+      "author": "St. Teresa of Avila",
+      "id": 469
+    },
+    {
+      "text": "Patience obtains everything. Whoever has God lacks nothing; God alone suffices.",
+      "author": "St. Teresa of Avila",
+      "id": 470
+    },
+    {
+      "text": "The feeling remains that God is on the journey, too.",
+      "author": "St. Teresa of Avila",
+      "id": 471
+    },
+    {
+      "text": "There are more tears shed over answered prayers than over unanswered prayers.",
+      "author": "St. Teresa of Avila",
+      "id": 472
+    },
+    {
+      "text": "Mental prayer is nothing else than an intimate sharing between friends; it means taking time frequently to be alone with Him who we know loves us.",
+      "author": "St. Teresa of Avila",
+      "id": 473
+    },
+    {
+      "text": "Be gentle to all and stern with yourself.",
+      "author": "St. Teresa of Avila",
+      "id": 474
+    },
+    {
+      "text": "We can only learn to know ourselves and do what we can - namely, surrender our will and fulfill God's will in us.",
+      "author": "St. Teresa of Avila",
+      "id": 475
+    },
+    {
+      "text": "The Lord walks among the pots and pans.",
+      "author": "St. Teresa of Avila",
+      "id": 476
+    },
+    {
+      "text": "To have courage for whatever comes in life - everything lies in that.",
+      "author": "St. Teresa of Avila",
+      "id": 477
+    },
+    {
+      "text": "We always find that those who walked closest to Christ were those who had to bear the greatest trials.",
+      "author": "St. Teresa of Avila",
+      "id": 478
+    },
+    {
+      "text": "Prayer is an act of love; words are not needed. Even if sickness distracts from thoughts, all that is needed is the will to love.",
+      "author": "St. Teresa of Avila",
+      "id": 479
+    },
+    {
+      "text": "Accustom yourself continually to make many acts of love, for they enkindle and melt the soul.",
+      "author": "St. Teresa of Avila",
+      "id": 480
+    },
+    {
+      "text": "Remember that you have only one soul; that you have only one death to die; that you have only one life. If you do this, there will be many things about which you care nothing.",
+      "author": "St. Teresa of Avila",
+      "id": 481
+    },
+    {
+      "text": "Half an hour's meditation each day is essential, except when you are busy. Then a full hour is needed.",
+      "author": "St. Francis de Sales",
+      "id": 482
+    },
+    {
+      "text": "Do not wish to be anything but what you are, and try to be that perfectly.",
+      "author": "St. Francis de Sales",
+      "id": 483
+    },
+    {
+      "text": "Be who you are and be that well.",
+      "author": "St. Francis de Sales",
+      "id": 484
+    },
+    {
+      "text": "Do not lose your inner peace for anything whatsoever, even if your whole world seems upset.",
+      "author": "St. Francis de Sales",
+      "id": 485
+    },
+    {
+      "text": "Never be in a hurry; do everything quietly and in a calm spirit.",
+      "author": "St. Francis de Sales",
+      "id": 486
+    },
+    {
+      "text": "Be at peace, and put aside all anxious thoughts and imaginings.",
+      "author": "St. Francis de Sales",
+      "id": 487
+    },
+    {
+      "text": "A single sunbeam is enough to drive away many shadows.",
+      "author": "St. Francis de Sales",
+      "id": 488
+    },
+    {
+      "text": "The measure of love is to love without being tired of loving.",
+      "author": "St. Francis de Sales",
+      "id": 489
+    },
+    {
+      "text": "Make friends with the angels, who though invisible are always with you.",
+      "author": "St. Francis de Sales",
+      "id": 490
+    },
+    {
+      "text": "Our Lord loves you and loves you tenderly; and if He does not let you feel the sweetness of His love, it is to make you more humble.",
+      "author": "St. Francis de Sales",
+      "id": 491
+    },
+    {
+      "text": "The greater your imperfections, the more Jesus loves you.",
+      "author": "St. Francis de Sales",
+      "id": 492
+    },
+    {
+      "text": "The Lord's mercy often rides to the door of our hearts upon the black horse of affliction.",
+      "author": "St. Francis de Sales",
+      "id": 493
+    },
+    {
+      "text": "Do not look forward to what might happen tomorrow; the same everlasting Father who cares for you today will take care of you tomorrow and every day.",
+      "author": "St. Francis de Sales",
+      "id": 494
+    },
+    {
+      "text": "Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible.",
+      "author": "St. Francis of Assisi",
+      "id": 495
+    },
+    {
+      "text": "Lord, make me an instrument of your peace.",
+      "author": "St. Francis of Assisi",
+      "id": 496
+    },
+    {
+      "text": "Where there is charity and wisdom, there is neither fear nor ignorance.",
+      "author": "St. Francis of Assisi",
+      "id": 497
+    },
+    {
+      "text": "All the darkness in the world cannot extinguish the light of a single candle.",
+      "author": "St. Francis of Assisi",
+      "id": 498
+    },
+    {
+      "text": "It is no use walking anywhere to preach unless our walking is our preaching.",
+      "author": "St. Francis of Assisi",
+      "id": 499
+    },
+    {
+      "text": "If God can work through me, He can work through anyone.",
+      "author": "St. Francis of Assisi",
+      "id": 500
+    },
+    {
+      "text": "Remember that when you leave this earth, you can take with you nothing that you have received - only what you have given.",
+      "author": "St. Francis of Assisi",
+      "id": 501
+    },
+    {
+      "text": "A single friar who prays for the people does more service than a hundred religious who have no prayer life.",
+      "author": "St. Francis of Assisi",
+      "id": 502
+    },
+    {
+      "text": "Above all the grace and the gifts that Christ gives to his beloved is that of overcoming self.",
+      "author": "St. Francis of Assisi",
+      "id": 503
+    },
+    {
+      "text": "We have been called to heal wounds, to unite what has fallen apart, and to bring home those who have lost their way.",
+      "author": "St. Francis of Assisi",
+      "id": 504
+    },
+    {
+      "text": "The soul that is attached to anything however much good there may be in it, will not arrive at the liberty of divine union.",
+      "author": "St. John of the Cross",
+      "id": 505
+    },
+    {
+      "text": "If you purify your soul of attachment to and desire for things, you will understand them spiritually.",
+      "author": "St. John of the Cross",
+      "id": 506
+    },
+    {
+      "text": "The more God wants to give us, the more He makes us desire.",
+      "author": "St. John of the Cross",
+      "id": 507
+    },
+    {
+      "text": "The soul that walks in love neither tires others nor grows tired.",
+      "author": "St. John of the Cross",
+      "id": 508
+    },
+    {
+      "text": "What we need most in order to make progress is to be silent before this great God with our appetite and with our tongue, for the language He best hears is silent love.",
+      "author": "St. John of the Cross",
+      "id": 509
+    },
+    {
+      "text": "If you desire to possess Christ, never seek Him without the cross.",
+      "author": "St. John of the Cross",
+      "id": 510
+    },
+    {
+      "text": "The endurance of darkness is the preparation for great light.",
+      "author": "St. John of the Cross",
+      "id": 511
+    },
+    {
+      "text": "Without love, deeds, even the most brilliant, count as nothing.",
+      "author": "St. Thérèse of Lisieux",
+      "id": 512
+    },
+    {
+      "text": "Remember that nothing is small in the eyes of God. Do all that you do with love.",
+      "author": "St. Thérèse of Lisieux",
+      "id": 513
+    },
+    {
+      "text": "The splendor of the rose and the whiteness of the lily do not rob the little violet of its scent nor the daisy of its simple charm.",
+      "author": "St. Thérèse of Lisieux",
+      "id": 514
+    },
+    {
+      "text": "God does not need our good works, but our neighbors do.",
+      "author": "St. Thérèse of Lisieux",
+      "id": 515
+    },
+    {
+      "text": "Love proves itself by deeds, so how am I to show my love? Great deeds are forbidden me. The only way I can prove my love is by scattering flowers and these flowers are every little sacrifice, every glance and word, and the doing of the least actions for love.",
+      "author": "St. Thérèse of Lisieux",
+      "id": 516
+    },
+    {
+      "text": "May today there be peace within. May you trust God that you are exactly where you are meant to be.",
+      "author": "St. Thérèse of Lisieux",
+      "id": 517
+    },
+    {
+      "text": "After my death, I will let fall a shower of roses.",
+      "author": "St. Thérèse of Lisieux",
+      "id": 518
+    },
+    {
+      "text": "Everything is a grace, everything is the direct effect of our Father's love.",
+      "author": "St. Thérèse of Lisieux",
+      "id": 519
+    },
+    {
+      "text": "To love is to give all and to give oneself.",
+      "author": "St. Thérèse of Lisieux",
+      "id": 520
+    },
+    {
+      "text": "It is not what we eat or wear that matters; it is the love we carry in our hearts that makes us beautiful.",
+      "author": "St. Mother Teresa",
+      "id": 521
+    },
+    {
+      "text": "Not all of us can do great things. But we can do small things with great love.",
+      "author": "St. Mother Teresa",
+      "id": 522
+    },
+    {
+      "text": "If you judge people, you have no time to love them.",
+      "author": "St. Mother Teresa",
+      "id": 523
+    },
+    {
+      "text": "Be faithful in small things because it is in them that your strength lies.",
+      "author": "St. Mother Teresa",
+      "id": 524
+    },
+    {
+      "text": "Do not think that love in order to be genuine has to be extraordinary.",
+      "author": "St. Mother Teresa",
+      "id": 525
+    },
+    {
+      "text": "Peace begins with a smile.",
+      "author": "St. Mother Teresa",
+      "id": 526
+    },
+    {
+      "text": "Kind words can be short and easy to speak, but their echoes are truly endless.",
+      "author": "St. Mother Teresa",
+      "id": 527
+    },
+    {
+      "text": "I alone cannot change the world, but I can cast a stone across the waters to create many ripples.",
+      "author": "St. Mother Teresa",
+      "id": 528
+    },
+    {
+      "text": "Let us always meet each other with smile, for the smile is the beginning of love.",
+      "author": "St. Mother Teresa",
+      "id": 529
+    },
+    {
+      "text": "Yesterday is gone. Tomorrow has not yet come. We have only today. Let us begin.",
+      "author": "St. Mother Teresa",
+      "id": 530
+    },
+    {
+      "text": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
+      "author": "St. Mother Teresa",
+      "id": 531
+    },
+    {
+      "text": "I am a little pencil in the hand of a writing God, who is sending a love letter to the world.",
+      "author": "St. Mother Teresa",
+      "id": 532
+    },
+    {
+      "text": "Do ordinary things with extraordinary love.",
+      "author": "St. Mother Teresa",
+      "id": 533
+    },
+    {
+      "text": "Love begins at home, and it is not how much we do, but how much love we put in that action.",
+      "author": "St. Mother Teresa",
+      "id": 534
+    },
+    {
+      "text": "Intense love does not measure, it just gives.",
+      "author": "St. Mother Teresa",
+      "id": 535
+    },
+    {
+      "text": "If we have no peace, it is because we have forgotten that we belong to each other.",
+      "author": "St. Mother Teresa",
+      "id": 536
+    },
+    {
+      "text": "To keep a lamp burning we have to keep putting oil in it.",
+      "author": "St. Mother Teresa",
+      "id": 537
+    },
+    {
+      "text": "Prayer in action is love, and love in action is service.",
+      "author": "St. Mother Teresa",
+      "id": 538
+    },
+    {
+      "text": "To acquire knowledge, one must study; but to acquire wisdom, one must observe.",
+      "author": "St. Thomas Aquinas",
+      "id": 539
+    },
+    {
+      "text": "Three things are necessary for the salvation of man: to know what he ought to believe; to know what he ought to desire; and to know what he ought to do.",
+      "author": "St. Thomas Aquinas",
+      "id": 540
+    },
+    {
+      "text": "Sorrow can be alleviated by good sleep, a bath and a glass of wine.",
+      "author": "St. Thomas Aquinas",
+      "id": 541
+    },
+    {
+      "text": "Better to illuminate than merely to shine; to deliver to others contemplated truths than merely to contemplate.",
+      "author": "St. Thomas Aquinas",
+      "id": 542
+    },
+    {
+      "text": "Beware of the person of one book.",
+      "author": "St. Thomas Aquinas",
+      "id": 543
+    },
+    {
+      "text": "If the highest aim of a captain were to preserve his ship, he would keep it in port forever.",
+      "author": "St. Thomas Aquinas",
+      "id": 544
+    },
+    {
+      "text": "Sanctify yourself and you will sanctify society.",
+      "author": "St. Francis of Assisi",
+      "id": 545
+    },
+    {
+      "text": "Act as if everything depended on you; trust as if everything depended on God.",
+      "author": "St. Ignatius of Loyola",
+      "id": 546
+    },
+    {
+      "text": "Pray as if everything depended on God. Work as if everything depended on you.",
+      "author": "St. Ignatius of Loyola",
+      "id": 547
+    },
+    {
+      "text": "For those who love, nothing is too difficult, especially when it is done for the love of our Lord Jesus Christ.",
+      "author": "St. Ignatius of Loyola",
+      "id": 548
+    },
+    {
+      "text": "Few souls understand what God would accomplish in them if they were to abandon themselves unreservedly to Him.",
+      "author": "St. Ignatius of Loyola",
+      "id": 549
+    },
+    {
+      "text": "Lord, teach me to be generous. Teach me to serve you as you deserve; to give and not to count the cost.",
+      "author": "St. Ignatius of Loyola",
+      "id": 550
+    },
+    {
+      "text": "The safest and most suitable form of penance seems to be that which causes pain in the flesh but does not penetrate to the bones, that is, which causes suffering but not sickness.",
+      "author": "St. Ignatius of Loyola",
+      "id": 551
+    },
+    {
+      "text": "In all things, look to the end.",
+      "author": "St. Ignatius of Loyola",
+      "id": 552
+    },
+    {
+      "text": "He who goes about to reform the world must begin with himself, or he loses his labor.",
+      "author": "St. Ignatius of Loyola",
+      "id": 553
+    },
+    {
+      "text": "Be careful then how you live, not as unwise people but as wise, making the most of the time, because the days are evil.",
+      "author": "Ephesians 5:15-16",
+      "id": 554
+    },
+    {
+      "text": "Love is shown more in deeds than in words.",
+      "author": "St. Ignatius of Loyola",
+      "id": 555
+    },
+    {
+      "text": "Where Peter is, there is the Church; and where the Church is, there is no death, but life eternal.",
+      "author": "St. Ambrose",
+      "id": 556
+    },
+    {
+      "text": "God freely created us so that we might know, love, and serve him in this life and be happy with him forever.",
+      "author": "St. Ignatius of Loyola",
+      "id": 557
+    },
+    {
+      "text": "All for the greater glory of God.",
+      "author": "St. Ignatius of Loyola",
+      "id": 558
+    },
+    {
+      "text": "In time of desolation, never make a change.",
+      "author": "St. Ignatius of Loyola",
+      "id": 559
+    },
+    {
+      "text": "If God causes you to suffer much, it is a sign that He has great designs for you and that He certainly intends to make you a saint.",
+      "author": "St. Ignatius of Loyola",
+      "id": 560
+    },
+    {
+      "text": "Happy are those who die in the Lord.",
+      "author": "Revelation 14:13",
+      "id": 561
+    },
+    {
+      "text": "The world promises you comfort, but you were not made for comfort. You were made for greatness.",
+      "author": "Pope Benedict XVI",
+      "id": 562
+    },
+    {
+      "text": "Being Christian is not the result of an ethical choice or a lofty idea, but the encounter with an event, a person, which gives life a new horizon and a decisive direction.",
+      "author": "Pope Benedict XVI",
+      "id": 563
+    },
+    {
+      "text": "The only really effective apologia for Christianity comes down to two arguments, namely, the saints the Church has produced and the art which has grown in her womb.",
+      "author": "Pope Benedict XVI",
+      "id": 564
+    },
+    {
+      "text": "In the saints we see the victory of love over selfishness and over death.",
+      "author": "Pope Benedict XVI",
+      "id": 565
+    },
+    {
+      "text": "Love alone is credible.",
+      "author": "Hans Urs von Balthasar",
+      "id": 566
+    },
+    {
+      "text": "Prayer is a surge of the heart; it is a simple look turned toward heaven, it is a cry of recognition and of love, embracing both trial and joy.",
+      "author": "St. Thérèse of Lisieux",
+      "id": 567
+    },
+    {
+      "text": "The greatest science is that of saving souls.",
+      "author": "St. Alphonsus Liguori",
+      "id": 568
+    },
+    {
+      "text": "Acquire the spirit of peace and thousands around you will be saved.",
+      "author": "St. Seraphim of Sarov",
+      "id": 569
+    },
+    {
+      "text": "The place of the Christian is on the front lines.",
+      "author": "Pope Francis",
+      "id": 570
+    },
+    {
+      "text": "We are not the sum of our weaknesses and failures; we are the sum of the Father's love for us.",
+      "author": "Pope St. John Paul II",
+      "id": 571
+    },
+    {
+      "text": "Do not abandon yourselves to despair. We are the Easter people and hallelujah is our song.",
+      "author": "Pope St. John Paul II",
+      "id": 572
+    },
+    {
+      "text": "As the family goes, so goes the nation and so goes the whole world in which we live.",
+      "author": "Pope St. John Paul II",
+      "id": 573
+    },
+    {
+      "text": "Freedom consists not in doing what we like, but in having the right to do what we ought.",
+      "author": "Pope St. John Paul II",
+      "id": 574
+    },
+    {
+      "text": "Love is never defeated, and I could add, the history of Ireland proves it.",
+      "author": "Pope St. John Paul II",
+      "id": 575
+    },
+    {
+      "text": "Life is entrusted to man as a treasure which must not be squandered, as a talent which must be used well.",
+      "author": "Pope St. John Paul II",
+      "id": 576
+    },
+    {
+      "text": "The cross is the school of love.",
+      "author": "Pope St. John Paul II",
+      "id": 577
+    },
+    {
+      "text": "Have no fear of moving into the unknown. Simply step out fearlessly knowing that I am with you.",
+      "author": "Pope St. John Paul II",
+      "id": 578
+    },
+    {
+      "text": "The worst prison would be a closed heart.",
+      "author": "Pope St. John Paul II",
+      "id": 579
+    },
+    {
+      "text": "Love is the only light which can constantly illuminate a world grown dim.",
+      "author": "Pope St. John Paul II",
+      "id": 580
+    },
+    {
+      "text": "It is Jesus that you seek when you dream of happiness.",
+      "author": "Pope St. John Paul II",
+      "id": 581
+    },
+    {
+      "text": "The church must breathe with her two lungs: the East and the West.",
+      "author": "Pope St. John Paul II",
+      "id": 582
+    },
+    {
+      "text": "To maintain a joyful family requires much from both the parents and the children. Each member of the family has to become, in a special way, the servant of the others.",
+      "author": "Pope St. John Paul II",
+      "id": 583
+    },
+    {
+      "text": "We must meet real challenges in a spirit of dialogue, and in the sincere conviction that, despite the conflicts and tensions in our world, we are all God's children, members of the one human family.",
+      "author": "Pope St. John Paul II",
+      "id": 584
+    },
+    {
+      "text": "In God's plan, every person is called to promote his own development, and this includes the use of economic goods.",
+      "author": "Pope St. John Paul II",
+      "id": 585
+    },
+    {
+      "text": "Science can purify religion from error and superstition. Religion can purify science from idolatry and false absolutes.",
+      "author": "Pope St. John Paul II",
+      "id": 586
+    },
+    {
+      "text": "There is no place for selfishness and no place for fear! Do not be afraid, then, when love makes demands. Do not be afraid when love requires sacrifice.",
+      "author": "Pope St. John Paul II",
+      "id": 587
+    },
+    {
+      "text": "Prayer is the best weapon we have; it is the key to God's heart.",
+      "author": "St. Padre Pio",
+      "id": 588
+    },
+    {
+      "text": "It is easier for the earth to exist without the sun than without the Holy Sacrifice of the Mass.",
+      "author": "St. Padre Pio",
+      "id": 589
+    },
+    {
+      "text": "Love the Madonna and pray the Rosary, for her Rosary is the weapon against the evils of the world today.",
+      "author": "St. Padre Pio",
+      "id": 590
+    },
+    {
+      "text": "In books we seek God; in prayer we find him.",
+      "author": "St. Padre Pio",
+      "id": 591
+    },
+    {
+      "text": "It would be easier for the world to survive without the sun than to do so without the Holy Mass.",
+      "author": "St. Padre Pio",
+      "id": 592
+    },
+    {
+      "text": "Always stay close to this heavenly Mother, because she is the sea to be crossed to reach the shores of eternal splendor.",
+      "author": "St. Padre Pio",
+      "id": 593
+    },
+    {
+      "text": "When you are in a fix, when you have troubles, when you are having difficulties, turn to your Guardian Angel.",
+      "author": "St. Padre Pio",
+      "id": 594
+    },
+    {
+      "text": "Through the study of books one seeks God; by meditation one finds him.",
+      "author": "St. Padre Pio",
+      "id": 595
+    },
+    {
+      "text": "Humility and purity are the wings which carry us to God and make us almost divine.",
+      "author": "St. Padre Pio",
+      "id": 596
+    },
+    {
+      "text": "The devil is like a rabid dog tied to a chain; beyond the length of the chain he cannot seize anyone. Keep your distance. If you approach too near, you let yourself be caught.",
+      "author": "St. Padre Pio",
+      "id": 597
+    },
+    {
+      "text": "Temptations, when we meet them at first, are as the lion that roared at Samson; but if we overcome them, the next time we see them we shall find a nest of honey within them.",
+      "author": "St. John Vianney",
+      "id": 598
+    },
+    {
+      "text": "The sins of the world are great, but they will never prevail over my mercy.",
+      "author": "St. Faustina Kowalska",
+      "id": 599
+    },
+    {
+      "text": "Jesus, I trust in You.",
+      "author": "St. Faustina Kowalska",
+      "id": 600
+    },
+    {
+      "text": "Let no soul fear to draw near to Me, even though its sins be as scarlet.",
+      "author": "Jesus to St. Faustina Kowalska",
+      "id": 601
+    },
+    {
+      "text": "In the Old Covenant I sent prophets wielding thunderbolts to My people. Today I am sending you with My mercy to the people of the whole world.",
+      "author": "Jesus to St. Faustina Kowalska",
+      "id": 602
+    },
+    {
+      "text": "The graces of My mercy are drawn by means of one vessel only, and that is trust.",
+      "author": "Jesus to St. Faustina Kowalska",
+      "id": 603
+    },
+    {
+      "text": "Souls perish in spite of My bitter Passion. I am giving them the last hope of salvation; that is, the Feast of My Mercy.",
+      "author": "Jesus to St. Faustina Kowalska",
+      "id": 604
+    },
+    {
+      "text": "I desire that the whole world know My infinite mercy. I desire to grant unimaginable graces to those souls who trust in My mercy.",
+      "author": "Jesus to St. Faustina Kowalska",
+      "id": 605
+    },
+    {
+      "text": "The soul that will go to confession and receive Holy Communion shall obtain complete forgiveness of sins and punishment.",
+      "author": "Jesus to St. Faustina Kowalska",
+      "id": 606
+    },
+    {
+      "text": "O my Jesus, You yourself must help me in everything, because You see how very little I am.",
+      "author": "St. Faustina Kowalska",
+      "id": 607
+    },
+    {
+      "text": "Without suffering, prayer lacks power.",
+      "author": "St. Faustina Kowalska",
+      "id": 608
+    },
+    {
+      "text": "Silence is so powerful a language that it reaches the throne of the living God.",
+      "author": "St. Faustina Kowalska",
+      "id": 609
+    },
+    {
+      "text": "I demand from you deeds of mercy, which are to arise out of love for Me.",
+      "author": "Jesus to St. Faustina Kowalska",
+      "id": 610
+    },
+    {
+      "text": "A soul does not benefit as much from other spiritual exercises as it does from mercy.",
+      "author": "St. Faustina Kowalska",
+      "id": 611
+    },
+    {
+      "text": "O Blood and Water, which gushed forth from the Heart of Jesus as a fountain of Mercy for us, I trust in You!",
+      "author": "St. Faustina Kowalska",
+      "id": 612
+    },
+    {
+      "text": "The true conquest is that of the kingdom within.",
+      "author": "St. Catherine of Siena",
+      "id": 613
+    },
+    {
+      "text": "Nothing great is ever achieved without much enduring.",
+      "author": "St. Catherine of Siena",
+      "id": 614
+    },
+    {
+      "text": "Preach the Truth as if you had a million voices. It is silence that kills the world.",
+      "author": "St. Catherine of Siena",
+      "id": 615
+    },
+    {
+      "text": "Start being brave about everything. Drive out darkness and spread light. Don't look at your weaknesses. Realize instead that in Christ crucified you can do everything.",
+      "author": "St. Catherine of Siena",
+      "id": 616
+    },
+    {
+      "text": "Proclaim the truth and do not be silent through fear.",
+      "author": "St. Catherine of Siena",
+      "id": 617
+    },
+    {
+      "text": "We've had enough exhortations to be silent. Cry out with a hundred thousand tongues. I see the world is rotten because of silence.",
+      "author": "St. Catherine of Siena",
+      "id": 618
+    },
+    {
+      "text": "Build a cell inside your mind, from which you can never flee.",
+      "author": "St. Catherine of Siena",
+      "id": 619
+    },
+    {
+      "text": "Do not be satisfied with little things, because God wants great things!",
+      "author": "St. Catherine of Siena",
+      "id": 620
+    },
+    {
+      "text": "The devil fears hearts on fire with love of God.",
+      "author": "St. Catherine of Siena",
+      "id": 621
+    },
+    {
+      "text": "All God's creatures are His family; and he is more generous to the bad ones than the good ones, because divinity is nothing but supreme generosity.",
+      "author": "St. Catherine of Siena",
+      "id": 622
+    },
+    {
+      "text": "The road to heaven is crucified; follow the way.",
+      "author": "St. Catherine of Siena",
+      "id": 623
+    },
+    {
+      "text": "It is no sin to fight for the right king.",
+      "author": "St. Joan of Arc",
+      "id": 624
+    },
+    {
+      "text": "I am not afraid. I was born to do this.",
+      "author": "St. Joan of Arc",
+      "id": 625
+    },
+    {
+      "text": "Act, and God will act.",
+      "author": "St. Joan of Arc",
+      "id": 626
+    },
+    {
+      "text": "I would rather die than do something which I know to be a sin.",
+      "author": "St. Joan of Arc",
+      "id": 627
+    },
+    {
+      "text": "Children say that people are hung sometimes for speaking the truth.",
+      "author": "St. Joan of Arc",
+      "id": 628
+    },
+    {
+      "text": "All battles are first won or lost, in the mind.",
+      "author": "St. Joan of Arc",
+      "id": 629
+    },
+    {
+      "text": "Get up tomorrow early in the morning, and earlier than you did today, and do the best that you can.",
+      "author": "St. Joan of Arc",
+      "id": 630
+    },
+    {
+      "text": "Hold the cross high so I may see it through the flames!",
+      "author": "St. Joan of Arc",
+      "id": 631
+    },
+    {
+      "text": "About Jesus Christ and the Church, I simply know they're just one thing, and we shouldn't complicate the matter.",
+      "author": "St. Joan of Arc",
+      "id": 632
+    },
+    {
+      "text": "Every man gives his life for what he believes. Sometimes people believe in little or nothing, and so they give their lives to little or nothing.",
+      "author": "St. Joan of Arc",
+      "id": 633
+    },
+    {
+      "text": "One life is all we have and we live it as we believe in living it.",
+      "author": "St. Joan of Arc",
+      "id": 634
+    },
+    {
+      "text": "Help yourself and God will help you.",
+      "author": "St. Joan of Arc",
+      "id": 635
+    },
+    {
+      "text": "All things are possible to one who believes, yet more to one who hopes, more still to one who loves, and most of all to one who practices and perseveres in these three virtues.",
+      "author": "St. Lawrence of Brindisi",
+      "id": 636
+    },
+    {
+      "text": "If you love, you will suffer, and if you do not love, you do not know the meaning of a Christian life.",
+      "author": "St. Agatha",
+      "id": 637
+    },
+    {
+      "text": "You must know that when you find it difficult to get to God, because of the multitude of your sins, Mary, who is the Mother of Mercy, is there with her mercy, ready to help you.",
+      "author": "St. Louis de Montfort",
+      "id": 638
+    },
+    {
+      "text": "True devotion to Mary is interior, tender, holy, constant, and disinterested.",
+      "author": "St. Louis de Montfort",
+      "id": 639
+    },
+    {
+      "text": "To Jesus through Mary.",
+      "author": "St. Louis de Montfort",
+      "id": 640
+    },
+    {
+      "text": "God alone!",
+      "author": "St. Louis de Montfort",
+      "id": 641
+    },
+    {
+      "text": "The greatest honor we can give to God is to live gladly because of the knowledge of His love.",
+      "author": "St. Julian of Norwich",
+      "id": 642
+    },
+    {
+      "text": "All shall be well, and all shall be well, and all manner of things shall be well.",
+      "author": "St. Julian of Norwich",
+      "id": 643
+    },
+    {
+      "text": "He said not 'Thou shalt not be troubled, thou shalt not be belabored, thou shalt not be afflicted'; but he said, 'Thou shalt not be overcome.'",
+      "author": "St. Julian of Norwich",
+      "id": 644
+    },
+    {
+      "text": "The fullness of joy is to behold God in everything.",
+      "author": "St. Julian of Norwich",
+      "id": 645
+    },
+    {
+      "text": "God is nearer to us than our own soul.",
+      "author": "St. Julian of Norwich",
+      "id": 646
+    },
+    {
+      "text": "Prayer unites the soul to God.",
+      "author": "St. Julian of Norwich",
+      "id": 647
+    },
+    {
+      "text": "Love was his meaning.",
+      "author": "St. Julian of Norwich",
+      "id": 648
+    },
+    {
+      "text": "God did not say: You shall not be tempest-tossed, you shall not be work-weary, you shall not be discomforted. But he said: You shall not be overcome.",
+      "author": "St. Julian of Norwich",
+      "id": 649
+    },
+    {
+      "text": "Pray inwardly, even if you do not enjoy it. It does good, though you feel nothing. Yes, even though you think you are doing nothing.",
+      "author": "St. Julian of Norwich",
+      "id": 650
+    },
+    {
+      "text": "In His love He clothes us, enfolds and embraces us; that tender love completely surrounds us, never to leave us.",
+      "author": "St. Julian of Norwich",
+      "id": 651
+    },
+    {
+      "text": "God has created me to do Him some definite service. He has committed some work to me which He has not committed to another.",
+      "author": "St. John Henry Newman",
+      "id": 652
+    },
+    {
+      "text": "Lead, kindly Light, amid the encircling gloom, lead Thou me on; the night is dark, and I am far from home.",
+      "author": "St. John Henry Newman",
+      "id": 653
+    },
+    {
+      "text": "Fear not that your life shall come to an end, but rather that it shall never have a beginning.",
+      "author": "St. John Henry Newman",
+      "id": 654
+    },
+    {
+      "text": "The Christian has a deep, silent, hidden peace, which the world sees not.",
+      "author": "St. John Henry Newman",
+      "id": 655
+    },
+    {
+      "text": "Growth is the only evidence of life.",
+      "author": "St. John Henry Newman",
+      "id": 656
+    },
+    {
+      "text": "Find work you love and you will never have to work a day in your life.",
+      "author": "St. Josemaría Escrivá",
+      "id": 657
+    },
+    {
+      "text": "Obedience is the virtue that perfects all other virtues.",
+      "author": "St. Josemaría Escrivá",
+      "id": 658
+    },
+    {
+      "text": "Holiness is not reserved for a small number of exceptional persons. All of us are called to be holy.",
+      "author": "St. Josemaría Escrivá",
+      "id": 659
+    },
+    {
+      "text": "Be convinced that nothing happens by chance. Everything has been lovingly planned by God.",
+      "author": "St. Josemaría Escrivá",
+      "id": 660
+    },
+    {
+      "text": "Don't let your life be sterile. Be useful. Make yourself felt. Shine forth with the torch of your faith and your love.",
+      "author": "St. Josemaría Escrivá",
+      "id": 661
+    },
+    {
+      "text": "The science of the Cross can be learned only from severe trials and great suffering.",
+      "author": "St. Edith Stein",
+      "id": 662
+    },
+    {
+      "text": "Do not accept anything as the truth if it lacks love. And do not accept anything as love which lacks truth!",
+      "author": "St. Edith Stein",
+      "id": 663
+    },
+    {
+      "text": "The nation doesn't simply need what we have. It needs what we are.",
+      "author": "St. Edith Stein",
+      "id": 664
+    },
+    {
+      "text": "One cannot desire freedom from the Cross when one is especially chosen for the Cross.",
+      "author": "St. Edith Stein",
+      "id": 665
+    },
+    {
+      "text": "The limitless possibilities of our relationship with God can be realized only when we move beyond our feelings.",
+      "author": "St. Edith Stein",
+      "id": 666
+    },
+    {
+      "text": "To be a child of God means to be led by the hand through the darkness by Another.",
+      "author": "Blessed Titus Brandsma",
+      "id": 667
+    },
+    {
+      "text": "Those who want to win the world for Christ must have the courage to come into conflict with it.",
+      "author": "Blessed Titus Brandsma",
+      "id": 668
+    },
+    {
+      "text": "The way to love anything is to realize that it may be lost.",
+      "author": "G.K. Chesterton",
+      "id": 669
+    },
+    {
+      "text": "The Christian ideal has not been tried and found wanting. It has been found difficult and left untried.",
+      "author": "G.K. Chesterton",
+      "id": 670
+    },
+    {
+      "text": "A dead thing can go with the stream, but only a living thing can go against it.",
+      "author": "G.K. Chesterton",
+      "id": 671
+    },
+    {
+      "text": "The Bible tells us to love our neighbors, and also to love our enemies; probably because generally they are the same people.",
+      "author": "G.K. Chesterton",
+      "id": 672
+    },
+    {
+      "text": "A saint is one who exaggerates what the world neglects.",
+      "author": "G.K. Chesterton",
+      "id": 673
+    },
+    {
+      "text": "Anything worth doing is worth doing badly.",
+      "author": "G.K. Chesterton",
+      "id": 674
+    },
+    {
+      "text": "The true soldier fights not because he hates what is in front of him, but because he loves what is behind him.",
+      "author": "G.K. Chesterton",
+      "id": 675
+    },
+    {
+      "text": "Angels can fly because they take themselves lightly.",
+      "author": "G.K. Chesterton",
+      "id": 676
+    },
+    {
+      "text": "The knowledge of God is the cause of things, for the knowledge of God is to all creatures what the knowledge of the artificer is to things made by his art.",
+      "author": "St. Thomas Aquinas",
+      "id": 677
+    },
+    {
+      "text": "How can we live in harmony? First we need to know we are all madly in love with the same God.",
+      "author": "St. Thomas Aquinas",
+      "id": 678
+    },
+    {
+      "text": "Love takes up where knowledge leaves off.",
+      "author": "St. Thomas Aquinas",
+      "id": 679
+    },
+    {
+      "text": "Wonder is the desire for knowledge.",
+      "author": "St. Thomas Aquinas",
+      "id": 680
+    },
+    {
+      "text": "Grant me, O Lord my God, a mind to know you, a heart to seek you, wisdom to find you, conduct pleasing to you, faithful perseverance in waiting for you, and a hope of finally embracing you.",
+      "author": "St. Thomas Aquinas",
+      "id": 681
+    },
+    {
+      "text": "To convert somebody go and take them by the hand and guide them.",
+      "author": "St. Thomas Aquinas",
+      "id": 682
+    },
+    {
+      "text": "Faith has to do with things that are not seen and hope with things that are not at hand.",
+      "author": "St. Thomas Aquinas",
+      "id": 683
+    },
+    {
+      "text": "Well-ordered self-love is right and natural.",
+      "author": "St. Thomas Aquinas",
+      "id": 684
+    },
+    {
+      "text": "We are like children, who stand in need of masters to enlighten us and direct us; and God has provided for this, by appointing his angels to be our teachers and guides.",
+      "author": "St. Thomas Aquinas",
+      "id": 685
+    },
+    {
+      "text": "The perfection of charity is that by which we love God with our whole heart.",
+      "author": "St. Thomas Aquinas",
+      "id": 686
+    },
+    {
+      "text": "Grace is nothing else than a certain beginning of glory in us.",
+      "author": "St. Thomas Aquinas",
+      "id": 687
+    },
+    {
+      "text": "Jesus Christ became man so that we might become God.",
+      "author": "St. Athanasius",
+      "id": 688
+    },
+    {
+      "text": "You cannot put straight in others what is warped in yourself.",
+      "author": "St. Athanasius",
+      "id": 689
+    },
+    {
+      "text": "For the Son of God became man so that we might become God.",
+      "author": "St. Athanasius",
+      "id": 690
+    },
+    {
+      "text": "Death came through sin, but by the Incarnation of the Word, death has been destroyed and life raised up anew.",
+      "author": "St. Athanasius",
+      "id": 691
+    },
+    {
+      "text": "God became man so that man might become god.",
+      "author": "St. Athanasius",
+      "id": 692
+    },
+    {
+      "text": "The devil is afraid of us when we pray and make sacrifices. He is also afraid when we are humble and good. He is especially afraid when we love Jesus very much.",
+      "author": "St. Anthony of Padua",
+      "id": 693
+    },
+    {
+      "text": "Earthly riches are like the reed. Its roots are sunk in the swamp, and its exterior is fair to behold; but inside it is hollow. If a man leans on such a reed, it will snap off and pierce his soul.",
+      "author": "St. Anthony of Padua",
+      "id": 694
+    },
+    {
+      "text": "The life of the body is the soul; the life of the soul is God.",
+      "author": "St. Anthony of Padua",
+      "id": 695
+    },
+    {
+      "text": "O wonderful, O sweet exchange! The Creator of mankind, assuming a living body, deigned to be born of the Virgin, and becoming man without man's concurrence, bestowed on us His Divinity.",
+      "author": "St. Anthony of Padua",
+      "id": 696
+    },
+    {
+      "text": "The saints are like the stars. In his providence Christ conceals them in a hidden place that they may not shine before others when they might wish to do so.",
+      "author": "St. Anthony of Padua",
+      "id": 697
+    },
+    {
+      "text": "Let us ask the Lord to give us the grace to hate sin as He hates it; to be sorry for our sins with something of the sorrow with which He bears them.",
+      "author": "St. Anthony of Padua",
+      "id": 698
+    },
+    {
+      "text": "Attribute to God every good that you have received. If you take credit for something that does not belong to you, you will be guilty of theft.",
+      "author": "St. Anthony of Padua",
+      "id": 699
+    },
+    {
+      "text": "The purest suffering bears and carries in its train the purest understanding.",
+      "author": "St. John of the Cross",
+      "id": 700
+    },
+    {
+      "text": "Live in the world as if only God and your soul were in it; then your heart will never be made captive by any earthly thing.",
+      "author": "St. John of the Cross",
+      "id": 701
+    },
+    {
+      "text": "Have a great love for those who contradict and fail to love you, for in this way love is begotten in a heart that has no love.",
+      "author": "St. John of the Cross",
+      "id": 702
+    },
+    {
+      "text": "Oh, night that guided me, Oh, night more lovely than the dawn, Oh, night that joined Beloved with lover, Lover transformed in the Beloved!",
+      "author": "St. John of the Cross",
+      "id": 703
+    },
+    {
+      "text": "The soul needs not speak, but only to suffer itself to be loved.",
+      "author": "St. John of the Cross",
+      "id": 704
+    },
+    {
+      "text": "God desires the least degree of purity of conscience in you more than all the works you can perform.",
+      "author": "St. John of the Cross",
+      "id": 705
+    },
+    {
+      "text": "Strive always to confess your sins with a deep knowledge of your own wretchedness and with clarity and purity.",
+      "author": "St. John of the Cross",
+      "id": 706
+    },
+    {
+      "text": "To reach satisfaction in all, desire its possession in nothing.",
+      "author": "St. John of the Cross",
+      "id": 707
+    },
+    {
+      "text": "If a man wishes to be sure of the road he treads on, he must close his eyes and walk in the dark.",
+      "author": "St. John of the Cross",
+      "id": 708
+    },
+    {
+      "text": "The virtues are never perfectly ours until they cost us some suffering.",
+      "author": "St. John of the Cross",
+      "id": 709
+    },
+    {
+      "text": "Launch out into the deep and you shall see.",
+      "author": "St. John of the Cross",
+      "id": 710
+    },
+    {
+      "text": "The more you seek God, the more you will find Him; and the more you find Him, the more you will love Him.",
+      "author": "St. John of the Cross",
+      "id": 711
+    },
+    {
+      "text": "He who seeks not the cross of Christ seeks not the glory of Christ.",
+      "author": "St. John of the Cross",
+      "id": 712
+    },
+    {
+      "text": "The humble knowledge of yourself is a surer way to God than the deepest search after science.",
+      "author": "Thomas à Kempis",
+      "id": 713
+    },
+    {
+      "text": "Man sees your actions, but God your intentions.",
+      "author": "Thomas à Kempis",
+      "id": 714
+    },
+    {
+      "text": "The greatest saint in the world is not he who prays most or fasts most; it is not he who gives alms, or is most eminent for temperance, chastity or justice. It is he who is most thankful to God.",
+      "author": "Thomas à Kempis",
+      "id": 715
+    },
+    {
+      "text": "First keep the peace within yourself, then you can also bring peace to others.",
+      "author": "Thomas à Kempis",
+      "id": 716
+    },
+    {
+      "text": "Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be.",
+      "author": "Thomas à Kempis",
+      "id": 717
+    },
+    {
+      "text": "Without the way, there is no going; without the truth, there is no knowing; without the life, there is no living.",
+      "author": "Thomas à Kempis",
+      "id": 718
+    },
+    {
+      "text": "If your heart is pure, then all things in your world are pure.",
+      "author": "Thomas à Kempis",
+      "id": 719
+    },
+    {
+      "text": "At the Day of Judgment, we shall not be asked what we have read, but what we have done.",
+      "author": "Thomas à Kempis",
+      "id": 720
+    },
+    {
+      "text": "Wherever you are, whatever you do, seek always to find God.",
+      "author": "Thomas à Kempis",
+      "id": 721
+    },
+    {
+      "text": "What do you desire, love, or fear but the changeable things of time?",
+      "author": "Thomas à Kempis",
+      "id": 722
+    },
+    {
+      "text": "If you wish to know and appreciate something, try to obtain this thing by your own efforts.",
+      "author": "Thomas à Kempis",
+      "id": 723
+    },
+    {
+      "text": "Never be entirely idle; but either be reading, or writing, or praying or meditating or endeavoring something for the public good.",
+      "author": "Thomas à Kempis",
+      "id": 724
+    },
+    {
+      "text": "What is there in life that can give you greater content than to work for the Kingdom of God?",
+      "author": "Thomas à Kempis",
+      "id": 725
+    },
+    {
+      "text": "A pure heart and good conscience will give you boldness in the presence of God.",
+      "author": "Thomas à Kempis",
+      "id": 726
+    },
+    {
+      "text": "Who is braver: the man with a thousand men at his side, or he who faces a thousand alone?",
+      "author": "St. Columba",
+      "id": 727
+    },
+    {
+      "text": "Christ is my Druid.",
+      "author": "St. Columba",
+      "id": 728
+    },
+    {
+      "text": "I see the secret way things are.",
+      "author": "St. Columba",
+      "id": 729
+    },
+    {
+      "text": "Alone with none but Thee, my God, I journey on my way.",
+      "author": "St. Columba",
+      "id": 730
+    },
+    {
+      "text": "Never give a hollow greeting to a friend, or pay a hollow compliment.",
+      "author": "St. Columba",
+      "id": 731
+    },
+    {
+      "text": "Make holy these gifts, we pray, and let us who celebrate this sacrifice turn away from our sinful ways.",
+      "author": "Ancient Celtic Prayer",
+      "id": 732
+    },
+    {
+      "text": "Let me seek You in longing, let me long for You in seeking; let me find You in love, and love You in finding.",
+      "author": "St. Anselm",
+      "id": 733
+    },
+    {
+      "text": "God is that, the greater than which cannot be conceived.",
+      "author": "St. Anselm",
+      "id": 734
+    },
+    {
+      "text": "For I do not seek to understand so that I may believe; but I believe so that I may understand.",
+      "author": "St. Anselm",
+      "id": 735
+    },
+    {
+      "text": "The prayers and tears of God's people are never lost, for God treasures both, and they never fail to have their effect in his time and his way.",
+      "author": "St. Anselm",
+      "id": 736
+    },
+    {
+      "text": "We believe by loving.",
+      "author": "St. Anselm",
+      "id": 737
+    },
+    {
+      "text": "O Lord my God, teach my heart where and how to seek You, where and how to find You.",
+      "author": "St. Anselm",
+      "id": 738
+    },
+    {
+      "text": "The knowledge of God is the cause of things.",
+      "author": "St. Anselm",
+      "id": 739
+    },
+    {
+      "text": "I have no hope but in Thy great mercy.",
+      "author": "St. Anselm",
+      "id": 740
+    },
+    {
+      "text": "God often delays the answer to our prayers, because He wants us to ask again and again, and to seek Him with all our hearts.",
+      "author": "St. Anselm",
+      "id": 741
+    },
+    {
+      "text": "That than which nothing greater can be thought cannot be in the mind alone.",
+      "author": "St. Anselm",
+      "id": 742
+    },
+    {
+      "text": "You have created us for Yourself, and our heart cannot be stilled until it finds rest in You.",
+      "author": "St. Anselm",
+      "id": 743
+    },
+    {
+      "text": "The Devil is a liar. He will lie to confuse us; but he will also mix lies with the truth to attack us.",
+      "author": "St. Columba",
+      "id": 744
+    },
+    {
+      "text": "Nothing is more powerful than the humble, simple prayer of a faithful Christian.",
+      "author": "St. John Chrysostom",
+      "id": 745
+    },
+    {
+      "text": "Prayer is the place of refuge for every worry, a foundation for cheerfulness, a source of constant happiness, a protection against sadness.",
+      "author": "St. John Chrysostom",
+      "id": 746
+    },
+    {
+      "text": "The road to heaven is narrow but joyful and easy for those who walk it.",
+      "author": "St. John Chrysostom",
+      "id": 747
+    },
+    {
+      "text": "When you are before the altar and distributing Holy Communion, you stand as if in heaven itself.",
+      "author": "St. John Chrysostom",
+      "id": 748
+    },
+    {
+      "text": "Let us show Him the wounds which we received in His service and He will show us the scars which He bears for us.",
+      "author": "St. John Chrysostom",
+      "id": 749
+    },
+    {
+      "text": "No act of virtue can be great if it is not followed by advantage for others. So, no matter how much time you spend fasting, no matter how much you sleep on a hard floor and eat ashes and sigh continually, if you do no good to others, you do nothing great.",
+      "author": "St. John Chrysostom",
+      "id": 750
+    },
+    {
+      "text": "God allows us to experience the low points of life in order to teach us lessons that we could learn in no other way.",
+      "author": "C.S. Lewis",
+      "id": 751
+    },
+    {
+      "text": "A man can no more diminish God's glory by refusing to worship Him than a lunatic can put out the sun by scribbling the word 'darkness' on the walls of his cell.",
+      "author": "C.S. Lewis",
+      "id": 752
+    },
+    {
+      "text": "I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else.",
+      "author": "C.S. Lewis",
+      "id": 753
+    },
+    {
+      "text": "Humility is not thinking less of yourself, it's thinking of yourself less.",
+      "author": "C.S. Lewis",
+      "id": 754
+    },
+    {
+      "text": "You are never too old to set another goal or to dream a new dream.",
+      "author": "C.S. Lewis",
+      "id": 755
+    },
+    {
+      "text": "Hardships often prepare ordinary people for an extraordinary destiny.",
+      "author": "C.S. Lewis",
+      "id": 756
+    },
+    {
+      "text": "The task of the modern educator is not to cut down jungles, but to irrigate deserts.",
+      "author": "C.S. Lewis",
+      "id": 757
+    },
+    {
+      "text": "You can't go back and change the beginning, but you can start where you are and change the ending.",
+      "author": "C.S. Lewis",
+      "id": 758
+    },
+    {
+      "text": "Courage is not simply one of the virtues, but the form of every virtue at the testing point.",
+      "author": "C.S. Lewis",
+      "id": 759
+    },
+    {
+      "text": "If you read history you will find that the Christians who did most for the present world were precisely those who thought most of the next.",
+      "author": "C.S. Lewis",
+      "id": 760
+    },
+    {
+      "text": "What draws people to be friends is that they see the same truth. They share it.",
+      "author": "C.S. Lewis",
+      "id": 761
+    },
+    {
+      "text": "If we really think that home is elsewhere and that this life is a wandering to find home, why should we not look forward to the arrival?",
+      "author": "C.S. Lewis",
+      "id": 762
+    },
+    {
+      "text": "Love is not affectionate feeling, but a steady wish for the loved person's ultimate good as far as it can be obtained.",
+      "author": "C.S. Lewis",
+      "id": 763
+    },
+    {
+      "text": "Aim at heaven and you will get earth thrown in. Aim at earth and you get neither.",
+      "author": "C.S. Lewis",
+      "id": 764
+    },
+    {
+      "text": "God cannot give us a happiness and peace apart from Himself, because it is not there. There is no such thing.",
+      "author": "C.S. Lewis",
+      "id": 765
+    },
+    {
+      "text": "We must lay before Him what is in us, not what ought to be in us.",
+      "author": "C.S. Lewis",
+      "id": 766
+    },
+    {
+      "text": "The Christian does not think God will love us because we are good, but that God will make us good because He loves us.",
+      "author": "C.S. Lewis",
+      "id": 767
+    },
+    {
+      "text": "Relying on God has to begin all over again every day as if nothing had yet been done.",
+      "author": "C.S. Lewis",
+      "id": 768
+    },
+    {
+      "text": "The door on which we have been knocking all our lives will open at last.",
+      "author": "C.S. Lewis",
+      "id": 769
+    },
+    {
+      "text": "The only people who achieve much are those who want knowledge so badly that they seek it while the conditions are still unfavorable.",
+      "author": "C.S. Lewis",
+      "id": 770
+    },
+    {
+      "text": "God whispers to us in our pleasures, speaks in our conscience, but shouts in our pains: it is His megaphone to rouse a deaf world.",
+      "author": "C.S. Lewis",
+      "id": 771
+    },
+    {
+      "text": "Every time we make a choice we are turning the central part of us into something a little different from what it was before.",
+      "author": "Venerable Fulton J. Sheen",
+      "id": 772
+    },
+    {
+      "text": "There are not one hundred people in the United States who hate The Catholic Church, but there are millions who hate what they wrongly perceive the Catholic Church to be.",
+      "author": "Venerable Fulton J. Sheen",
+      "id": 773
+    },
+    {
+      "text": "You must remember to love people and use things, rather than to love things and use people.",
+      "author": "Venerable Fulton J. Sheen",
+      "id": 774
+    },
+    {
+      "text": "Hearing Mass is the ceremony I most favor during my travels. Church is the only place where someone speaks to me and I do not have to answer back.",
+      "author": "Venerable Fulton J. Sheen",
+      "id": 775
+    },
+    {
+      "text": "Once you have surrendered yourself, you make yourself receptive. In receiving from God, you are perfected and completed.",
+      "author": "Venerable Fulton J. Sheen",
+      "id": 776
+    },
+    {
+      "text": "Moral principles do not depend on a majority vote. Wrong is wrong, even if everybody is wrong. Right is right, even if nobody is right.",
+      "author": "Venerable Fulton J. Sheen",
+      "id": 777
+    },
+    {
+      "text": "Pride is an admission of weakness; it secretly fears all competition and dreads all rivals.",
+      "author": "Venerable Fulton J. Sheen",
+      "id": 778
+    },
+    {
+      "text": "The proud man counts his newspaper clippings, the humble man his blessings.",
+      "author": "Venerable Fulton J. Sheen",
+      "id": 779
+    },
+    {
+      "text": "If you do not worship God, you worship something, and nine times out of ten it will be yourself.",
+      "author": "Venerable Fulton J. Sheen",
+      "id": 780
+    },
+    {
+      "text": "The refusal to take sides on great moral issues is itself a decision. It is a silent acquiescence to evil.",
+      "author": "Venerable Fulton J. Sheen",
+      "id": 781
+    },
+    {
+      "text": "Patience is power. Patience is not an absence of action; rather it is timing. It waits on the right time to act, for the right principles and in the right way.",
+      "author": "Venerable Fulton J. Sheen",
+      "id": 782
+    },
+    {
+      "text": "The big challenge of life is to decide what is important and to disregard everything else.",
+      "author": "Venerable Fulton J. Sheen",
+      "id": 783
+    },
+    {
+      "text": "Love is a mutual self-giving which ends in self-recovery.",
+      "author": "Venerable Fulton J. Sheen",
+      "id": 784
+    },
+    {
+      "text": "When a man loves a woman, he has to become worthy of her. The higher her virtue, the more noble her character, the more devoted she is to truth, justice, goodness, the more a man has to aspire to be worthy of her.",
+      "author": "Venerable Fulton J. Sheen",
+      "id": 785
+    },
+    {
+      "text": "Unless there is a Good Friday in your life, there can be no Easter Sunday.",
+      "author": "Venerable Fulton J. Sheen",
+      "id": 786
+    },
+    {
+      "text": "Jealousy is the tribute that mediocrity pays to genius.",
+      "author": "Venerable Fulton J. Sheen",
+      "id": 787
+    },
+    {
+      "text": "The way to find out if you really love God is to be delighted when someone else is preferred over you.",
+      "author": "Venerable Fulton J. Sheen",
+      "id": 788
+    },
+    {
+      "text": "If He who was without sin prayed, how much more ought sinners to pray?",
+      "author": "St. Cyprian",
+      "id": 789
+    },
+    {
+      "text": "Shake the dust from your feet.",
+      "author": "Matthew 10:14",
+      "id": 790
+    }
+  ],
+  "playback": {
+    "shuffledOrder": [
+      566,
+      744,
+      44,
+      618,
+      742,
+      631,
+      790,
+      664,
+      15,
+      346,
+      118,
+      274,
+      368,
+      113,
+      555,
+      351,
+      377,
+      49,
+      143,
+      397,
+      408,
+      459,
+      184,
+      231,
+      565,
+      447,
+      210,
+      628,
+      79,
+      787,
+      54,
+      695,
+      691,
+      266,
+      409,
+      613,
+      72,
+      95,
+      561,
+      126,
+      112,
+      122,
+      448,
+      721,
+      466,
+      453,
+      81,
+      230,
+      78,
+      388,
+      146,
+      265,
+      297,
+      616,
+      329,
+      519,
+      116,
+      167,
+      69,
+      522,
+      674,
+      650,
+      252,
+      524,
+      579,
+      535,
+      444,
+      253,
+      458,
+      472,
+      637,
+      617,
+      764,
+      726,
+      405,
+      281,
+      257,
+      295,
+      25,
+      40,
+      262,
+      428,
+      335,
+      31,
+      439,
+      111,
+      735,
+      666,
+      480,
+      283,
+      521,
+      364,
+      208,
+      775,
+      709,
+      2,
+      517,
+      398,
+      379,
+      229,
+      761,
+      706,
+      326,
+      460,
+      733,
+      202,
+      515,
+      585,
+      751,
+      170,
+      594,
+      386,
+      412,
+      356,
+      99,
+      510,
+      76,
+      431,
+      359,
+      660,
+      35,
+      638,
+      702,
+      344,
+      127,
+      80,
+      525,
+      217,
+      36,
+      543,
+      511,
+      569,
+      267,
+      347,
+      249,
+      92,
+      632,
+      653,
+      456,
+      476,
+      348,
+      773,
+      436,
+      168,
+      115,
+      443,
+      757,
+      154,
+      489,
+      100,
+      455,
+      165,
+      192,
+      600,
+      109,
+      206,
+      200,
+      627,
+      572,
+      389,
+      310,
+      503,
+      339,
+      171,
+      177,
+      635,
+      357,
+      542,
+      355,
+      241,
+      75,
+      599,
+      245,
+      768,
+      124,
+      597,
+      354,
+      604,
+      425,
+      280,
+      27,
+      391,
+      614,
+      772,
+      644,
+      322,
+      621,
+      367,
+      141,
+      380,
+      307,
+      240,
+      316,
+      568,
+      156,
+      477,
+      701,
+      732,
+      747,
+      365,
+      362,
+      518,
+      407,
+      318,
+      394,
+      667,
+      698,
+      610,
+      211,
+      246,
+      502,
+      642,
+      716,
+      606,
+      756,
+      492,
+      155,
+      233,
+      490,
+      769,
+      282,
+      12,
+      324,
+      470,
+      630,
+      306,
+      268,
+      331,
+      215,
+      105,
+      481,
+      330,
+      349,
+      218,
+      0,
+      361,
+      197,
+      242,
+      328,
+      479,
+      128,
+      196,
+      475,
+      694,
+      563,
+      749,
+      343,
+      298,
+      129,
+      684,
+      636,
+      225,
+      224,
+      743,
+      416,
+      73,
+      620,
+      559,
+      699,
+      392,
+      237,
+      370,
+      762,
+      173,
+      406,
+      195,
+      86,
+      679,
+      607,
+      528,
+      163,
+      291,
+      7,
+      789,
+      20,
+      483,
+      21,
+      103,
+      558,
+      204,
+      427,
+      382,
+      66,
+      424,
+      254,
+      434,
+      313,
+      338,
+      446,
+      9,
+      445,
+      685,
+      384,
+      47,
+      157,
+      383,
+      682,
+      759,
+      130,
+      781,
+      676,
+      493,
+      663,
+      125,
+      320,
+      363,
+      149,
+      232,
+      321,
+      602,
+      410,
+      369,
+      250,
+      98,
+      547,
+      634,
+      755,
+      578,
+      278,
+      420,
+      60,
+      53,
+      512,
+      33,
+      120,
+      495,
+      23,
+      220,
+      317,
+      615,
+      251,
+      332,
+      272,
+      336,
+      640,
+      573,
+      350,
+      544,
+      730,
+      648,
+      366,
+      148,
+      91,
+      487,
+      562,
+      96,
+      1,
+      760,
+      145,
+      14,
+      783,
+      50,
+      70,
+      549,
+      133,
+      584,
+      209,
+      534,
+      82,
+      619,
+      513,
+      46,
+      782,
+      577,
+      712,
+      788,
+      723,
+      305,
+      300,
+      570,
+      705,
+      450,
+      90,
+      131,
+      692,
+      605,
+      59,
+      591,
+      150,
+      421,
+      106,
+      301,
+      371,
+      198,
+      651,
+      277,
+      64,
+      314,
+      774,
+      183,
+      169,
+      625,
+      540,
+      598,
+      259,
+      452,
+      191,
+      778,
+      207,
+      696,
+      158,
+      6,
+      194,
+      507,
+      462,
+      473,
+      387,
+      160,
+      587,
+      552,
+      190,
+      236,
+      327,
+      729,
+      223,
+      700,
+      179,
+      687,
+      83,
+      26,
+      739,
+      294,
+      84,
+      136,
+      71,
+      11,
+      201,
+      713,
+      461,
+      287,
+      438,
+      451,
+      172,
+      58,
+      63,
+      551,
+      626,
+      590,
+      608,
+      378,
+      478,
+      467,
+      247,
+      516,
+      704,
+      430,
+      496,
+      188,
+      256,
+      449,
+      688,
+      285,
+      352,
+      17,
+      334,
+      581,
+      508,
+      737,
+      506,
+      261,
+      403,
+      557,
+      548,
+      199,
+      22,
+      728,
+      185,
+      612,
+      765,
+      567,
+      304,
+      258,
+      504,
+      731,
+      37,
+      51,
+      5,
+      435,
+      13,
+      286,
+      662,
+      725,
+      633,
+      786,
+      736,
+      740,
+      132,
+      748,
+      52,
+      656,
+      697,
+      411,
+      121,
+      293,
+      244,
+      514,
+      629,
+      589,
+      671,
+      523,
+      658,
+      88,
+      273,
+      770,
+      520,
+      119,
+      373,
+      571,
+      166,
+      497,
+      358,
+      672,
+      213,
+      288,
+      722,
+      8,
+      693,
+      646,
+      263,
+      303,
+      463,
+      471,
+      311,
+      292,
+      102,
+      255,
+      309,
+      374,
+      564,
+      153,
+      678,
+      212,
+      649,
+      43,
+      474,
+      219,
+      93,
+      18,
+      554,
+      135,
+      717,
+      423,
+      429,
+      239,
+      137,
+      715,
+      586,
+      588,
+      538,
+      94,
+      767,
+      464,
+      117,
+      530,
+      419,
+      302,
+      580,
+      738,
+      19,
+      659,
+      529,
+      546,
+      214,
+      750,
+      147,
+      323,
+      151,
+      622,
+      345,
+      488,
+      193,
+      142,
+      182,
+      719,
+      342,
+      360,
+      65,
+      24,
+      175,
+      482,
+      228,
+      77,
+      734,
+      574,
+      501,
+      393,
+      624,
+      38,
+      162,
+      174,
+      4,
+      62,
+      654,
+      97,
+      745,
+      234,
+      689,
+      582,
+      714,
+      583,
+      785,
+      341,
+      181,
+      333,
+      531,
+      180,
+      484,
+      652,
+      623,
+      226,
+      442,
+      275,
+      203,
+      763,
+      710,
+      56,
+      110,
+      593,
+      139,
+      417,
+      780,
+      681,
+      454,
+      55,
+      28,
+      426,
+      683,
+      164,
+      74,
+      575,
+      279,
+      527,
+      711,
+      138,
+      468,
+      680,
+      541,
+      498,
+      746,
+      486,
+      243,
+      670,
+      289,
+      32,
+      437,
+      290,
+      104,
+      673,
+      415,
+      312,
+      159,
+      67,
+      34,
+      596,
+      592,
+      707,
+      381,
+      45,
+      375,
+      440,
+      89,
+      48,
+      227,
+      784,
+      315,
+      42,
+      308,
+      353,
+      595,
+      61,
+      669,
+      645,
+      708,
+      271,
+      441,
+      556,
+      533,
+      532,
+      396,
+      457,
+      189,
+      724,
+      545,
+      216,
+      390,
+      402,
+      144,
+      107,
+      337,
+      176,
+      469,
+      299,
+      222,
+      727,
+      536,
+      720,
+      186,
+      413,
+      485,
+      758,
+      741,
+      187,
+      526,
+      611,
+      665,
+      325,
+      718,
+      152,
+      576,
+      655,
+      494,
+      101,
+      603,
+      395,
+      661,
+      41,
+      114,
+      10,
+      433,
+      675,
+      16,
+      753,
+      422,
+      57,
+      414,
+      657,
+      85,
+      505,
+      87,
+      771,
+      108,
+      499,
+      509,
+      754,
+      677,
+      609,
+      248,
+      400,
+      39,
+      205,
+      401,
+      668,
+      123,
+      686,
+      29,
+      161,
+      550,
+      560,
+      134,
+      376,
+      235,
+      500,
+      752,
+      68,
+      553,
+      385,
+      319,
+      779,
+      703,
+      238,
+      539,
+      284,
+      537,
+      178,
+      432,
+      641,
+      690,
+      296,
+      777,
+      776,
+      269,
+      399,
+      372,
+      465,
+      643,
+      3,
+      418,
+      340,
+      30,
+      647,
+      140,
+      221,
+      766,
+      601,
+      639,
+      264,
+      260,
+      276,
+      404,
+      491,
+      270
+    ],
+    "currentIndex": 0,
+    "cycleNumber": 1,
+    "lastUpdated": "2025-09-30"
+  }
+}

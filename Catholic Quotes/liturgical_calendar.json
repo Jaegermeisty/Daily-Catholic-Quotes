@@ -1,0 +1,1984 @@
+{
+  "fixedDates": {
+    "01-01": {
+      "celebration": "Solemnity of Mary, the Holy Mother of God",
+      "rank": "solemnity",
+      "color": "white",
+      "season": "Christmas",
+      "quotes": [
+        {
+          "text": "Mary is more blessed in receiving the faith of Christ than in conceiving the flesh of Christ.",
+          "author": "St. Augustine"
+        },
+        {
+          "text": "Never be afraid of loving the Blessed Virgin too much; you can never love her more than Jesus did.",
+          "author": "St. Maximilian Kolbe"
+        }
+      ]
+    },
+    "01-02": {
+      "celebration": "Sts. Basil the Great and Gregory Nazianzen",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Christmas",
+      "quotes": [
+        {
+          "text": "A tree is known by its fruit; a man by his deeds.",
+          "author": "St. Basil the Great"
+        },
+        {
+          "text": "Let us not esteem worldly prosperity or adversity as things real or of any moment, but let us live elsewhere, and raise all our attention to Heaven.",
+          "author": "St. Gregory Nazianzen"
+        }
+      ]
+    },
+    "01-03": {
+      "celebration": "The Most Holy Name of Jesus",
+      "rank": "optional memorial",
+      "color": "white",
+      "season": "Christmas",
+      "quotes": [
+        {
+          "text": "The name of Jesus is the light that feeds, the light that radiates, and the light that shines.",
+          "author": "St. Bernardine of Siena"
+        },
+        {
+          "text": "The name of Jesus, uttered with confidence, puts the devil to flight.",
+          "author": "St. John Vianney"
+        }
+      ]
+    },
+    "01-06": {
+      "celebration": "The Epiphany of the Lord",
+      "rank": "solemnity",
+      "color": "white",
+      "season": "Christmas",
+      "quotes": [
+        {
+          "text": "Truth, by which the world is held together, has sprung from the earth in order to dwell among men.",
+          "author": "St. Augustine"
+        },
+        {
+          "text": "Christ was not found by the scribes who stayed at home, but by the Magi who took pains and went on a long journey.",
+          "author": "St. John Chrysostom"
+        }
+      ]
+    },
+    "01-17": {
+      "celebration": "St. Anthony",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Christmas",
+      "quotes": [
+        {
+          "text": "I saw the snares that the enemy spreads out over the world and I said, groaning, 'What can get through from such snares?' Then I heard a voice saying to me, 'Humility.'",
+          "author": "St. Anthony the Great"
+        },
+        {
+          "text": "The devil is afraid of us when we pray and make sacrifices; he is also afraid when we are humble and good.",
+          "author": "St. Anthony the Great"
+        }
+      ]
+    },
+    "01-20": {
+      "celebration": "St. Fabian",
+      "rank": "optional memorial",
+      "color": "red",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "God's Church stands steadfast, founded upon the blood of martyrs.",
+          "author": "St. Fabian"
+        },
+        {
+          "text": "We must cling to the faith of the apostles, for in it is our strength and salvation.",
+          "author": "St. Fabian"
+        }
+      ]
+    },
+    "01-21": {
+      "celebration": "St. Agnes",
+      "rank": "memorial",
+      "color": "red",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Christ made my soul beautiful with the jewels of grace and virtue. I belong to Him whom the angels serve.",
+          "author": "St. Agnes"
+        },
+        {
+          "text": "It is to Him alone that I am betrothed. With Him I am promised, with Him I shall remain.",
+          "author": "St. Agnes"
+        }
+      ]
+    },
+    "01-24": {
+      "celebration": "St. Francis de Sales",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Have patience with all things, but first of all with yourself.",
+          "author": "St. Francis de Sales"
+        },
+        {
+          "text": "Nothing is so strong as gentleness, nothing so gentle as real strength.",
+          "author": "St. Francis de Sales"
+        }
+      ]
+    },
+    "01-25": {
+      "celebration": "The Conversion of St. Paul",
+      "rank": "feast",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "I live, now not I, but Christ lives in me.",
+          "author": "St. Paul"
+        },
+        {
+          "text": "The Apostle Paul is a vessel of election, chosen to carry the name of Christ before kings and nations.",
+          "author": "St. Augustine"
+        }
+      ]
+    },
+    "01-26": {
+      "celebration": "Sts. Timothy and Titus",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Fight the good fight of the faith; take hold of the eternal life to which you were called.",
+          "author": "St. Paul to St. Timothy"
+        },
+        {
+          "text": "For the grace of God has appeared, bringing salvation to all men.",
+          "author": "St. Paul to St. Titus"
+        }
+      ]
+    },
+    "01-28": {
+      "celebration": "St. Thomas Aquinas",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "The things that we love tell us what we are.",
+          "author": "St. Thomas Aquinas"
+        },
+        {
+          "text": "To one who has faith, no explanation is necessary. To one without faith, no explanation is possible.",
+          "author": "St. Thomas Aquinas"
+        }
+      ]
+    },
+    "01-31": {
+      "celebration": "St. John Bosco",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Run, jump, shout, but do not sin.",
+          "author": "St. John Bosco"
+        },
+        {
+          "text": "Do good while you still have time.",
+          "author": "St. John Bosco"
+        }
+      ]
+    },
+    "02-02": {
+      "celebration": "The Presentation of the Lord",
+      "rank": "feast",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "My eyes have seen your salvation, which you prepared in the sight of all peoples.",
+          "author": "St. Simeon (Luke 2:30-31)"
+        },
+        {
+          "text": "The old man received the Child, but the Child governed the old man.",
+          "author": "St. Augustine, on the Presentation"
+        }
+      ]
+    },
+    "02-05": {
+      "celebration": "St. Agatha",
+      "rank": "memorial",
+      "color": "red",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Be faithful even unto death, for the crown of life awaits the faithful.",
+          "author": "St. Agatha"
+        },
+        {
+          "text": "I offer my suffering to God, who strengthens the humble and the pure of heart.",
+          "author": "St. Agatha"
+        }
+      ]
+    },
+    "02-06": {
+      "celebration": "St. Paul Miki and Companions",
+      "rank": "memorial",
+      "color": "red",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "I am a Christian, and I cannot deny Christ.",
+          "author": "St. Paul Miki"
+        },
+        {
+          "text": "We rejoice to suffer for the name of Jesus, for eternal life is ours.",
+          "author": "St. Paul Miki and Companions"
+        }
+      ]
+    },
+    "02-10": {
+      "celebration": "St. Scholastica",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Prayer is the food of the soul; never let it be lacking.",
+          "author": "St. Scholastica"
+        },
+        {
+          "text": "God's mercy is abundant; trust in Him at all times.",
+          "author": "St. Scholastica"
+        }
+      ]
+    },
+    "02-14": {
+      "celebration": "Sts. Cyril and Methodius",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Glorify God with your mind and your work, so that all may know Him.",
+          "author": "St. Cyril"
+        },
+        {
+          "text": "Go forth and teach the nations in faith and love, bringing the light of Christ to all peoples.",
+          "author": "St. Methodius"
+        }
+      ]
+    },
+    "02-22": {
+      "celebration": "The Chair of St. Peter",
+      "rank": "feast",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "You are Peter, and on this rock I will build my Church.",
+          "author": "Jesus Christ (Matthew 16:18)"
+        },
+        {
+          "text": "The blessed Peter, chosen by the Lord, was made the foundation of the Church, that we might be built up in the faith.",
+          "author": "Pope Leo the Great"
+        }
+      ]
+    },
+    "02-23": {
+      "celebration": "St. Polycarp",
+      "rank": "memorial",
+      "color": "red",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Stand fast, therefore, in the faith, and love one another, as you have always done.",
+          "author": "St. Polycarp"
+        },
+        {
+          "text": "Eighty and six years have I served Christ, and He has done me no wrong.",
+          "author": "St. Polycarp, on his martyrdom"
+        }
+      ]
+    },
+    "03-07": {
+      "celebration": "Sts. Perpetua and Felicity",
+      "rank": "memorial",
+      "color": "red",
+      "season": "Lent",
+      "quotes": [
+        {
+          "text": "I am not afraid of what you fear; I am a Christian.",
+          "author": "St. Perpetua"
+        },
+        {
+          "text": "We rejoice to suffer for Christ, for eternal life is ours.",
+          "author": "St. Felicity"
+        }
+      ]
+    },
+    "03-17": {
+      "celebration": "St. Patrick",
+      "rank": "optional memorial",
+      "color": "white",
+      "season": "Lent",
+      "quotes": [
+        {
+          "text": "Christ with me, Christ before me, Christ behind me, Christ in me.",
+          "author": "St. Patrick"
+        },
+        {
+          "text": "The love of God and His grace can transform hearts and nations.",
+          "author": "St. Patrick"
+        }
+      ]
+    },
+    "03-19": {
+      "celebration": "St. Joseph, Spouse of the Blessed Virgin Mary",
+      "rank": "solemnity",
+      "color": "white",
+      "season": "Lent",
+      "quotes": [
+        {
+          "text": "Do not be afraid to take Mary as your wife, for what is conceived in her is from the Holy Spirit.",
+          "author": "Angel to St. Joseph"
+        },
+        {
+          "text": "Let anyone who desires to honor St. Joseph know that he was chosen by God to be the guardian of the Virgin Mother and of Jesus Christ.",
+          "author": "St. Bernardine of Siena"
+        }
+      ]
+    },
+    "03-25": {
+      "celebration": "The Annunciation of the Lord",
+      "rank": "solemnity",
+      "color": "white",
+      "season": "Lent",
+      "quotes": [
+        {
+          "text": "Hail, full of grace, the Lord is with you.",
+          "author": "Angel Gabriel (Luke 1:28)"
+        },
+        {
+          "text": "O Mary, by your fiat, heaven was opened and salvation entered the world.",
+          "author": "St. Bernard of Clairvaux"
+        }
+      ]
+    },
+    "04-07": {
+      "celebration": "St. John Baptist de la Salle",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Easter",
+      "quotes": [
+        {
+          "text": "Let us remember that we are in the holy presence of God.",
+          "author": "St. John Baptist de la Salle"
+        },
+        {
+          "text": "In all your works, teach the young not only with words but with example and love.",
+          "author": "St. John Baptist de la Salle"
+        }
+      ]
+    },
+    "04-11": {
+      "celebration": "St. Stanislaus",
+      "rank": "memorial",
+      "color": "red",
+      "season": "Easter",
+      "quotes": [
+        {
+          "text": "It is better to die for the faith than to deny the truth of Christ.",
+          "author": "St. Stanislaus"
+        },
+        {
+          "text": "A shepherd must defend his flock, even unto death.",
+          "author": "St. Stanislaus"
+        }
+      ]
+    },
+    "04-13": {
+      "celebration": "St. Martin I",
+      "rank": "optional memorial",
+      "color": "red",
+      "season": "Easter",
+      "quotes": [
+        {
+          "text": "The Lord is my helper; I will not fear what man shall do to me.",
+          "author": "St. Martin I"
+        },
+        {
+          "text": "Truth demands that we stand firm, even when the cost is great.",
+          "author": "St. Martin I"
+        }
+      ]
+    },
+    "04-25": {
+      "celebration": "St. Mark",
+      "rank": "feast",
+      "color": "red",
+      "season": "Easter",
+      "quotes": [
+        {
+          "text": "The beginning of the gospel of Jesus Christ, the Son of God.",
+          "author": "St. Mark (Mark 1:1)"
+        },
+        {
+          "text": "Go into all the world and preach the gospel to every creature.",
+          "author": "Mark 16:15"
+        }
+      ]
+    },
+    "04-29": {
+      "celebration": "St. Catherine of Siena",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Easter",
+      "quotes": [
+        {
+          "text": "Be who God meant you to be and you will set the world on fire.",
+          "author": "St. Catherine of Siena"
+        },
+        {
+          "text": "All the way to heaven is heaven, for He said, 'I am the Way.'",
+          "author": "St. Catherine of Siena"
+        }
+      ]
+    },
+    "04-30": {
+      "celebration": "St. Pius V",
+      "rank": "optional memorial",
+      "color": "white",
+      "season": "Easter",
+      "quotes": [
+        {
+          "text": "The Church needs faithful shepherds who guard her doctrine and lead souls to Christ.",
+          "author": "St. Pius V"
+        },
+        {
+          "text": "Through prayer and penance, we obtain grace for ourselves and for the whole Church.",
+          "author": "St. Pius V"
+        }
+      ]
+    },
+    "05-02": {
+      "celebration": "St. Athanasius",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Easter",
+      "quotes": [
+        {
+          "text": "The Son of God became man so that we might become God.",
+          "author": "St. Athanasius"
+        },
+        {
+          "text": "Even if Catholics faithful to tradition are reduced to a handful, they are the ones who are the true Church.",
+          "author": "St. Athanasius"
+        }
+      ]
+    },
+    "05-03": {
+      "celebration": "Sts. Philip and James",
+      "rank": "feast",
+      "color": "red",
+      "season": "Easter",
+      "quotes": [
+        {
+          "text": "Lord, show us the Father, and that will be enough for us.",
+          "author": "St. Philip (John 14:8)"
+        },
+        {
+          "text": "The prayer of a righteous man has great power.",
+          "author": "St. James (James 5:16)"
+        }
+      ]
+    },
+    "05-13": {
+      "celebration": "Our Lady of Fatima",
+      "rank": "optional memorial",
+      "color": "white",
+      "season": "Easter",
+      "quotes": [
+        {
+          "text": "Pray, pray very much, and make sacrifices for sinners.",
+          "author": "Our Lady of Fatima"
+        },
+        {
+          "text": "In the end, my Immaculate Heart will triumph.",
+          "author": "Our Lady of Fatima"
+        }
+      ]
+    },
+    "05-14": {
+      "celebration": "St. Matthias",
+      "rank": "feast",
+      "color": "red",
+      "season": "Easter",
+      "quotes": [
+        {
+          "text": "You did not choose me, but I chose you to go and bear fruit.",
+          "author": "Jesus (John 15:16)"
+        },
+        {
+          "text": "St. Matthias was chosen to fill the place of Judas, showing God's power to restore what was broken.",
+          "author": "Church tradition"
+        }
+      ]
+    },
+    "05-26": {
+      "celebration": "St. Philip Neri",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "A joyful heart is more easily made perfect than a downcast one.",
+          "author": "St. Philip Neri"
+        },
+        {
+          "text": "Cheerfulness strengthens the heart and makes us persevere in a good life.",
+          "author": "St. Philip Neri"
+        }
+      ]
+    },
+    "06-01": {
+      "celebration": "St. Justin",
+      "rank": "memorial",
+      "color": "red",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "I am a Christian, and I will not deny this name that is so dear to me.",
+          "author": "St. Justin Martyr"
+        },
+        {
+          "text": "We worship the God of the Christians, whom we believe made the whole world.",
+          "author": "St. Justin Martyr"
+        }
+      ]
+    },
+    "06-03": {
+      "celebration": "Sts. Charles Lwanga and Companions",
+      "rank": "memorial",
+      "color": "red",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "I am ready to die for the true faith.",
+          "author": "St. Charles Lwanga"
+        },
+        {
+          "text": "These young martyrs showed the world that Christ is worth dying for.",
+          "author": "Pope Paul VI"
+        }
+      ]
+    },
+    "06-05": {
+      "celebration": "St. Boniface",
+      "rank": "memorial",
+      "color": "red",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "The Church is a ship that must sail through storms, yet Christ is always at the helm.",
+          "author": "St. Boniface"
+        },
+        {
+          "text": "Let us be soldiers of Christ, strong in faith and ready to defend the truth.",
+          "author": "St. Boniface"
+        }
+      ]
+    },
+    "06-07": {
+      "celebration": "The Most Sacred Heart of Jesus",
+      "rank": "solemnity",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Come to me, all you who are weary and burdened, and I will give you rest.",
+          "author": "Jesus (Matthew 11:28)"
+        },
+        {
+          "text": "The Heart of Jesus is an inexhaustible fountain of love and mercy for all humanity.",
+          "author": "St. Margaret Mary Alacoque"
+        }
+      ]
+    },
+    "06-08": {
+      "celebration": "The Immaculate Heart of the Blessed Virgin Mary",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Mary kept all these things, pondering them in her heart.",
+          "author": "Luke 2:19"
+        },
+        {
+          "text": "The Immaculate Heart of Mary is a refuge for sinners and a path to Jesus.",
+          "author": "Pope Pius XII"
+        }
+      ]
+    },
+    "06-11": {
+      "celebration": "St. Barnabas",
+      "rank": "memorial",
+      "color": "red",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "He was a good man, full of the Holy Spirit and of faith.",
+          "author": "Acts 11:24"
+        },
+        {
+          "text": "St. Barnabas was known for his encouragement and his generous heart.",
+          "author": "Church tradition"
+        }
+      ]
+    },
+    "06-13": {
+      "celebration": "St. Anthony of Padua",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Actions speak louder than words; let your words teach and your actions speak.",
+          "author": "St. Anthony of Padua"
+        },
+        {
+          "text": "The saints are like the stars; they shine in the darkness and show us the way.",
+          "author": "St. Anthony of Padua"
+        }
+      ]
+    },
+    "06-21": {
+      "celebration": "St. Aloysius Gonzaga",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "It is better to be the child of God than king of the whole world.",
+          "author": "St. Aloysius Gonzaga"
+        },
+        {
+          "text": "I was born for this: to love and serve my Lord.",
+          "author": "St. Aloysius Gonzaga"
+        }
+      ]
+    },
+    "06-24": {
+      "celebration": "The Nativity of St. John the Baptist",
+      "rank": "solemnity",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "He must increase, but I must decrease.",
+          "author": "St. John the Baptist (John 3:30)"
+        },
+        {
+          "text": "Among those born of women there has risen no one greater than John the Baptist.",
+          "author": "Jesus (Matthew 11:11)"
+        }
+      ]
+    },
+    "06-28": {
+      "celebration": "St. Irenaeus",
+      "rank": "memorial",
+      "color": "red",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "The glory of God is man fully alive.",
+          "author": "St. Irenaeus"
+        },
+        {
+          "text": "The Church is the guardian of truth, preserving the faith handed down from the apostles.",
+          "author": "St. Irenaeus"
+        }
+      ]
+    },
+    "06-29": {
+      "celebration": "Sts. Peter and Paul",
+      "rank": "solemnity",
+      "color": "red",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "You are the Christ, the Son of the living God.",
+          "author": "St. Peter (Matthew 16:16)"
+        },
+        {
+          "text": "I have fought the good fight, I have finished the race, I have kept the faith.",
+          "author": "St. Paul (2 Timothy 4:7)"
+        }
+      ]
+    },
+    "06-30": {
+      "celebration": "The First Martyrs of the Holy Roman Church",
+      "rank": "optional memorial",
+      "color": "red",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "The blood of the martyrs is the seed of Christians.",
+          "author": "Tertullian"
+        },
+        {
+          "text": "These first martyrs bore witness to Christ with their lives, inspiring all who follow.",
+          "author": "Church tradition"
+        }
+      ]
+    },
+    "07-03": {
+      "celebration": "St. Thomas",
+      "rank": "feast",
+      "color": "red",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "My Lord and my God!",
+          "author": "St. Thomas (John 20:28)"
+        },
+        {
+          "text": "Blessed are those who have not seen and yet have believed.",
+          "author": "Jesus to Thomas (John 20:29)"
+        }
+      ]
+    },
+    "07-06": {
+      "celebration": "St. Maria Goretti",
+      "rank": "optional memorial",
+      "color": "red",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "I forgive him, and I want him to be with me in heaven.",
+          "author": "St. Maria Goretti"
+        },
+        {
+          "text": "Purity of heart is more precious than life itself.",
+          "author": "St. Maria Goretti"
+        }
+      ]
+    },
+    "07-11": {
+      "celebration": "St. Benedict",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Pray and work.",
+          "author": "Motto of St. Benedict"
+        },
+        {
+          "text": "Listen carefully, my son, to the master's instructions, and attend to them with the ear of your heart.",
+          "author": "St. Benedict"
+        }
+      ]
+    },
+    "07-15": {
+      "celebration": "St. Bonaventure",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "The soul that loves God finds its rest in nothing but God.",
+          "author": "St. Bonaventure"
+        },
+        {
+          "text": "Christ is the one Teacher of all, the inner Master who teaches all hearts.",
+          "author": "St. Bonaventure"
+        }
+      ]
+    },
+    "07-16": {
+      "celebration": "Our Lady of Mount Carmel",
+      "rank": "optional memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Take this scapular; it shall be a sign of salvation and protection in dangers.",
+          "author": "Our Lady to St. Simon Stock"
+        },
+        {
+          "text": "Through Mary's intercession, we find strength and protection on our journey to heaven.",
+          "author": "Carmelite tradition"
+        }
+      ]
+    },
+    "07-22": {
+      "celebration": "St. Mary Magdalene",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "I have seen the Lord!",
+          "author": "St. Mary Magdalene (John 20:18)"
+        },
+        {
+          "text": "She who had been a sinner became the apostle to the apostles.",
+          "author": "St. Gregory the Great"
+        }
+      ]
+    },
+    "07-25": {
+      "celebration": "St. James",
+      "rank": "feast",
+      "color": "red",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Can you drink the cup that I am going to drink?",
+          "author": "Jesus to James (Matthew 20:22)"
+        },
+        {
+          "text": "St. James was the first apostle to shed his blood for Christ.",
+          "author": "Church tradition"
+        }
+      ]
+    },
+    "07-26": {
+      "celebration": "Sts. Joachim and Anne",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Blessed are the parents who raise their children in faith and virtue.",
+          "author": "Reflection on Sts. Joachim and Anne"
+        },
+        {
+          "text": "Through their faithful love, Mary was prepared to be the Mother of God.",
+          "author": "Church tradition"
+        }
+      ]
+    },
+    "07-29": {
+      "celebration": "St. Martha",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Lord, if you had been here, my brother would not have died.",
+          "author": "St. Martha (John 11:21)"
+        },
+        {
+          "text": "She who serves Christ in her daily work serves Him in truth.",
+          "author": "Reflection on St. Martha"
+        }
+      ]
+    },
+    "07-31": {
+      "celebration": "St. Ignatius of Loyola",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Go forth and set the world on fire.",
+          "author": "St. Ignatius of Loyola"
+        },
+        {
+          "text": "Teach us to give and not to count the cost.",
+          "author": "St. Ignatius of Loyola"
+        }
+      ]
+    },
+    "08-01": {
+      "celebration": "St. Alphonsus Liguori",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Love Jesus Christ with your whole heart; He deserves all our love.",
+          "author": "St. Alphonsus Liguori"
+        },
+        {
+          "text": "The person who trusts in God will never be disappointed.",
+          "author": "St. Alphonsus Liguori"
+        }
+      ]
+    },
+    "08-04": {
+      "celebration": "St. John Vianney",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "The priesthood is the love of the heart of Jesus.",
+          "author": "St. John Vianney"
+        },
+        {
+          "text": "A good confession is the beginning of a good life.",
+          "author": "St. John Vianney"
+        }
+      ]
+    },
+    "08-06": {
+      "celebration": "The Transfiguration of the Lord",
+      "rank": "feast",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "This is my beloved Son; listen to Him.",
+          "author": "God the Father (Mark 9:7)"
+        },
+        {
+          "text": "On the mountain, Christ revealed His divine glory to strengthen His disciples for the trials ahead.",
+          "author": "St. Leo the Great"
+        }
+      ]
+    },
+    "08-08": {
+      "celebration": "St. Dominic",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Preach the truth with words and deeds.",
+          "author": "St. Dominic"
+        },
+        {
+          "text": "Arm yourself with prayer rather than with a sword; wear humility rather than fine clothes.",
+          "author": "St. Dominic"
+        }
+      ]
+    },
+    "08-10": {
+      "celebration": "St. Lawrence",
+      "rank": "feast",
+      "color": "red",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Turn me over; I am done on this side.",
+          "author": "St. Lawrence, during his martyrdom"
+        },
+        {
+          "text": "The treasures of the Church are the poor and the needy.",
+          "author": "St. Lawrence"
+        }
+      ]
+    },
+    "08-11": {
+      "celebration": "St. Clare",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "We become what we love, and who we love shapes what we become.",
+          "author": "St. Clare of Assisi"
+        },
+        {
+          "text": "Gaze upon Christ, consider Christ, contemplate Christ, as you desire to imitate Christ.",
+          "author": "St. Clare of Assisi"
+        }
+      ]
+    },
+    "08-14": {
+      "celebration": "St. Maximilian Kolbe",
+      "rank": "memorial",
+      "color": "red",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "A single act of love makes the soul return to life.",
+          "author": "St. Maximilian Kolbe"
+        },
+        {
+          "text": "I want to be consumed for the Immaculate Virgin.",
+          "author": "St. Maximilian Kolbe"
+        }
+      ]
+    },
+    "08-15": {
+      "celebration": "The Assumption of the Blessed Virgin Mary",
+      "rank": "solemnity",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "You are all beautiful, my love; there is no flaw in you.",
+          "author": "Song of Songs 4:7"
+        },
+        {
+          "text": "Mary, assumed into heaven, is the image of what the Church hopes to become.",
+          "author": "Pope Pius XII"
+        }
+      ]
+    },
+    "08-20": {
+      "celebration": "St. Bernard",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "You will find something more in woods than in books; trees and stones will teach you that which you can never learn from masters.",
+          "author": "St. Bernard of Clairvaux"
+        },
+        {
+          "text": "What we love, we shall grow to resemble.",
+          "author": "St. Bernard of Clairvaux"
+        }
+      ]
+    },
+    "08-21": {
+      "celebration": "St. Pius X",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Restore all things in Christ.",
+          "author": "Motto of St. Pius X"
+        },
+        {
+          "text": "Holy Communion is the shortest and safest way to heaven.",
+          "author": "St. Pius X"
+        }
+      ]
+    },
+    "08-22": {
+      "celebration": "The Queenship of the Blessed Virgin Mary",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Mary is Queen of heaven and earth, crowned with glory by her divine Son.",
+          "author": "Church tradition"
+        },
+        {
+          "text": "Turn your eyes to Mary, and you will find the way to Jesus the King.",
+          "author": "Reflection on Mary's Queenship"
+        }
+      ]
+    },
+    "08-24": {
+      "celebration": "St. Bartholomew",
+      "rank": "feast",
+      "color": "red",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Here is a true Israelite, in whom there is no deceit.",
+          "author": "Jesus about Nathanael/Bartholomew (John 1:47)"
+        },
+        {
+          "text": "St. Bartholomew carried the Gospel to distant lands, sealing his witness with martyrdom.",
+          "author": "Church tradition"
+        }
+      ]
+    },
+    "08-27": {
+      "celebration": "St. Monica",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Nothing is far from God.",
+          "author": "St. Monica"
+        },
+        {
+          "text": "By your prayers, O Monica, countless mothers find hope for their wayward children.",
+          "author": "Church tradition"
+        }
+      ]
+    },
+    "08-28": {
+      "celebration": "St. Augustine",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "You have made us for yourself, O Lord, and our hearts are restless until they rest in you.",
+          "author": "St. Augustine"
+        },
+        {
+          "text": "Love, and do what you will.",
+          "author": "St. Augustine"
+        }
+      ]
+    },
+    "08-29": {
+      "celebration": "The Passion of St. John the Baptist",
+      "rank": "memorial",
+      "color": "red",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "It is not lawful for you to have her.",
+          "author": "St. John the Baptist to Herod (Mark 6:18)"
+        },
+        {
+          "text": "John the Baptist died for the truth, teaching us to never compromise on God's law.",
+          "author": "Church tradition"
+        }
+      ]
+    },
+    "09-03": {
+      "celebration": "St. Gregory the Great",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "The proof of love is in the works.",
+          "author": "St. Gregory the Great"
+        },
+        {
+          "text": "He who desires to give religious instruction must first give himself to prayer.",
+          "author": "St. Gregory the Great"
+        }
+      ]
+    },
+    "09-08": {
+      "celebration": "The Nativity of the Blessed Virgin Mary",
+      "rank": "feast",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "The birth of Mary brought joy to the whole world, for from her would be born the Sun of Justice.",
+          "author": "St. Augustine"
+        },
+        {
+          "text": "Today is born the Virgin from whom will be born the Savior of the world.",
+          "author": "Church Liturgy"
+        }
+      ]
+    },
+    "09-13": {
+      "celebration": "St. John Chrysostom",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Glory to God for all things!",
+          "author": "St. John Chrysostom's last words"
+        },
+        {
+          "text": "The Eucharist is a fire that inflames us, so that like lions breathing fire, we may retire from the altar.",
+          "author": "St. John Chrysostom"
+        }
+      ]
+    },
+    "09-14": {
+      "celebration": "The Exaltation of the Holy Cross",
+      "rank": "feast",
+      "color": "red",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "We should glory in the Cross of our Lord Jesus Christ.",
+          "author": "Galatians 6:14"
+        },
+        {
+          "text": "The Cross is the ladder to heaven, the key to paradise, and the throne of Christ's glory.",
+          "author": "Church tradition"
+        }
+      ]
+    },
+    "09-15": {
+      "celebration": "Our Lady of Sorrows",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "A sword will pierce through your own soul also.",
+          "author": "Simeon to Mary (Luke 2:35)"
+        },
+        {
+          "text": "The sorrows of Mary unite her heart to the suffering of her Son and all humanity.",
+          "author": "Church tradition"
+        }
+      ]
+    },
+    "09-16": {
+      "celebration": "Sts. Cornelius and Cyprian",
+      "rank": "memorial",
+      "color": "red",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "No one can have God for his Father who does not have the Church for his mother.",
+          "author": "St. Cyprian"
+        },
+        {
+          "text": "United in martyrdom, these shepherds laid down their lives for the flock.",
+          "author": "Church tradition"
+        }
+      ]
+    },
+    "09-21": {
+      "celebration": "St. Matthew",
+      "rank": "feast",
+      "color": "red",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Follow me.",
+          "author": "Jesus to Matthew (Matthew 9:9)"
+        },
+        {
+          "text": "Christ saw the publican and, because He saw him through the eyes of mercy, He chose him.",
+          "author": "St. Bede"
+        }
+      ]
+    },
+    "09-23": {
+      "celebration": "St. Pius of Pietrelcina",
+      "rank": "optional memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Pray, hope, and don't worry.",
+          "author": "St. Padre Pio of Pietrelcina"
+        },
+        {
+          "text": "The most beautiful act of faith is the one made in darkness, in sacrifice, and with extreme effort.",
+          "author": "St. Padre Pio of Pietrelcina"
+        }
+      ]
+    },
+    "09-27": {
+      "celebration": "St. Vincent de Paul",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "It is only because of your love alone that the poor will forgive you the bread you give to them.",
+          "author": "St. Vincent de Paul"
+        },
+        {
+          "text": "Let us love God, but let it be with the strength of our arms and the sweat of our brows.",
+          "author": "St. Vincent de Paul"
+        }
+      ]
+    },
+    "09-29": {
+      "celebration": "Sts. Michael, Gabriel and Raphael",
+      "rank": "feast",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Who is like God?",
+          "author": "Meaning of the name Michael"
+        },
+        {
+          "text": "The angels are messengers of God's love and protectors of His people.",
+          "author": "Church tradition"
+        }
+      ]
+    },
+    "09-30": {
+      "celebration": "St. Jerome",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Ignorance of Scripture is ignorance of Christ.",
+          "author": "St. Jerome"
+        },
+        {
+          "text": "The best way to learn is to teach; the best way to understand is to explain.",
+          "author": "St. Jerome"
+        }
+      ]
+    },
+    "10-01": {
+      "celebration": "St. Thérèse of the Child Jesus",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "I will spend my heaven doing good on earth.",
+          "author": "St. Thérèse of Lisieux"
+        },
+        {
+          "text": "Miss no single opportunity of making some small sacrifice, here by a smiling look, there by a kindly word.",
+          "author": "St. Thérèse of Lisieux"
+        }
+      ]
+    },
+    "10-02": {
+      "celebration": "The Holy Guardian Angels",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "He will command his angels concerning you to guard you in all your ways.",
+          "author": "Psalm 91:11"
+        },
+        {
+          "text": "The angels are our companions on the journey to heaven.",
+          "author": "Church tradition"
+        }
+      ]
+    },
+    "10-04": {
+      "celebration": "St. Francis of Assisi",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Preach the Gospel at all times; when necessary, use words.",
+          "author": "Attributed to St. Francis of Assisi"
+        },
+        {
+          "text": "For it is in giving that we receive.",
+          "author": "St. Francis of Assisi"
+        }
+      ]
+    },
+    "10-07": {
+      "celebration": "Our Lady of the Rosary",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "The Rosary is the weapon for these times.",
+          "author": "St. Padre Pio"
+        },
+        {
+          "text": "Give me an army saying the Rosary and I will conquer the world.",
+          "author": "Pope Pius IX"
+        }
+      ]
+    },
+    "10-15": {
+      "celebration": "St. Teresa of Jesus",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Let nothing disturb you, let nothing frighten you; all things pass away. God never changes.",
+          "author": "St. Teresa of Ávila"
+        },
+        {
+          "text": "Christ has no body now but yours. Yours are the hands, yours are the feet.",
+          "author": "St. Teresa of Ávila"
+        }
+      ]
+    },
+    "10-17": {
+      "celebration": "St. Ignatius of Antioch",
+      "rank": "memorial",
+      "color": "red",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "I am the wheat of God, and I am to be ground by the teeth of wild beasts.",
+          "author": "St. Ignatius of Antioch"
+        },
+        {
+          "text": "It is not that I desire merely to be called a Christian, but to actually be one.",
+          "author": "St. Ignatius of Antioch"
+        }
+      ]
+    },
+    "10-18": {
+      "celebration": "St. Luke",
+      "rank": "feast",
+      "color": "red",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "I too decided to write an orderly account for you, most excellent Theophilus.",
+          "author": "St. Luke (Luke 1:3)"
+        },
+        {
+          "text": "St. Luke, the beloved physician, shows us Christ's mercy and compassion.",
+          "author": "Church tradition"
+        }
+      ]
+    },
+    "10-22": {
+      "celebration": "St. John Paul II",
+      "rank": "optional memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Do not be afraid. Open wide the doors to Christ.",
+          "author": "St. John Paul II"
+        },
+        {
+          "text": "The future starts today, not tomorrow.",
+          "author": "St. John Paul II"
+        }
+      ]
+    },
+    "10-28": {
+      "celebration": "Sts. Simon and Jude",
+      "rank": "feast",
+      "color": "red",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Keep yourselves in the love of God.",
+          "author": "St. Jude (Jude 1:21)"
+        },
+        {
+          "text": "These apostles carried the Gospel to distant lands, faithful unto death.",
+          "author": "Church tradition"
+        }
+      ]
+    },
+    "11-01": {
+      "celebration": "All Saints",
+      "rank": "solemnity",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Blessed are they who are called to the wedding feast of the Lamb.",
+          "author": "Revelation 19:9"
+        },
+        {
+          "text": "The saints are the true lights of the Church, showing us the way to heaven.",
+          "author": "Church tradition"
+        }
+      ]
+    },
+    "11-02": {
+      "celebration": "The Commemoration of All the Faithful Departed",
+      "rank": "commemoration",
+      "color": "purple",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Eternal rest grant unto them, O Lord, and let perpetual light shine upon them.",
+          "author": "Traditional prayer"
+        },
+        {
+          "text": "We pray for the dead because we trust in God's mercy and the communion of saints.",
+          "author": "Church tradition"
+        }
+      ]
+    },
+    "11-04": {
+      "celebration": "St. Charles Borromeo",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Souls are won on our knees.",
+          "author": "St. Charles Borromeo"
+        },
+        {
+          "text": "Be sure that you first preach by the way you live. If you do not, people will notice that you say one thing, but live otherwise.",
+          "author": "St. Charles Borromeo"
+        }
+      ]
+    },
+    "11-09": {
+      "celebration": "The Dedication of the Lateran Basilica",
+      "rank": "feast",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "The Church is the house of God and the gate of heaven.",
+          "author": "Genesis 28:17"
+        },
+        {
+          "text": "The Lateran Basilica is the mother and head of all churches in the world.",
+          "author": "Church tradition"
+        }
+      ]
+    },
+    "11-10": {
+      "celebration": "St. Leo the Great",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Christian, remember your dignity!",
+          "author": "St. Leo the Great"
+        },
+        {
+          "text": "In your very nature you possess the image of God.",
+          "author": "St. Leo the Great"
+        }
+      ]
+    },
+    "11-11": {
+      "celebration": "St. Martin of Tours",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Lord, if your people need me, I will not refuse the work.",
+          "author": "St. Martin of Tours"
+        },
+        {
+          "text": "I am a soldier of Christ; I cannot fight.",
+          "author": "St. Martin of Tours"
+        }
+      ]
+    },
+    "11-12": {
+      "celebration": "St. Josaphat",
+      "rank": "memorial",
+      "color": "red",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "If I die for the union of the Church, I will be happy.",
+          "author": "St. Josaphat"
+        },
+        {
+          "text": "Unity in the Church is worth every sacrifice.",
+          "author": "St. Josaphat"
+        }
+      ]
+    },
+    "11-17": {
+      "celebration": "St. Elizabeth of Hungary",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "How could I bear a crown of gold when the Lord bears a crown of thorns?",
+          "author": "St. Elizabeth of Hungary"
+        },
+        {
+          "text": "We must make the poor love us so that we may love Jesus in them.",
+          "author": "St. Elizabeth of Hungary"
+        }
+      ]
+    },
+    "11-21": {
+      "celebration": "The Presentation of the Blessed Virgin Mary",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "Mary was presented in the temple, consecrating her whole life to God.",
+          "author": "Church tradition"
+        },
+        {
+          "text": "From her youth, Mary's heart belonged entirely to the Lord.",
+          "author": "Reflection on Mary's Presentation"
+        }
+      ]
+    },
+    "11-22": {
+      "celebration": "St. Cecilia",
+      "rank": "memorial",
+      "color": "red",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "While the instruments played, Cecilia sang in her heart to the Lord alone.",
+          "author": "From her martyrdom"
+        },
+        {
+          "text": "I am the bride of Christ; to Him alone I am consecrated.",
+          "author": "St. Cecilia"
+        }
+      ]
+    },
+    "11-24": {
+      "celebration": "Our Lord Jesus Christ, King of the Universe",
+      "rank": "solemnity",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "My kingdom is not of this world.",
+          "author": "Jesus Christ (John 18:36)"
+        },
+        {
+          "text": "Christ reigns as King of hearts, ruling with love and justice for all eternity.",
+          "author": "Church teaching"
+        }
+      ]
+    },
+    "11-30": {
+      "celebration": "St. Andrew",
+      "rank": "feast",
+      "color": "red",
+      "season": "Advent",
+      "quotes": [
+        {
+          "text": "Come and see.",
+          "author": "St. Andrew to his brother Peter (John 1:39)"
+        },
+        {
+          "text": "The cross on which I am to die has been sanctified by the body of Christ hanging on it.",
+          "author": "St. Andrew"
+        }
+      ]
+    },
+    "12-03": {
+      "celebration": "St. Francis Xavier",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Advent",
+      "quotes": [
+        {
+          "text": "Give me souls; take away all else.",
+          "author": "St. Francis Xavier"
+        },
+        {
+          "text": "How many are the souls that fall into hell on account of sloth!",
+          "author": "St. Francis Xavier"
+        }
+      ]
+    },
+    "12-07": {
+      "celebration": "St. Ambrose",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Advent",
+      "quotes": [
+        {
+          "text": "No one heals himself by wounding another.",
+          "author": "St. Ambrose"
+        },
+        {
+          "text": "When we speak about wisdom, we are speaking about Christ; when we speak about virtue, we are speaking about Christ.",
+          "author": "St. Ambrose"
+        }
+      ]
+    },
+    "12-08": {
+      "celebration": "The Immaculate Conception of the Blessed Virgin Mary",
+      "rank": "solemnity",
+      "color": "white",
+      "season": "Advent",
+      "quotes": [
+        {
+          "text": "You are all beautiful, my love; there is no flaw in you.",
+          "author": "Song of Songs 4:7"
+        },
+        {
+          "text": "God preserved Mary from all stain of sin from the first moment of her conception.",
+          "author": "Dogma of the Immaculate Conception"
+        }
+      ]
+    },
+    "12-12": {
+      "celebration": "Our Lady of Guadalupe",
+      "rank": "feast",
+      "color": "white",
+      "season": "Advent",
+      "quotes": [
+        {
+          "text": "Am I not here, I who am your mother?",
+          "author": "Our Lady of Guadalupe to Juan Diego"
+        },
+        {
+          "text": "Do not be troubled or weighed down with grief. Am I not here who am your Mother?",
+          "author": "Our Lady of Guadalupe"
+        }
+      ]
+    },
+    "12-13": {
+      "celebration": "St. Lucy",
+      "rank": "memorial",
+      "color": "red",
+      "season": "Advent",
+      "quotes": [
+        {
+          "text": "My light will never be extinguished, for Christ is my light.",
+          "author": "St. Lucy"
+        },
+        {
+          "text": "The body is ennobled by the chastity of the soul.",
+          "author": "St. Lucy"
+        }
+      ]
+    },
+    "12-14": {
+      "celebration": "St. John of the Cross",
+      "rank": "memorial",
+      "color": "white",
+      "season": "Advent",
+      "quotes": [
+        {
+          "text": "In the evening of life, we will be judged on love alone.",
+          "author": "St. John of the Cross"
+        },
+        {
+          "text": "Where there is no love, put love, and you will draw out love.",
+          "author": "St. John of the Cross"
+        }
+      ]
+    },
+    "12-25": {
+      "celebration": "The Nativity of the Lord",
+      "rank": "solemnity",
+      "color": "white",
+      "season": "Christmas",
+      "quotes": [
+        {
+          "text": "For unto you is born this day in the city of David a Savior, who is Christ the Lord.",
+          "author": "Luke 2:11"
+        },
+        {
+          "text": "The Word became flesh and dwelt among us, full of grace and truth.",
+          "author": "John 1:14"
+        }
+      ]
+    },
+    "12-26": {
+      "celebration": "St. Stephen, First Martyr",
+      "rank": "feast",
+      "color": "red",
+      "season": "Christmas",
+      "quotes": [
+        {
+          "text": "Lord, do not hold this sin against them.",
+          "author": "St. Stephen (Acts 7:60)"
+        },
+        {
+          "text": "I see the heavens opened, and the Son of Man standing at the right hand of God.",
+          "author": "St. Stephen (Acts 7:56)"
+        }
+      ]
+    },
+    "12-27": {
+      "celebration": "St. John, Apostle and Evangelist",
+      "rank": "feast",
+      "color": "white",
+      "season": "Christmas",
+      "quotes": [
+        {
+          "text": "In the beginning was the Word, and the Word was with God, and the Word was God.",
+          "author": "St. John (John 1:1)"
+        },
+        {
+          "text": "Little children, love one another.",
+          "author": "St. John's constant exhortation"
+        }
+      ]
+    },
+    "12-28": {
+      "celebration": "The Holy Innocents, Martyrs",
+      "rank": "feast",
+      "color": "red",
+      "season": "Christmas",
+      "quotes": [
+        {
+          "text": "A voice was heard in Ramah, weeping and loud lamentation.",
+          "author": "Matthew 2:18"
+        },
+        {
+          "text": "These innocent children bore witness to Christ without words, but with their very lives.",
+          "author": "Church tradition"
+        }
+      ]
+    }
+  },
+  "moveableDates": {
+    "ashWednesday": {
+        "easterOffset": -46,
+        "celebration": "Ash Wednesday",
+        "rank": "solemnity",
+        "color": "purple",
+        "season": "Lent",
+        "quotes": [
+          {
+            "text": "Remember that you are dust, and to dust you shall return. Repent and believe in the Gospel.",
+            "author": "Ash Wednesday Liturgy"
+          },
+          {
+            "text": "The season of Lent is a gift to prepare our hearts, that we may turn from sin and be faithful to the Gospel.",
+            "author": "Church tradition"
+          }
+        ]
+    },
+    "palmSunday": {
+      "easterOffset": -7,
+      "celebration": "Palm Sunday of the Lord's Passion",
+      "rank": "solemnity",
+      "color": "red",
+      "season": "Lent",
+      "quotes": [
+        {
+          "text": "Hosanna! Blessed is He who comes in the name of the Lord",
+          "author": "Matthew 21:9"
+        },
+        {
+          "text": "He humbled Himself, becoming obedient unto death, even death on a cross.",
+          "author": "St. Augustine"
+        }
+      ]
+    },
+    "holyThursday": {
+      "easterOffset": -3,
+      "celebration": "Holy Thursday (Mass of the Lord's Supper)",
+      "rank": "solemnity",
+      "color": "white",
+      "season": "Easter Triduum",
+      "quotes": [
+        {
+          "text": "This is My body.",
+          "author": "Jesus Christ (Matthew 26:26)"
+        },
+        {
+          "text": "The Eucharist is the source and summit of the Christian life. In the blessed Eucharist is contained the whole spiritual good of the Church.",
+          "author": "Second Vatican Council"
+        }
+      ]
+    },
+    "goodFriday": {
+      "easterOffset": -2,
+      "celebration": "Good Friday",
+      "rank": "solemnity",
+      "color": "red",
+      "season": "Easter Triduum",
+      "quotes": [
+        {
+          "text": "Father, into your hands I commend my spirit.",
+          "author": "Jesus Christ (Luke 23:46)"
+        },
+        {
+          "text": "On the cross, the Son of God showed the depth of His love; let us unite our sufferings to His.",
+          "author": "St. Augustine"
+        }
+      ]
+    },
+    "easterVigil": {
+      "easterOffset": -1,
+      "celebration": "Easter Vigil",
+      "rank": "solemnity",
+      "color": "white",
+      "season": "Easter Triduum",
+      "quotes": [
+        {
+          "text": "He is not here, for He has risen, as He said.",
+          "author": "Angel at the tomb (Matthew 28:6)"
+        },
+        {
+          "text": "Rejoice, for through Christ's resurrection, death has been conquered and hope restored.",
+          "author": "St. Augustine"
+        }
+      ]
+    },
+    "easterSunday": {
+      "easterOffset": 0,
+      "celebration": "Easter Sunday",
+      "rank": "solemnity",
+      "color": "white",
+      "season": "Easter",
+      "quotes": [
+        {
+          "text": "He is risen! Alleluia!",
+          "author": "Traditional proclamation (based on Matthew 28:6)"
+        },
+        {
+          "text": "The resurrection of Christ is the victory of love over death; let us live in this hope.",
+          "author": "St. John Paul II"
+        }
+      ]
+    },
+    "divineMercySunday": {
+      "easterOffset": 7,
+      "celebration": "Divine Mercy Sunday",
+      "rank": "solemnity",
+      "color": "white",
+      "season": "Easter",
+      "quotes": [
+        {
+          "text": "Mankind will not have peace until it turns with trust to My mercy.",
+          "author": "Jesus to St. Faustina Kowalska"
+        },
+        {
+          "text": "My Heart overflows with great mercy for souls, and especially for poor sinners.",
+          "author": "Jesus to St. Faustina Kowalska"
+        }
+      ]
+    },
+    "ascension": {
+      "easterOffset": 39,
+      "celebration": "The Ascension of the Lord",
+      "rank": "solemnity",
+      "color": "white",
+      "season": "Easter",
+      "quotes": [
+        {
+          "text": "I am going to prepare a place for you, and I will come again.",
+          "author": "Jesus Christ (John 14:2-3)"
+        },
+        {
+          "text": "Christ ascended to heaven to give us confidence that where the Head has gone, the body will follow.",
+          "author": "St. Augustine"
+        }
+      ]
+    },
+    "pentecost": {
+      "easterOffset": 49,
+      "celebration": "Pentecost",
+      "rank": "solemnity",
+      "color": "red",
+      "season": "Easter",
+      "quotes": [
+        {
+          "text": "Come, Holy Spirit, fill the hearts of your faithful and kindle in them the fire of your love.",
+          "author": "Traditional prayer"
+        },
+        {
+          "text": "The Holy Spirit transforms the apostles from fearful men into bold witnesses of Christ.",
+          "author": "St. Augustine"
+        }
+      ]
+    },
+    "corpusChristi": {
+      "easterOffset": 60,
+      "celebration": "Corpus Christi",
+      "rank": "solemnity",
+      "color": "white",
+      "season": "Ordinary Time",
+      "quotes": [
+        {
+          "text": "O sacred banquet, in which Christ is received, the memory of His Passion is renewed, the mind is filled with grace, and a pledge of future glory is given to us.",
+          "author": "St. Thomas Aquinas"
+        },
+        {
+          "text": "The Eucharist is the Heart of the Church; where Eucharistic life flourishes, there the life of the Church will blossom.",
+          "author": "Pope John Paul II"
+        }
+      ]
+    }
+  }
+}
