@@ -2,11 +2,14 @@ import Foundation
 
 class DataManager {
     static let shared = DataManager()
-    
+
     private var quotesDatabase: QuotesDatabase
     private var liturgicalCalendar: LiturgicalCalendar
     private var shuffleManager: ShuffleManager
-    
+
+    // Cache for today's liturgical celebration name
+    private var todaysLiturgicalCelebration: String?
+
     private init() {
         // Load quotes database
         guard let quotesUrl = Bundle.main.url(forResource: "quotes_database", withExtension: "json"),
@@ -89,16 +92,16 @@ class DataManager {
         let calendar = Calendar.current
         let dateString = formatDateKey(today)
         let currentYear = calendar.component(.year, from: today)
-        
+
         var celebrations: [(LiturgicalQuote, String, Int)] = [] // (quote, name, priority)
-        
+
         // Check fixed dates
         if let fixedDay = liturgicalCalendar.fixedDates[dateString] {
             let quote = selectQuoteForYear(from: fixedDay.quotes, year: currentYear)
             let priority = rankPriority(fixedDay.rank)
             celebrations.append((quote, fixedDay.celebration, priority))
         }
-        
+
         // Check moveable dates
         let moveableDates = EasterCalculator.calculateMoveableDates(for: currentYear)
         for (key, moveableDate) in moveableDates {
@@ -112,7 +115,7 @@ class DataManager {
                 }
             }
         }
-        
+
         // If multiple celebrations on same day, choose highest rank
         if !celebrations.isEmpty {
             let highest = celebrations.max { $0.2 < $1.2 }!
@@ -120,9 +123,13 @@ class DataManager {
             if celebrations.count > 1 {
                 print("   Resolved conflict with \(celebrations.count) celebrations")
             }
+            // Store the celebration name for getTodaysLiturgicalDayName() to use
+            todaysLiturgicalCelebration = highest.1
             return highest.0
         }
-        
+
+        // No liturgical day today
+        todaysLiturgicalCelebration = nil
         return nil
     }
     
@@ -145,8 +152,16 @@ class DataManager {
         return quotes[min(index, quotes.count - 1)]
     }
     
+    // MARK: - Get Today's Liturgical Day Name
+
+    /// Returns the name of today's liturgical celebration if today is a special day
+    /// Note: This value is set by getTodaysLiturgicalQuote() and cached
+    func getTodaysLiturgicalDayName() -> String? {
+        return todaysLiturgicalCelebration
+    }
+
     // MARK: - Get Next Liturgical Day
-    
+
     func getNextLiturgicalDay() -> (name: String, dateString: String)? {
         let calendar = Calendar.current
         let now = Date()
