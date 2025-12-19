@@ -215,16 +215,16 @@ struct ContentView: View {
 
     // Share quote as image
     private func shareQuote(quote: Quote) {
-        Task { @MainActor in
-            var items: [Any] = []
+        // Generate image first
+        guard let image = generateQuoteImage(quote: quote) else {
+            return
+        }
 
-            // Generate and add image
-            if let image = generateQuoteImage(quote: quote) {
-                items.append(image)
-            }
+        // Update state with the image
+        self.shareItems = [image]
 
-            // Update state and show share sheet
-            self.shareItems = items
+        // Small delay to ensure state is ready before presenting sheet
+        DispatchQueue.main.asyncAfter(deadline: .now() + 0.1) {
             self.showingShareSheet = true
         }
     }
