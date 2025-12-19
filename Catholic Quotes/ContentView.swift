@@ -1,9 +1,77 @@
 import SwiftUI
 
+// View specifically for rendering as a shareable image
+struct QuoteImageView: View {
+    let quote: Quote
+
+    var body: some View {
+        ZStack {
+            // Cream background
+            Color(red: 0.98, green: 0.96, blue: 0.92)
+                .ignoresSafeArea()
+
+            VStack {
+                Spacer()
+
+                // Main quote content
+                VStack(spacing: 20) {
+                    // Quote text with dynamic sizing
+                    Text(quote.text)
+                        .font(.system(size: dynamicFontSize(for: quote.text), weight: .regular, design: .serif))
+                        .foregroundColor(Color(red: 0.25, green: 0.25, blue: 0.25))
+                        .multilineTextAlignment(.center)
+                        .lineSpacing(4)
+                        .padding(.horizontal, 30)
+
+                    // Author name
+                    Text("— \(quote.author)")
+                        .font(.system(size: dynamicAuthorFontSize(for: quote.text), weight: .regular, design: .serif))
+                        .foregroundColor(Color(red: 0.5, green: 0.5, blue: 0.5))
+                        .italic()
+                }
+
+                Spacer()
+
+                // App name at bottom
+                Text("Daily Catholic Quotes")
+                    .font(.system(size: 12, weight: .regular, design: .serif))
+                    .foregroundColor(Color(red: 0.5, green: 0.5, blue: 0.5))
+                    .padding(.bottom, 20)
+            }
+        }
+    }
+
+    // Calculate dynamic font size based on quote length
+    private func dynamicFontSize(for text: String) -> CGFloat {
+        let length = text.count
+
+        switch length {
+        case 0..<80:
+            return 28
+        case 80..<150:
+            return 24
+        case 150..<250:
+            return 20
+        case 250..<350:
+            return 18
+        default:
+            return 16
+        }
+    }
+
+    // Author font size scales with quote
+    private func dynamicAuthorFontSize(for text: String) -> CGFloat {
+        let quoteSize = dynamicFontSize(for: text)
+        return quoteSize * 0.7
+    }
+}
+
 struct ContentView: View {
     let quote = DataManager.shared.getTodaysQuote()
     let nextFeast = DataManager.shared.getNextLiturgicalDay()
     @State private var showingAbout = false
+    @State private var showingShareSheet = false
+    @State private var shareItems: [Any] = []
     
     var body: some View {
         ZStack {
@@ -75,9 +143,11 @@ struct ContentView: View {
                 }
                 
                 Spacer()
-                
+
                 if let quote = quote {
-                    ShareLink(item: formatShareText(quote: quote)) {
+                    Button(action: {
+                        shareQuote(quote: quote)
+                    }) {
                         HStack(spacing: 6) {
                             Image(systemName: "square.and.arrow.up")
                                 .font(.system(size: 11))
@@ -92,6 +162,11 @@ struct ContentView: View {
         }
         .sheet(isPresented: $showingAbout) {
             AboutView()
+        }
+        .sheet(isPresented: $showingShareSheet) {
+            if let quote = quote {
+                ShareSheet(activityItems: shareItems)
+            }
         }
     }
     
@@ -122,10 +197,59 @@ struct ContentView: View {
         return """
         "\(quote.text)"
         — \(quote.author)
-        
+
         From Catholic Quotes
         """
     }
+
+    // Generate image from QuoteImageView at Instagram Story size (1080x1920)
+    @MainActor
+    private func generateQuoteImage(quote: Quote) -> UIImage? {
+        let imageView = QuoteImageView(quote: quote)
+        let renderer = ImageRenderer(content: imageView)
+
+        // Set size to Instagram Story dimensions (9:16 ratio)
+        renderer.proposedSize = ProposedViewSize(width: 1080, height: 1920)
+
+        // Render the image
+        return renderer.uiImage
+    }
+
+    // Share quote with both image and text
+    private func shareQuote(quote: Quote) {
+        Task {
+            var items: [Any] = []
+
+            // Generate and add image
+            if let image = await generateQuoteImage(quote: quote) {
+                items.append(image)
+            }
+
+            // Add text version
+            items.append(formatShareText(quote: quote))
+
+            // Update state and show share sheet
+            await MainActor.run {
+                self.shareItems = items
+                self.showingShareSheet = true
+            }
+        }
+    }
+}
+
+// UIActivityViewController wrapper for SwiftUI
+struct ShareSheet: UIViewControllerRepresentable {
+    let activityItems: [Any]
+
+    func makeUIViewController(context: Context) -> UIActivityViewController {
+        let controller = UIActivityViewController(
+            activityItems: activityItems,
+            applicationActivities: nil
+        )
+        return controller
+    }
+
+    func updateUIViewController(_ uiViewController: UIActivityViewController, context: Context) {}
 }
 
 #Preview {
