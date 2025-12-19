@@ -53,7 +53,7 @@ struct AboutView: View {
                         .padding(.vertical, 8)
                     
                     // version
-                    Text("Version 1.0")
+                    Text("Version 1.1.0")
                         .font(.system(size: 14, weight: .regular, design: .serif))
                         .foregroundColor(Color(red: 0.5, green: 0.5, blue: 0.5))
                     
