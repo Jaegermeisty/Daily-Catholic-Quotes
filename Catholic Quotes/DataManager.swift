@@ -145,8 +145,46 @@ class DataManager {
         return quotes[min(index, quotes.count - 1)]
     }
     
+    // MARK: - Get Today's Liturgical Day Name
+
+    /// Returns the name of today's liturgical celebration if today is a special day
+    func getTodaysLiturgicalDayName() -> String? {
+        let today = Date()
+        let calendar = Calendar.current
+        let dateString = formatDateKey(today)
+        let currentYear = calendar.component(.year, from: today)
+
+        var celebrations: [(name: String, priority: Int)] = []
+
+        // Check fixed dates
+        if let fixedDay = liturgicalCalendar.fixedDates[dateString] {
+            let priority = rankPriority(fixedDay.rank)
+            celebrations.append((fixedDay.celebration, priority))
+        }
+
+        // Check moveable dates
+        let moveableDates = EasterCalculator.calculateMoveableDates(for: currentYear)
+        for (key, moveableDate) in moveableDates {
+            let moveDateString = formatDateKey(moveableDate)
+            if moveDateString == dateString {
+                if let moveableDay = liturgicalCalendar.moveableDates[key] {
+                    let priority = rankPriority(moveableDay.rank)
+                    celebrations.append((moveableDay.celebration, priority))
+                }
+            }
+        }
+
+        // If multiple celebrations, return the highest rank
+        if !celebrations.isEmpty {
+            let highest = celebrations.max { $0.1 < $1.1 }!
+            return highest.0
+        }
+
+        return nil
+    }
+
     // MARK: - Get Next Liturgical Day
-    
+
     func getNextLiturgicalDay() -> (name: String, dateString: String)? {
         let calendar = Calendar.current
         let now = Date()

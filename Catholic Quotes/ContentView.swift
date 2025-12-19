@@ -3,6 +3,7 @@ import SwiftUI
 struct ContentView: View {
     let quote = DataManager.shared.getTodaysQuote()
     let nextFeast = DataManager.shared.getNextLiturgicalDay()
+    let todaysFeast = DataManager.shared.getTodaysLiturgicalDayName()
     @State private var showingAbout = false
     
     var body: some View {
@@ -67,6 +68,14 @@ struct ContentView: View {
                             .font(.system(size: dynamicAuthorFontSize(for: quote.text), weight: .regular, design: .serif))
                             .foregroundColor(Color(red: 0.5, green: 0.5, blue: 0.5))
                             .italic()
+
+                        // Today's feast day indicator (if applicable)
+                        if let feastDay = todaysFeast {
+                            Text("✦ \(feastDay)")
+                                .font(.system(size: 11, weight: .regular, design: .serif))
+                                .foregroundColor(Color(red: 0.6, green: 0.6, blue: 0.6))
+                                .padding(.top, 6)
+                        }
                     } else {
                         Text("Loading quotes...")
                             .font(.system(size: 18, weight: .regular, design: .serif))
