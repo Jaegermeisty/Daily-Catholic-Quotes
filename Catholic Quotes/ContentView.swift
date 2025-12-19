@@ -213,7 +213,7 @@ struct ContentView: View {
         return renderer.uiImage
     }
 
-    // Share quote with both image and text
+    // Share quote as image
     private func shareQuote(quote: Quote) {
         Task { @MainActor in
             var items: [Any] = []
@@ -222,9 +222,6 @@ struct ContentView: View {
             if let image = generateQuoteImage(quote: quote) {
                 items.append(image)
             }
-
-            // Add text version
-            items.append(formatShareText(quote: quote))
 
             // Update state and show share sheet
             self.shareItems = items
