@@ -164,9 +164,7 @@ struct ContentView: View {
             AboutView()
         }
         .sheet(isPresented: $showingShareSheet) {
-            if let quote = quote {
-                ShareSheet(activityItems: shareItems)
-            }
+            ShareSheet(activityItems: shareItems)
         }
     }
     
@@ -217,11 +215,11 @@ struct ContentView: View {
 
     // Share quote with both image and text
     private func shareQuote(quote: Quote) {
-        Task {
+        Task { @MainActor in
             var items: [Any] = []
 
             // Generate and add image
-            if let image = await generateQuoteImage(quote: quote) {
+            if let image = generateQuoteImage(quote: quote) {
                 items.append(image)
             }
 
@@ -229,10 +227,8 @@ struct ContentView: View {
             items.append(formatShareText(quote: quote))
 
             // Update state and show share sheet
-            await MainActor.run {
-                self.shareItems = items
-                self.showingShareSheet = true
-            }
+            self.shareItems = items
+            self.showingShareSheet = true
         }
     }
 }
