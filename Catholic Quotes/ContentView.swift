@@ -67,12 +67,14 @@ struct QuoteImageView: View {
 }
 
 struct ContentView: View {
-    let quote = DataManager.shared.getTodaysQuote()
-    let nextFeast = DataManager.shared.getNextLiturgicalDay()
-    let todaysFeast = DataManager.shared.getTodaysLiturgicalDayName()
+    @State private var quote = DataManager.shared.getTodaysQuote()
+    @State private var nextFeast = DataManager.shared.getNextLiturgicalDay()
+    @State private var todaysFeast = DataManager.shared.getTodaysLiturgicalDayName()
+    @State private var lastRefreshDate = Calendar.current.startOfDay(for: Date())
     @State private var showingAbout = false
     @State private var showingShareSheet = false
     @State private var shareItems: [Any] = []
+    @Environment(\.scenePhase) private var scenePhase
     
     var body: some View {
         ZStack {
@@ -175,6 +177,16 @@ struct ContentView: View {
         .sheet(isPresented: $showingShareSheet) {
             ShareSheet(activityItems: shareItems)
         }
+        .onChange(of: scenePhase) { oldPhase, newPhase in
+            // Refresh when app becomes active
+            if newPhase == .active {
+                refreshQuotesIfNeeded()
+            }
+        }
+        .onReceive(NotificationCenter.default.publisher(for: UIApplication.significantTimeChangeNotification)) { _ in
+            // Refresh when significant time change occurs (e.g., midnight, timezone change)
+            refreshQuotesIfNeeded()
+        }
     }
     
     // Calculate dynamic font size based on quote length
@@ -200,6 +212,20 @@ struct ContentView: View {
         let quoteSize = dynamicFontSize(for: text)
         return quoteSize * 0.7
     }
+
+    // Refresh quotes when date changes
+    private func refreshQuotesIfNeeded() {
+        let today = Calendar.current.startOfDay(for: Date())
+
+        // Only refresh if the day has changed
+        if today != lastRefreshDate {
+            quote = DataManager.shared.getTodaysQuote()
+            nextFeast = DataManager.shared.getNextLiturgicalDay()
+            todaysFeast = DataManager.shared.getTodaysLiturgicalDayName()
+            lastRefreshDate = today
+        }
+    }
+
     private func formatShareText(quote: Quote) -> String {
         return """
         "\(quote.text)"
