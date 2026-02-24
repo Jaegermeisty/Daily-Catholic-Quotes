@@ -71,8 +71,7 @@ struct ContentView: View {
     let nextFeast = DataManager.shared.getNextLiturgicalDay()
     let todaysFeast = DataManager.shared.getTodaysLiturgicalDayName()
     @State private var showingAbout = false
-    @State private var showingShareSheet = false
-    @State private var shareItems: [Any] = []
+    @State private var sharePayload: SharePayload?
     
     var body: some View {
         ZStack {
@@ -172,8 +171,8 @@ struct ContentView: View {
         .sheet(isPresented: $showingAbout) {
             AboutView()
         }
-        .sheet(isPresented: $showingShareSheet) {
-            ShareSheet(activityItems: shareItems)
+        .sheet(item: $sharePayload) { payload in
+            ShareSheet(activityItems: payload.items)
         }
     }
     
@@ -229,14 +228,16 @@ struct ContentView: View {
             return
         }
 
-        // Update state with the image
-        self.shareItems = [image]
-
-        // Small delay to ensure state is ready before presenting sheet
-        DispatchQueue.main.asyncAfter(deadline: .now() + 0.1) {
-            self.showingShareSheet = true
+        // Present share sheet only after items exist
+        DispatchQueue.main.async {
+            self.sharePayload = SharePayload(items: [image])
         }
     }
+}
+
+struct SharePayload: Identifiable {
+    let id = UUID()
+    let items: [Any]
 }
 
 // UIActivityViewController wrapper for SwiftUI
