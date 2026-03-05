@@ -23,16 +23,21 @@ struct QuoteProvider: TimelineProvider {
     func getTimeline(in context: Context, completion: @escaping (Timeline<QuoteEntry>) -> Void) {
         let now = Date()
         let calendar = Calendar.current
-        
-        // Calculate midnight tonight (start of next day)
-        let tomorrow = calendar.date(byAdding: .day, value: 1, to: now)!
-        let midnightTonight = calendar.startOfDay(for: tomorrow)
-        
-        let currentQuote = DataManager.shared.getTodaysQuote()
-        let entry = QuoteEntry(date: now, quote: currentQuote)
-        
-        // Tell iOS to refresh at midnight
-        let timeline = Timeline(entries: [entry], policy: .after(midnightTonight))
+
+        let startOfToday = calendar.startOfDay(for: now)
+        let daysToGenerate = 30
+        var entries: [QuoteEntry] = []
+        entries.reserveCapacity(daysToGenerate)
+
+        for offset in 0..<daysToGenerate {
+            if let date = calendar.date(byAdding: .day, value: offset, to: startOfToday) {
+                let quote = DataManager.shared.getQuote(for: date)
+                entries.append(QuoteEntry(date: date, quote: quote))
+            }
+        }
+
+        // Provide a buffer of future entries and let WidgetKit refresh at the end
+        let timeline = Timeline(entries: entries, policy: .atEnd)
         completion(timeline)
     }
 }

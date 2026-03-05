@@ -5,6 +5,7 @@ class ShuffleManager {
     private let userDefaults = UserDefaults(suiteName: "group.com.mathias.Catholic-Quotes")!
     private let shuffleStateKey = "shuffleState"
     private let lastUpdatedKey = "lastUpdatedDate"
+    private let anchorDateKey = "shuffleAnchorDate"
     
     // Reference to the quotes database
     private var allQuotes: [Quote] = []
@@ -17,25 +18,27 @@ class ShuffleManager {
     
     /// Get the appropriate common quote for today
     func getTodaysCommonQuote() -> Quote? {
-        // Check if we need to update (new day)
-        if shouldUpdateForNewDay() {
-            incrementToNextQuote()
-        }
-        
-        // Get current state
-        let state = loadShuffleState()
-        
-        // Get the quote at current position
-        guard state.currentIndex < state.shuffledOrder.count else {
-            print("⚠️ Index out of bounds, resetting shuffle")
+        return getQuote(for: Date())
+    }
+
+    /// Get the appropriate common quote for a specific date (deterministic)
+    func getQuote(for date: Date) -> Quote? {
+        var state = loadShuffleState()
+
+        if state.shuffledOrder.isEmpty {
+            print("⚠️ Empty shuffle state, resetting shuffle")
             resetShuffle()
-            return getTodaysCommonQuote()
+            state = loadShuffleState()
         }
-        
-        let quoteId = state.shuffledOrder[state.currentIndex]
-        
-        print("🔀 Shuffle cycle \(state.cycleNumber), position \(state.currentIndex + 1)/791, showing quote ID \(quoteId)")
-        
+
+        guard !state.shuffledOrder.isEmpty else {
+            return nil
+        }
+
+        let anchorDate = loadAnchorDate(using: state)
+        let index = indexForDate(date, anchorDate: anchorDate, count: state.shuffledOrder.count)
+        let quoteId = state.shuffledOrder[index]
+
         return allQuotes.first { $0.id == quoteId }
     }
     
@@ -118,6 +121,7 @@ class ShuffleManager {
     func resetShuffle() {
         let newState = createInitialShuffle()
         saveShuffleState(newState)
+        userDefaults.set(Calendar.current.startOfDay(for: Date()), forKey: anchorDateKey)
         print("🔄 Shuffle reset to beginning")
     }
     
@@ -126,5 +130,33 @@ class ShuffleManager {
         let formatter = DateFormatter()
         formatter.dateFormat = "yyyy-MM-dd"
         return formatter.string(from: date)
+    }
+
+    private func loadAnchorDate(using state: PlaybackState) -> Date {
+        if let stored = userDefaults.object(forKey: anchorDateKey) as? Date {
+            return stored
+        }
+
+        let calendar = Calendar.current
+        let today = calendar.startOfDay(for: Date())
+        let maxIndex = max(state.shuffledOrder.count - 1, 0)
+        let safeIndex = min(max(state.currentIndex, 0), maxIndex)
+        let anchor = calendar.date(byAdding: .day, value: -safeIndex, to: today) ?? today
+        userDefaults.set(anchor, forKey: anchorDateKey)
+        return anchor
+    }
+
+    private func indexForDate(_ date: Date, anchorDate: Date, count: Int) -> Int {
+        let calendar = Calendar.current
+        let start = calendar.startOfDay(for: anchorDate)
+        let target = calendar.startOfDay(for: date)
+        let dayOffset = calendar.dateComponents([.day], from: start, to: target).day ?? 0
+        return wrapIndex(dayOffset, count: count)
+    }
+
+    private func wrapIndex(_ value: Int, count: Int) -> Int {
+        guard count > 0 else { return 0 }
+        let mod = value % count
+        return mod >= 0 ? mod : mod + count
     }
 }

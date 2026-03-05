@@ -73,25 +73,37 @@ class DataManager {
     // MARK: - Get Today's Quote
     
     func getTodaysQuote() -> Quote? {
-        // First priority: Check if today is a liturgical day
-        if let liturgicalQuote = getTodaysLiturgicalQuote() {
+        return getQuote(for: Date())
+    }
+
+    /// Get the appropriate quote for a specific date
+    func getQuote(for date: Date) -> Quote? {
+        // First priority: Check if this is a liturgical day
+        if let liturgical = getLiturgicalQuote(for: date) {
+            if Calendar.current.isDate(date, inSameDayAs: Date()) {
+                todaysLiturgicalCelebration = liturgical.celebration
+            }
             return Quote(
                 id: -1,  // Special ID for liturgical quotes
-                text: liturgicalQuote.text,
-                author: liturgicalQuote.author
+                text: liturgical.quote.text,
+                author: liturgical.quote.author
             )
         }
-        
-        // Second priority: Get common quote from shuffle
-        return shuffleManager.getTodaysCommonQuote()
+
+        // No liturgical day for this date
+        if Calendar.current.isDate(date, inSameDayAs: Date()) {
+            todaysLiturgicalCelebration = nil
+        }
+
+        // Second priority: Get common quote from shuffle (deterministic)
+        return shuffleManager.getQuote(for: date)
     }
     
-    /// Get liturgical quote for today (if any), handling conflicts by rank
-    private func getTodaysLiturgicalQuote() -> LiturgicalQuote? {
-        let today = Date()
+    /// Get liturgical quote for a specific date (if any), handling conflicts by rank
+    private func getLiturgicalQuote(for date: Date) -> (quote: LiturgicalQuote, celebration: String)? {
         let calendar = Calendar.current
-        let dateString = formatDateKey(today)
-        let currentYear = calendar.component(.year, from: today)
+        let dateString = formatDateKey(date)
+        let currentYear = calendar.component(.year, from: date)
 
         var celebrations: [(LiturgicalQuote, String, Int)] = [] // (quote, name, priority)
 
@@ -123,13 +135,9 @@ class DataManager {
             if celebrations.count > 1 {
                 print("   Resolved conflict with \(celebrations.count) celebrations")
             }
-            // Store the celebration name for getTodaysLiturgicalDayName() to use
-            todaysLiturgicalCelebration = highest.1
-            return highest.0
+            return (highest.0, highest.1)
         }
 
-        // No liturgical day today
-        todaysLiturgicalCelebration = nil
         return nil
     }
     
@@ -155,7 +163,7 @@ class DataManager {
     // MARK: - Get Today's Liturgical Day Name
 
     /// Returns the name of today's liturgical celebration if today is a special day
-    /// Note: This value is set by getTodaysLiturgicalQuote() and cached
+    /// Note: This value is set when getQuote(for:) is called with today's date
     func getTodaysLiturgicalDayName() -> String? {
         return todaysLiturgicalCelebration
     }

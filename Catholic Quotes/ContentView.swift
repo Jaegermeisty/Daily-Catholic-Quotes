@@ -1,4 +1,5 @@
 import SwiftUI
+import WidgetKit
 
 // View specifically for rendering as a shareable image
 struct QuoteImageView: View {
@@ -67,9 +68,10 @@ struct QuoteImageView: View {
 }
 
 struct ContentView: View {
-    let quote = DataManager.shared.getTodaysQuote()
-    let nextFeast = DataManager.shared.getNextLiturgicalDay()
-    let todaysFeast = DataManager.shared.getTodaysLiturgicalDayName()
+    @Environment(\.scenePhase) private var scenePhase
+    @State private var quote: Quote?
+    @State private var nextFeast: (name: String, dateString: String)?
+    @State private var todaysFeast: String?
     @State private var showingAbout = false
     @State private var sharePayload: SharePayload?
     
@@ -174,6 +176,14 @@ struct ContentView: View {
         .sheet(item: $sharePayload) { payload in
             ShareSheet(activityItems: payload.items)
         }
+        .onAppear {
+            refreshData()
+        }
+        .onChange(of: scenePhase) { phase in
+            if phase == .active {
+                refreshData()
+            }
+        }
     }
     
     // Calculate dynamic font size based on quote length
@@ -232,6 +242,13 @@ struct ContentView: View {
         DispatchQueue.main.async {
             self.sharePayload = SharePayload(items: [image])
         }
+    }
+
+    private func refreshData() {
+        quote = DataManager.shared.getTodaysQuote()
+        nextFeast = DataManager.shared.getNextLiturgicalDay()
+        todaysFeast = DataManager.shared.getTodaysLiturgicalDayName()
+        WidgetCenter.shared.reloadTimelines(ofKind: "QuoteWidget")
     }
 }
 
